@@ -16,3 +16,9 @@ untuk cara penggunaan dan instalasi silahkan kunjungi https://s.id/aurakomputer
 
 #### Pesantren  
 - add: form penginputan data kultum subuh pada absensi harian
+
+
+### 1.1.1
+
+
+### Core  - fix: update laraupdater / system updater ke versi terbaru
