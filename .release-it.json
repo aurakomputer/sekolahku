@@ -1,6 +1,9 @@
 {
   "github": {
     "release": true,
-    "assets": ["dist/*.zip"]
+    "assets": [
+      "dist/*.zip"
+    ],
+    "releaseNotes": "cat /tmp/changelog.md"
   }
 }
