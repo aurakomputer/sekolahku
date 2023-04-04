@@ -35,3 +35,15 @@ Tags: aplikasi sekolah, aplikasi sekolah gratis, sekolahku, aplikasi ppdb, aplik
 
 core:
 - fix: tidak bisa di buka pada beberapa browser lama
+
+
+### 2.0.1
+
+
+core:
+- hotifx: tidak bisa update melalui pengaturan,
+
+diharapkan untuk melakukan wajib update, dan bisa secara manual jika sudah
+pernah menginstall versi 2.0.0 sebelumnya
+
+terimakasih
