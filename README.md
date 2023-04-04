@@ -28,3 +28,10 @@ Tags: aplikasi sekolah, aplikasi sekolah gratis, sekolahku, aplikasi ppdb, aplik
 ### 1.1.1
 ### Core  
 - fix: update laraupdater / system updater ke versi terbaru
+
+
+### 2.0.0
+
+
+core:
+- fix: tidak bisa di buka pada beberapa browser lama
