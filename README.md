@@ -47,3 +47,15 @@ diharapkan untuk melakukan wajib update, dan bisa secara manual jika sudah
 pernah menginstall versi 2.0.0 sebelumnya
 
 terimakasih
+
+
+### 
+
+
+**core:**
+- add tailwind
+- some improve website landing
+
+
+**information:**
+- module baru untuk memberikan informasi data sekolah
