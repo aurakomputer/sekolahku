@@ -59,3 +59,9 @@ terimakasih
 
 **information:**
 - module baru untuk memberikan informasi data sekolah
+
+
+### 2.1.1
+
+
+new module: web information
