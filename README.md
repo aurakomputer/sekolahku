@@ -132,3 +132,9 @@ new module: web information
 ### /builds/aura-erp/build-cd/aura-erp/Modules/Industry
 ### /builds/aura-erp/build-cd/aura-erp/Modules/Student
 ### /builds/aura-erp/build-cd/aura-erp/Modules/Teacher
+
+
+### 20230429.12.22
+
+
+### /home/pangat/projects/build-cd/aura-erp
