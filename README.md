@@ -154,3 +154,13 @@ asd
 ### 20230515.06.29
 
 
+
+
+### 20230516.04.44
+
+
+- pencarian pada tampilan mobile - 0e896b4 (Mohamad Supangat, 2023-05-16)
+- mengedit data post tag - 639cf08 (Mohamad Supangat, 2023-05-15)
+- sukses melakukan tambah data tag - 99a59be (Mohamad Supangat, 2023-05-15)
+- menampilkan tag untuk mengisikan post - 300995f (Mohamad Supangat, 2023-05-15)
+- menu untuk menginput data post berdasarkan tags - 334b59b (Mohamad Supangat, 2023-05-15)
