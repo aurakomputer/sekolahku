@@ -80,3 +80,17 @@ terimakasih
 - sukses melakukan tambah data tag - 99a59be (Mohamad Supangat, 2023-05-15)
 - menampilkan tag untuk mengisikan post - 300995f (Mohamad Supangat, 2023-05-15)
 - menu untuk menginput data post berdasarkan tags - 334b59b (Mohamad Supangat, 2023-05-15)
+
+
+### 20230525.03.41
+
+
+- new laravel module: stub and config - 6c1ccaa (Mohamad Supangat, 2023-05-25)
+- layout: panel pengguna - 6c1b96e (Mohamad Supangat, 2023-05-24)
+- layout: menampilkan nama aplikasi yang sedang di buka sekarang - 5d34182 (Mohamad Supangat, 2023-05-24)
+- script: global $settings and settings helper - b6c403f (Mohamad Supangat, 2023-05-24)
+- menambahkan filter statuses dan positions pada database guru - 09ef059 (Mohamad Supangat, 2023-05-25)
+- fix: foto profil guru tidak teratur - 0804c3f (Mohamad Supangat, 2023-05-25)
+- todo: fixing foto profil berantakan - c8e0ba5 (Mohamad Supangat, 2023-05-24)
+- add module to teacher form - 9794554 (Mohamad Supangat, 2023-05-24)
+- sembunyikan tab untuk modules form yang tidak aktiv - 80ec6cd (Mohamad Supangat, 2023-05-24)
