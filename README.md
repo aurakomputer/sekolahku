@@ -94,3 +94,10 @@ terimakasih
 - todo: fixing foto profil berantakan - c8e0ba5 (Mohamad Supangat, 2023-05-24)
 - add module to teacher form - 9794554 (Mohamad Supangat, 2023-05-24)
 - sembunyikan tab untuk modules form yang tidak aktiv - 80ec6cd (Mohamad Supangat, 2023-05-24)
+
+
+### 20230612.01.28
+
+
+- menambah total replies pada commen - 0ada920 (Mohamad Supangat, 2023-06-11)
+- memperbaiki pagecontroller - e4ebccb (Mohamad Supangat, 2023-06-11)
