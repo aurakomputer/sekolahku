@@ -101,3 +101,9 @@ terimakasih
 
 - menambah total replies pada commen - 0ada920 (Mohamad Supangat, 2023-06-11)
 - memperbaiki pagecontroller - e4ebccb (Mohamad Supangat, 2023-06-11)
+
+
+### 20230614.12.51
+
+
+- fix: jika attachments tidak di inputkan - 20d2ffa (Mohamad Supangat, 2023-06-14)
