@@ -115,3 +115,8 @@ terimakasih
 - grapesjs editor tailwind - d027693 (Mohamad Supangat, 2023-06-14)
 - fix: featured - 1b2725a (Mohamad Supangat, 2023-06-15)
 - fix: jika attachments tidak di inputkan - 20d2ffa (Mohamad Supangat, 2023-06-14)
+
+
+### 20230710.06.58
+
+
