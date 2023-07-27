@@ -120,3 +120,14 @@ terimakasih
 ### 20230710.06.58
 
 
+
+
+### 20230727.09.26
+
+
+- fix:  delete announcement - ed93013 (Mohamad Supangat, 2023-07-27)
+- fixing: mobile hidden - 36db5a4 (Mohamad Supangat, 2023-07-27)
+- fix vue chat - be748aa (Mohamad Supangat, 2023-07-26)
+- Menampilkan rincian pembayaran - 2f28ad2 (Mohamad Supangat, 2023-07-27)
+- fix: print - 21a6a15 (Mohamad Supangat, 2023-07-27)
+- wip: template export register - e184477 (Mohamad Supangat, 2023-07-26)
