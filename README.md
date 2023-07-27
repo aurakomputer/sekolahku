@@ -157,3 +157,17 @@ terimakasih
 - Perbaikan urutan kategori rincian biaya - b5eb30d (Mohamad Supangat, 2023-07-27)
 - Menampilkan rincian pembayaran - 2f28ad2 (Mohamad Supangat, 2023-07-27)
 - fix: print - 21a6a15 (Mohamad Supangat, 2023-07-27)
+
+
+### 20230727.16.16
+
+
+- add comments table from vendor publish - 9d820b6 (Mohamad Supangat, 2023-07-27)
+- fix:  delete announcement - ed93013 (Mohamad Supangat, 2023-07-27)
+- fixing: mobile hidden - 36db5a4 (Mohamad Supangat, 2023-07-27)
+- jangan hapus majors - 6c9e280 (Mohamad Supangat, 2023-07-27)
+- Biaya pendaftaran: menambah fungsi duplikasi data - 396c554 (Mohamad Supangat, 2023-07-27)
+- fix: urutan nomor item biaya kembali ke 1 setiap category - ce8935a (Mohamad Supangat, 2023-07-27)
+- Perbaikan urutan kategori rincian biaya - b5eb30d (Mohamad Supangat, 2023-07-27)
+- Menampilkan rincian pembayaran - 2f28ad2 (Mohamad Supangat, 2023-07-27)
+- fix: print - 21a6a15 (Mohamad Supangat, 2023-07-27)
