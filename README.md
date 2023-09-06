@@ -186,3 +186,18 @@ terimakasih
 - fix: urutan nomor item biaya kembali ke 1 setiap category - ce8935a (Mohamad Supangat, 2023-07-27)
 - Perbaikan urutan kategori rincian biaya - b5eb30d (Mohamad Supangat, 2023-07-27)
 - Menampilkan rincian pembayaran - 2f28ad2 (Mohamad Supangat, 2023-07-27)
+
+
+### 20230906.07.15
+
+
+- fixing data - ecfa5ce (Mohamad Supangat, 2023-09-05)
+- drawer item baru - 4a52a1f (Mohamad Supangat, 2023-09-05)
+- fix dashboard page - 06fc359 (Mohamad Supangat, 2023-09-06)
+- fix: pencarian dan button untuk membuka buku point siswa - 1be6693 (Mohamad Supangat, 2023-09-05)
+- wip: melihat history untuk data riwayat pembinaan - 1440c2d (Mohamad Supangat, 2023-09-05)
+- dapat memilih rekap kategori mana yang  di tampilkan - e04605b (Mohamad Supangat, 2023-09-05)
+- menambah breadcrumb - 0d17aea (Mohamad Supangat, 2023-09-05)
+- heck - 10e7cdc (Mohamad Supangat, 2023-09-06)
+- disable internship template_confirm - 4b7bc6e (Mohamad Supangat, 2023-09-06)
+- format - 8e55b73 (Mohamad Supangat, 2023-09-06)
