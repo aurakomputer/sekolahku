@@ -217,3 +217,19 @@ terimakasih
 - heck - 10e7cdc (Mohamad Supangat, 2023-09-06)
 - disable internship template_confirm - 4b7bc6e (Mohamad Supangat, 2023-09-06)
 - format - 8e55b73 (Mohamad Supangat, 2023-09-06)
+
+
+### 20230906.07.35
+
+
+- fixing data - ecfa5ce (Mohamad Supangat, 2023-09-05)
+- fix dashboard page - 06fc359 (Mohamad Supangat, 2023-09-06)
+- fix: pencarian dan button untuk membuka buku point siswa - 1be6693 (Mohamad Supangat, 2023-09-05)
+- wip: melihat history untuk data riwayat pembinaan - 1440c2d (Mohamad Supangat, 2023-09-05)
+- dapat memilih rekap kategori mana yang  di tampilkan - e04605b (Mohamad Supangat, 2023-09-05)
+- menambah breadcrumb - 0d17aea (Mohamad Supangat, 2023-09-05)
+- dele in - 7390936 (Mohamad Supangat, 2023-09-06)
+- disable template confirm - 2cf0623 (Mohamad Supangat, 2023-09-06)
+- heck - 10e7cdc (Mohamad Supangat, 2023-09-06)
+- disable internship template_confirm - 4b7bc6e (Mohamad Supangat, 2023-09-06)
+- format - 8e55b73 (Mohamad Supangat, 2023-09-06)
