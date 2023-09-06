@@ -261,3 +261,19 @@ terimakasih
 - heck - 10e7cdc (Mohamad Supangat, 2023-09-06)
 - disable internship template_confirm - 4b7bc6e (Mohamad Supangat, 2023-09-06)
 - format - 8e55b73 (Mohamad Supangat, 2023-09-06)
+
+
+### 20230906.10.19
+
+
+- add except for maintenance mode - 8455f0a (Mohamad Supangat, 2023-09-06)
+- add router if updater - 53e093b (Mohamad Supangat, 2023-09-06)
+- check apakah router adalah updater - 26cbadd (Mohamad Supangat, 2023-09-06)
+- fix dashboard page - 06fc359 (Mohamad Supangat, 2023-09-06)
+- Revert "disable internship template_confirm" - 9f47ae6 (Mohamad Supangat, 2023-09-06)
+- sem - e300e25 (Mohamad Supangat, 2023-09-06)
+- dele in - 7390936 (Mohamad Supangat, 2023-09-06)
+- disable template confirm - 2cf0623 (Mohamad Supangat, 2023-09-06)
+- heck - 10e7cdc (Mohamad Supangat, 2023-09-06)
+- disable internship template_confirm - 4b7bc6e (Mohamad Supangat, 2023-09-06)
+- format - 8e55b73 (Mohamad Supangat, 2023-09-06)
