@@ -404,3 +404,11 @@ terimakasih
 
 
 - backup db - de20cc8 (Mohamad Supangat, 2023-09-08)
+
+
+### 20230908.01.59
+
+
+- backup db - de20cc8 (Mohamad Supangat, 2023-09-08)
+- penggunaan fungsi empty - 6213876 (Mohamad Supangat, 2023-09-08)
+- jika sudah ada data siswa di temukan maka lakuka update data industry yang tidak ada / kosong - a142ed0 (Mohamad Supangat, 2023-09-08)
