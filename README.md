@@ -431,3 +431,15 @@ terimakasih
 - Ketika scan qr menambah category id - f9097c2 (Mohamad Supangat, 2023-09-08)
 - penggunaan fungsi empty - 6213876 (Mohamad Supangat, 2023-09-08)
 - jika sudah ada data siswa di temukan maka lakuka update data industry yang tidak ada / kosong - a142ed0 (Mohamad Supangat, 2023-09-08)
+
+
+### 20230910.14.19
+
+
+- jika tidak ada route untuk update profile jangan tampilkan button - 443300b (Mohamad Supangat, 2023-09-09)
+- wip: multiple login: add parent as login type - 8046e8c (Mohamad Supangat, 2023-09-09)
+- download database excel beserta data pembinaan - b06bdab (Mohamad Supangat, 2023-09-10)
+- Judul pada category card terlalu besar - 834ca89 (Mohamad Supangat, 2023-09-10)
+- menampilkan point pelanggaran pada login orang tua - 4c00fcb (Mohamad Supangat, 2023-09-09)
+- route untuk update data siswa dari orang tua - 706ac19 (Mohamad Supangat, 2023-09-09)
+- parent login - 3fc22e9 (Mohamad Supangat, 2023-09-09)
