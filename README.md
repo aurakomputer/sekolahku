@@ -484,3 +484,20 @@ terimakasih
 - Menambah update data breadcrumbs - eca9ea3 (Mohamad Supangat, 2023-09-15)
 - fix: chart tidak nampil di internship - 35ac43b (Mohamad Supangat, 2023-09-16)
 - otomatis ubah password orangtua dengan nama ketika siswa update data - e863b6f (Mohamad Supangat, 2023-09-16)
+
+
+### 20230916.13.41
+
+
+- noitem pengmuman - a8835d1 (Mohamad Supangat, 2023-09-16)
+- fixing - b5a8254 (Mohamad Supangat, 2023-09-16)
+- push - 0e75d27 (Mohamad Supangat, 2023-09-16)
+- Menampilkan dashboard untuk orang tua - f7c8b87 (Mohamad Supangat, 2023-09-16)
+- Menampilkan dashboard siswa - 8495215 (Mohamad Supangat, 2023-09-16)
+- chart kategori dan  kejuaraan - 004debb (Mohamad Supangat, 2023-09-16)
+- Menampilkan data trending kategori dalam tahunan - 9bbcc23 (Mohamad Supangat, 2023-09-16)
+- Menambah type pada kejuaraan - 10ba6ea (Mohamad Supangat, 2023-09-16)
+- preapre card - f9f7767 (Mohamad Supangat, 2023-09-15)
+- fix: detail - 0e15d1e (Mohamad Supangat, 2023-09-15)
+- fix: chart tidak nampil di internship - 35ac43b (Mohamad Supangat, 2023-09-16)
+- otomatis ubah password orangtua dengan nama ketika siswa update data - e863b6f (Mohamad Supangat, 2023-09-16)
