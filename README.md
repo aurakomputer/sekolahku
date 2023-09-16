@@ -517,3 +517,20 @@ terimakasih
 - fix: chart tidak nampil di internship - 35ac43b (Mohamad Supangat, 2023-09-16)
 - menambah component untuk mmemilih tahun ajaran menggunakan api - 37f058e (Mohamad Supangat, 2023-09-16)
 - otomatis ubah password orangtua dengan nama ketika siswa update data - e863b6f (Mohamad Supangat, 2023-09-16)
+
+
+### 20230916.15.47
+
+
+- sembunyikan judul pNel penggun - 522e2a4 (Mohamad Supangat, 2023-09-16)
+- noitem pengmuman - a8835d1 (Mohamad Supangat, 2023-09-16)
+- fixing - b5a8254 (Mohamad Supangat, 2023-09-16)
+- push - 0e75d27 (Mohamad Supangat, 2023-09-16)
+- Menampilkan dashboard untuk orang tua - f7c8b87 (Mohamad Supangat, 2023-09-16)
+- Menampilkan dashboard siswa - 8495215 (Mohamad Supangat, 2023-09-16)
+- chart kategori dan  kejuaraan - 004debb (Mohamad Supangat, 2023-09-16)
+- Menampilkan data trending kategori dalam tahunan - 9bbcc23 (Mohamad Supangat, 2023-09-16)
+- Menambah type pada kejuaraan - 10ba6ea (Mohamad Supangat, 2023-09-16)
+- fix: chart tidak nampil di internship - 35ac43b (Mohamad Supangat, 2023-09-16)
+- menambah component untuk mmemilih tahun ajaran menggunakan api - 37f058e (Mohamad Supangat, 2023-09-16)
+- otomatis ubah password orangtua dengan nama ketika siswa update data - e863b6f (Mohamad Supangat, 2023-09-16)
