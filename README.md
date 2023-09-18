@@ -534,3 +534,15 @@ terimakasih
 - fix: chart tidak nampil di internship - 35ac43b (Mohamad Supangat, 2023-09-16)
 - menambah component untuk mmemilih tahun ajaran menggunakan api - 37f058e (Mohamad Supangat, 2023-09-16)
 - otomatis ubah password orangtua dengan nama ketika siswa update data - e863b6f (Mohamad Supangat, 2023-09-16)
+
+
+### 20230918.08.31
+
+
+- hapus ScanQr code dari daftar aplikasi dan pindahkan ke tombol sendiri di judul daftar aplikasi - 7656bd0 (Mohamad Supangat, 2023-09-18)
+- fix: error untuk data bertipe array pada master excel, dan database transcation middleware - c4e72b4 (Mohamad Supangat, 2023-09-18)
+- fixing: read - 3d77e3c (Mohamad Supangat, 2023-09-18)
+- login aplikasi gufixing login - 405cd1b (Mohamad Supangat, 2023-09-18)
+- fixing permission prestasi - 47d4392 (Mohamad Supangat, 2023-09-18)
+- menghilangkan beberapa dense - ae5f64d (Mohamad Supangat, 2023-09-18)
+- menu daftar prestasi - aa95253 (Mohamad Supangat, 2023-09-18)
