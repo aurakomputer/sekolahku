@@ -546,3 +546,12 @@ terimakasih
 - fixing permission prestasi - 47d4392 (Mohamad Supangat, 2023-09-18)
 - menghilangkan beberapa dense - ae5f64d (Mohamad Supangat, 2023-09-18)
 - menu daftar prestasi - aa95253 (Mohamad Supangat, 2023-09-18)
+
+
+### 20230930.08.10
+
+
+- membuat license card menjadi low rank - bcc9a7b (Mohamad Supangat, 2023-09-30)
+- fungsi untuk melakukan reset table database - c4dbeeb (Mohamad Supangat, 2023-09-30)
+- remove io from import script - 69586d8 (Mohamad Supangat, 2023-09-30)
+- Merge branch 'feature/guru' - 43d8b9d (Mohamad Supangat, 2023-09-30)
