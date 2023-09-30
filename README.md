@@ -555,3 +555,14 @@ terimakasih
 - fungsi untuk melakukan reset table database - c4dbeeb (Mohamad Supangat, 2023-09-30)
 - remove io from import script - 69586d8 (Mohamad Supangat, 2023-09-30)
 - Merge branch 'feature/guru' - 43d8b9d (Mohamad Supangat, 2023-09-30)
+
+
+### 20230930.08.20
+
+
+- upgrade package - 5ec245e (Mohamad Supangat, 2023-09-30)
+- Menambah beberapa pengaturan sekolah - 00d7e84 (Mohamad Supangat, 2023-09-30)
+- membuat license card menjadi low rank - bcc9a7b (Mohamad Supangat, 2023-09-30)
+- fungsi untuk melakukan reset table database - c4dbeeb (Mohamad Supangat, 2023-09-30)
+- remove io from import script - 69586d8 (Mohamad Supangat, 2023-09-30)
+- Merge branch 'feature/guru' - 43d8b9d (Mohamad Supangat, 2023-09-30)
