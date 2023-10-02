@@ -566,3 +566,12 @@ terimakasih
 - fungsi untuk melakukan reset table database - c4dbeeb (Mohamad Supangat, 2023-09-30)
 - remove io from import script - 69586d8 (Mohamad Supangat, 2023-09-30)
 - Merge branch 'feature/guru' - 43d8b9d (Mohamad Supangat, 2023-09-30)
+
+
+### 20231002.09.14
+
+
+- fix: migrate button dan menambahakan beberapa middleware - 997ab13 (Mohamad Supangat, 2023-10-02)
+- fix indent - 2c3a901 (Mohamad Supangat, 2023-10-02)
+- fix: mengupdate password - 0f071e5 (Mohamad Supangat, 2023-10-02)
+- Menambah hlaaman pengaturan untuk mereset password siswa yang di tuju - 2c664e4 (Mohamad Supangat, 2023-10-02)
