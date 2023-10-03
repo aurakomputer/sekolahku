@@ -575,3 +575,16 @@ terimakasih
 - fix indent - 2c3a901 (Mohamad Supangat, 2023-10-02)
 - fix: mengupdate password - 0f071e5 (Mohamad Supangat, 2023-10-02)
 - Menambah hlaaman pengaturan untuk mereset password siswa yang di tuju - 2c664e4 (Mohamad Supangat, 2023-10-02)
+
+
+### 20231003.04.04
+
+
+- memperbaiki fungsi ketika upgrade - d02bc9a (Mohamad Supangat, 2023-10-03)
+- git ignore bak files and folder - fda28f3 (Mohamad Supangat, 2023-10-03)
+- navbar: sembunyikan phone number dan email pada header jika tidak mempunyai data - ab05008 (Mohamad Supangat, 2023-10-03)
+- fix: migrate button dan menambahakan beberapa middleware - 997ab13 (Mohamad Supangat, 2023-10-02)
+- fix indent - 2c3a901 (Mohamad Supangat, 2023-10-02)
+- disable resetPassword calling - 03faa7e (Mohamad Supangat, 2023-10-03)
+- fix: mengupdate password - 0f071e5 (Mohamad Supangat, 2023-10-02)
+- Menambah hlaaman pengaturan untuk mereset password siswa yang di tuju - 2c664e4 (Mohamad Supangat, 2023-10-02)
