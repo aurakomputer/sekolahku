@@ -588,3 +588,15 @@ terimakasih
 - disable resetPassword calling - 03faa7e (Mohamad Supangat, 2023-10-03)
 - fix: mengupdate password - 0f071e5 (Mohamad Supangat, 2023-10-02)
 - Menambah hlaaman pengaturan untuk mereset password siswa yang di tuju - 2c664e4 (Mohamad Supangat, 2023-10-02)
+
+
+### 20231004.07.40
+
+
+- change default font size and padding - 193c3c0 (Mohamad Supangat, 2023-10-04)
+- fixing reset css - f149922 (Mohamad Supangat, 2023-10-04)
+- landing page - c5542b4 (Mohamad Supangat, 2023-10-03)
+- memperbaiki font - fab567d (Mohamad Supangat, 2023-10-04)
+- fixing reset css - c32d9d1 (Mohamad Supangat, 2023-10-04)
+- Menampilkan link halaman - 87caee6 (Mohamad Supangat, 2023-10-04)
+- Menambah default listview untuk posts dan digunakan di semua agar lebih terorganisir - d0f52f5 (Mohamad Supangat, 2023-10-04)
