@@ -600,3 +600,21 @@ terimakasih
 - fixing reset css - c32d9d1 (Mohamad Supangat, 2023-10-04)
 - Menampilkan link halaman - 87caee6 (Mohamad Supangat, 2023-10-04)
 - Menambah default listview untuk posts dan digunakan di semua agar lebih terorganisir - d0f52f5 (Mohamad Supangat, 2023-10-04)
+
+
+### 20231024.07.46
+
+
+- remove db trasnaction - 733298c (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 17570df (Mohamad Supangat, 2023-10-24)
+- controller - 68fdba6 (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 13df27b (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 801a48e (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 00576e7 (Mohamad Supangat, 2023-10-24)
+- fix: invalid date jika date null - e225ecf (Mohamad Supangat, 2023-10-24)
+- fix: memperbaiki proses import dengan menambahkan category_id ketika menyimpan data - 8ed1dcc (Mohamad Supangat, 2023-10-24)
+- wip: dapat menyimpan pelanggaran dengan data kosong - adcb289 (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 923aec0 (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 2470c1a (Mohamad Supangat, 2023-10-24)
+- remove db trasnaction - 54e3aea (Mohamad Supangat, 2023-10-24)
+- removeremove db trasaction - 6fa84b3 (Mohamad Supangat, 2023-10-24)
