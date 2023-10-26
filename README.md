@@ -618,3 +618,11 @@ terimakasih
 - remove db trasnaction - 2470c1a (Mohamad Supangat, 2023-10-24)
 - remove db trasnaction - 54e3aea (Mohamad Supangat, 2023-10-24)
 - removeremove db trasaction - 6fa84b3 (Mohamad Supangat, 2023-10-24)
+
+
+### 20231026.07.05
+
+
+- wip: whatsapp event and integrate to roles - 49c0369 (Mohamad Supangat, 2023-10-26)
+- demo database seeder - eed1e5c (Mohamad Supangat, 2023-10-26)
+- demo seeder - ecac9a9 (Mohamad Supangat, 2023-10-26)
