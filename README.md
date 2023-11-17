@@ -626,3 +626,9 @@ terimakasih
 - wip: whatsapp event and integrate to roles - 49c0369 (Mohamad Supangat, 2023-10-26)
 - demo database seeder - eed1e5c (Mohamad Supangat, 2023-10-26)
 - demo seeder - ecac9a9 (Mohamad Supangat, 2023-10-26)
+
+
+### 20231117.03.49
+
+
+- Merge branch 'feature/pattern' into 'master' - 0a76a85 (Mohamad Supangat, 2023-11-17)
