@@ -645,3 +645,20 @@ terimakasih
 - Merge branch 'feature/pattern' - 1615416 (Mohamad Supangat, 2023-11-25)
 - Menambah navigasi dari list post - 2f3b7b2 (Mohamad Supangat, 2023-11-25)
 - Menambahkan tag post lain lain kedalam menu - ed5c8e9 (Mohamad Supangat, 2023-11-25)
+
+
+### 20231125.04.55
+
+
+- Merge branch 'features/upgrade' into 'master' - 20c2ace (Mohamad Supangat, 2023-11-25)
+- upgrade node_modules dan migrasi ke ejs - d23c9f4 (Mohamad Supangat, 2023-11-25)
+- fix: casscasde on delete ketika menghapus navigasi yang mempunyai anakan - 6763394 (Mohamad Supangat, 2023-11-25)
+- fix: ketika menghapus dan mengedit parent tidak bisa - 9832827 (Mohamad Supangat, 2023-11-25)
+- Merge branch 'feature/navbar' into 'master' - 9d2c1dd (Mohamad Supangat, 2023-11-25)
+- Generate navigation form parent_id - 7d28741 (Mohamad Supangat, 2023-11-25)
+- Open new tab pada navbar yang mempunyai fitur tersebut - 620bc7f (Mohamad Supangat, 2023-11-25)
+- Merge remote-tracking branch 'origin/feature/pattern' - afe4a53 (Mohamad Supangat, 2023-11-25)
+- update composer module - d044a2a (Mohamad Supangat, 2023-11-25)
+- Merge branch 'feature/pattern' - 1615416 (Mohamad Supangat, 2023-11-25)
+- Menambah navigasi dari list post - 2f3b7b2 (Mohamad Supangat, 2023-11-25)
+- Menambahkan tag post lain lain kedalam menu - ed5c8e9 (Mohamad Supangat, 2023-11-25)
