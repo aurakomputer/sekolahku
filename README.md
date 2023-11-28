@@ -705,3 +705,15 @@ terimakasih
 - fix: url is not id but slug - 3daecb3 (Mohamad Supangat, 2023-11-25)
 - Menambah navigasi dari list post - 2f3b7b2 (Mohamad Supangat, 2023-11-25)
 - Menambahkan tag post lain lain kedalam menu - ed5c8e9 (Mohamad Supangat, 2023-11-25)
+
+
+### 20231128.06.57
+
+
+- add meta og - 6a798f1 (Mohamad Supangat, 2023-11-28)
+- revert: Artisan migrate and seed after upgrade script - fed9809 (Mohamad Supangat, 2023-11-28)
+- remove api - d51e9a3 (Mohamad Supangat, 2023-11-27)
+- add meta:og - 65da365 (Mohamad Supangat, 2023-11-28)
+- format - f2d2d04 (Mohamad Supangat, 2023-11-28)
+- recap untuk blade - 58d6310 (Mohamad Supangat, 2023-11-11)
+- format json - 0de142b (Mohamad Supangat, 2023-11-28)
