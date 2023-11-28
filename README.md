@@ -717,3 +717,17 @@ terimakasih
 - format - f2d2d04 (Mohamad Supangat, 2023-11-28)
 - recap untuk blade - 58d6310 (Mohamad Supangat, 2023-11-11)
 - format json - 0de142b (Mohamad Supangat, 2023-11-28)
+
+
+### 20231128.09.58
+
+
+- Menampilkan kontak pada footer elemen - 08d627c (Mohamad Supangat, 2023-11-28)
+- Menyimpan data kontak lainya untuk di tampilkan di footer - 116645d (Mohamad Supangat, 2023-11-28)
+- Menambah beberapa pengaturan general setting - ba30f75 (Mohamad Supangat, 2023-11-28)
+- add meta og - 6a798f1 (Mohamad Supangat, 2023-11-28)
+- revert: Artisan migrate and seed after upgrade script - fed9809 (Mohamad Supangat, 2023-11-28)
+- add meta:og - 65da365 (Mohamad Supangat, 2023-11-28)
+- format - f2d2d04 (Mohamad Supangat, 2023-11-28)
+- recap untuk blade - 58d6310 (Mohamad Supangat, 2023-11-11)
+- format json - 0de142b (Mohamad Supangat, 2023-11-28)
