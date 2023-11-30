@@ -447,3 +447,8 @@
 - menambah status dan posisi guru - 7b39c82 (Mohamad Supangat, 2023-04-13)
 - jabatan fungsional - 44b59aa (Mohamad Supangat, 2023-04-12)
 - mengelola data status guru - fbb0e9f (Mohamad Supangat, 2023-04-12)
+
+
+### 20231130.04.38
+
+
