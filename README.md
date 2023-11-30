@@ -12,4 +12,9 @@ disini kamu bisa mendownload release terbaru dari aplikasi sekolahku https://git
 
 untuk cara penggunaan dan instalasi silahkan kunjungi https://s.id/aurakomputer
 
+## Changelog dan Perubahan Fitur
+untuk melihat perubahan fitur dari versi ke versi terdapat di [CHANGELOG.md](https://github.com/aurakomputer/sekolahku/blob/main/CHANGELOG.md)
+
 Tags: aplikasi sekolah, aplikasi sekolah gratis, sekolahku, aplikasi ppdb, aplikasi prakerin, aplikasi magang, aplikasi pesantren aplikasi point-pelanggaran siswa, aura-erp, sistem magang, akunting sekolah, pembayaran daftar ulang peserta didik baru, website landing page builder,
+
+
