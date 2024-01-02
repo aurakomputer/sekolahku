@@ -457,3 +457,63 @@
 ### 20231130.17.35
 
 
+
+
+### 20240102.16.10
+
+
+#### [aura-erp/aura-erp]
+- menambahkan readme.md untuk membuat cron job - 9c91ea3 (Mohamad Supangat, 2023-12-19) \n
+- naila helper hanya digunakan ketika yang login adalah guru - 162b944 (Mohamad Supangat, 2023-12-13) \n
+- Merge branch 'breadcrumbs2' into 'master' - bb51877 (Mohamad Supangat, 2023-12-13) \n
+- add naila.png - 560f7ab (Mohamad Supangat, 2023-12-13) \n
+- fix: naila menggunakan url dan key - e0bdc7e (Mohamad Supangat, 2023-12-13) \n
+- fix: nila helper - 326ee07 (Mohamad Supangat, 2023-12-13) \n
+- naila: animation - f983219 (Mohamad Supangat, 2023-12-13) \n
+- import mdi icon kedalam cdn.scss dan _globals.scss - 7d9ae73 (Mohamad Supangat, 2023-12-13) \n
+- wip: naila chat - 1c9b290 (Mohamad Supangat, 2023-12-12) \n
+- format: using laravel print - 88ed582 (Mohamad Supangat, 2023-12-11) \n
+- migrasi breadcrumb ke meta.php - 68ac2d4 (Mohamad Supangat, 2023-12-10) \n
+- Mengganti breadcrumbs dengan meta - 7cd60aa (Mohamad Supangat, 2023-12-08) \n
+- format - 4d099b5 (Mohamad Supangat, 2023-12-08) \n
+- lazyload - 9273b3e (Mohamad Supangat, 2023-12-04) \n
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- wip: testig - db6d41c (Mohamad Supangat, 2024-01-02) \n
+- Merge remote-tracking branch 'origin/dev' - 02af531 (Mohamad Supangat, 2023-12-23) \n
+- format: using laravel pint - 16f6dba (Mohamad Supangat, 2023-12-11) \n
+- Merge remote-tracking branch 'origin/dev' into dev - f07667f (Mohamad Supangat, 2023-11-28) \n
+- Menggunakan pdf untuk rekap laporan - ec691cd (Mohamad Supangat, 2023-11-28) \n
+- wip: mengirim recap - 7a6d1bd (Mohamad Supangat, 2023-11-11) \n
+#### [aura-whatsapp/WhatsAppStudent]
+- format: using laravel pint - a313b1c (Mohamad Supangat, 2023-12-11) \n
+#### [aura-whatsapp/WhatsApp]
+- format: using laravel pint - 6fd38d0 (Mohamad Supangat, 2023-12-11) \n
+#### [aura-erp/Information]
+- format: using laravel pint - cd37f78 (Mohamad Supangat, 2023-12-11) \n
+- wip: meta - 3619e41 (Mohamad Supangat, 2023-12-08) \n
+- rename prefix to panel - 2220ab9 (Mohamad Supangat, 2023-12-07) \n
+#### [aura-erp/Pesantren]
+- format: using laravel pint - 105c415 (Mohamad Supangat, 2023-12-11) \n
+#### [aura-erp/Payment]
+- format: using laravel pint - dbeb0f5 (Mohamad Supangat, 2023-12-11) \n
+#### [aura-erp/StudentRegistration]
+- Prepare meta - f84cf1b (Mohamad Supangat, 2023-12-23) \n
+- format: using laravel pint - db6f117 (Mohamad Supangat, 2023-12-11) \n
+- fix: perbaikan perhitungan dashboard dan pilih jadwal pada dashboard - 396d03c (Mohamad Supangat, 2023-12-10) \n
+#### [aura-erp/WifiShare]
+- format: using laravel pint - 492e851 (Mohamad Supangat, 2023-12-11) \n
+#### [aura-erp/ViolationPoint]
+- Merge remote-tracking branch 'origin/master' - 5b6b0ef (Mohamad Supangat, 2024-01-02) \n
+- rekap - 73b0a83 (Mohamad Supangat, 2024-01-01) \n
+- rekap - 3fc9b6f (Mohamad Supangat, 2024-01-01) \n
+- format: using laravel pint - aadac3b (Mohamad Supangat, 2023-12-11) \n
+#### [aura-erp/Internship]
+- update git ignore - c8b35ee (Mohamad Supangat, 2023-12-23) \n
+- format: using laravel pint - c3867ca (Mohamad Supangat, 2023-12-11) \n
+#### [aura-erp/Student]
+- format: using laravel pint - 03b0639 (Mohamad Supangat, 2023-12-11) \n
+- wip: merifisi data route - 1af855e (Mohamad Supangat, 2023-12-10) \n
+#### [aura-erp/Teacher]
+- WIP:  migrasi dari route resource ke split api - cee39c3 (Mohamad Supangat, 2023-12-23) \n
+- format: using laravel pint - 098adfc (Mohamad Supangat, 2023-12-11) \n
+- wip: meta - 46e0a66 (Mohamad Supangat, 2023-12-10) \n
