@@ -517,3 +517,8 @@
 - WIP:  migrasi dari route resource ke split api - cee39c3 (Mohamad Supangat, 2023-12-23) \n
 - format: using laravel pint - 098adfc (Mohamad Supangat, 2023-12-11) \n
 - wip: meta - 46e0a66 (Mohamad Supangat, 2023-12-10) \n
+
+
+### 20240102.16.18
+
+
