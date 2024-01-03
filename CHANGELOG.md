@@ -522,3 +522,26 @@
 ### 20240102.16.18
 
 
+
+
+### 20240103.20.21
+
+
+#### [aura-erp/aura-erp]
+- fix: pdf - 325a475 (Mohamad Supangat, 2024-01-04)
+- upgrade package - 5bf1eda (Mohamad Supangat, 2024-01-01)
+#### [aura-erp/Achievement]
+- format: using laravel pint - bd42876 (Mohamad Supangat, 2023-12-11)
+#### [aura-erp/StudentRegistration]
+- Menambahkan sumber informasi di dapatkan dari siswa mana - f04f868 (Mohamad Supangat, 2024-01-04)
+- wip: menambahkan sumber - 26b104d (Mohamad Supangat, 2024-01-03)
+- Menambahkan permission untuk menghapus data peserta pendaftaran - 2cbaf3b (Mohamad Supangat, 2024-01-03)
+#### [aura-erp/AlQuran]
+- format: using laravel pint - 5ca30f1 (Mohamad Supangat, 2023-12-11)
+#### [aura-erp/Industry]
+- format: using laravel pint - 58489f7 (Mohamad Supangat, 2023-12-11)
+#### [aura-erp/Student]
+- select-student.vue disable information props - a99cfc3 (Mohamad Supangat, 2024-01-04)
+- fix: .editorconfig in all module directory - b98329a (Mohamad Supangat, 2024-01-04)
+#### [aura-erp/Teacher]
+- revert resource route - c6878b7 (Mohamad Supangat, 2024-01-04)
