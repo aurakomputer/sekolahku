@@ -545,3 +545,13 @@
 - fix: .editorconfig in all module directory - b98329a (Mohamad Supangat, 2024-01-04)
 #### [aura-erp/Teacher]
 - revert resource route - c6878b7 (Mohamad Supangat, 2024-01-04)
+
+
+### 20240104.01.26
+
+
+#### [aura-erp/StudentRegistration]
+- fix: Menambahkan data sumber informasi pada form - a99bec6 (Mohamad Supangat, 2024-01-04)
+- fix: grafik chart tidak merender karena height tidak sesuai - c899100 (Mohamad Supangat, 2024-01-04)
+#### [aura-erp/Teacher]
+- component: add select-teacher component - 1166718 (Mohamad Supangat, 2024-01-04)
