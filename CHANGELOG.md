@@ -589,3 +589,10 @@
 - fix: remove unused component - 5d54de9 (Mohamad Supangat, 2024-01-04)
 #### [aura-erp/Teacher]
 - fix - 4cbb577 (Mohamad Supangat, 2024-01-04)
+
+
+### 20240111.04.40
+
+
+#### [aura-erp/aura-erp]
+- license: hanya tampilkan lisensi ketika sudah mendekati hari berakhir - 41a1ce8 (Mohamad Supangat, 2024-01-11)
