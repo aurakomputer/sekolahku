@@ -596,3 +596,10 @@
 
 #### [aura-erp/aura-erp]
 - license: hanya tampilkan lisensi ketika sudah mendekati hari berakhir - 41a1ce8 (Mohamad Supangat, 2024-01-11)
+
+
+### 20240111.05.19
+
+
+#### [aura-erp/aura-erp]
+- fix: tidak bisa upgrade karena command not found - 8e0c411 (Mohamad Supangat, 2024-01-11)
