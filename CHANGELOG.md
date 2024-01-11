@@ -555,3 +555,37 @@
 - fix: grafik chart tidak merender karena height tidak sesuai - c899100 (Mohamad Supangat, 2024-01-04)
 #### [aura-erp/Teacher]
 - component: add select-teacher component - 1166718 (Mohamad Supangat, 2024-01-04)
+
+
+### 20240111.04.19
+
+
+#### [aura-erp/aura-erp]
+- Menambahkan class optional pada label - f9fbd26 (Mohamad Supangat, 2024-01-11)
+- fix: menggunakan test mode pada mode import - d2836b6 (Mohamad Supangat, 2024-01-10)
+- migrasi dari hardcode script migrasi database kedalam command app:update-database - 8645ce3 (Mohamad Supangat, 2024-01-10)
+- Menambahkan fungsi untuk database transaction - e96d100 (Mohamad Supangat, 2024-01-10)
+- Menambahkan master layout untuk print - e0951dc (Mohamad Supangat, 2024-01-10)
+- export error data ke csv ketika import - e3446f4 (Mohamad Supangat, 2024-01-06)
+- wip: - 01e2a82 (Mohamad Supangat, 2024-01-06)
+- menambah beberapa helper migrate - 36c864f (Mohamad Supangat, 2024-01-04)
+#### [aura-erp/ViolationPoint]
+- rekap excel: perbaikan untuk yang tidak ada - 3d03947 (Mohamad Supangat, 2024-01-11)
+- fix: buku pelanggaran - 2678c47 (Mohamad Supangat, 2024-01-11)
+- fix: mengurutkan school class pada print buku point dengan urutan tahun ajaran terbaru terlebih dahulu - 635f1af (Mohamad Supangat, 2024-01-11)
+- fix: pengambilan data point pelanggaran dari start date s.d. end date - 64886b8 (Mohamad Supangat, 2024-01-11)
+- bu - 1d40969 (Mohamad Supangat, 2024-01-10)
+- wip: rekap riwayat pelanggaran per tanggal - 657363b (Mohamad Supangat, 2024-01-10)
+- Menambahkan button print pada dialog data siswa - ff5308b (Mohamad Supangat, 2024-01-10)
+- wip: print buku point siswa - 07476e4 (Mohamad Supangat, 2024-01-10)
+- fix: upload massal coacing input - 306db0f (Mohamad Supangat, 2024-01-10)
+- menambahkan informasi ketika import data point pelanggran - c57fd9f (Mohamad Supangat, 2024-01-09)
+- export - 4c96542 (Mohamad Supangat, 2024-01-06)
+- wip: pembinaan siswa import - b025f17 (Mohamad Supangat, 2024-01-04)
+- fix: tidak menampilkan judul siswa yang memerlukan pembinaan ketika tidak ada - e92144f (Mohamad Supangat, 2024-01-04)
+#### [aura-erp/Student]
+- menambahkan detail import ketika error - 0fbcef9 (Mohamad Supangat, 2024-01-09)
+- fix: mengubah resource ke controller tersendiri - 50c3bb0 (Mohamad Supangat, 2024-01-05)
+- fix: remove unused component - 5d54de9 (Mohamad Supangat, 2024-01-04)
+#### [aura-erp/Teacher]
+- fix - 4cbb577 (Mohamad Supangat, 2024-01-04)

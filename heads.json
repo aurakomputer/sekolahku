@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "325a47549ebf09a9e2c0b5d2de15eea31b960d06",
+  "aura-erp/aura-erp": "f9fbd26893d85150cbde4d5b0177ee7bd917ad57",
   "aura-whatsapp/WhatsAppViolationPoint": "db6d41cd679c9a0624fb40bfefcc03b8ffc43f21",
   "aura-whatsapp/WhatsAppStudent": "a313b1c42fdff7cb6bd2662a692095b522632af7",
   "aura-whatsapp/WhatsApp": "6fd38d097f9a713e36e7950892f61c914e94a860",
@@ -9,10 +9,10 @@
   "aura-erp/Payment": "dbeb0f5e359a000dd52bc4a4356d86d15b4bbf94",
   "aura-erp/StudentRegistration": "a99bec64b3c9bfe65f966041752e5d35b5a7dd31",
   "aura-erp/WifiShare": "492e85187e4d4376d22d120927a80faf60b0f603",
-  "aura-erp/ViolationPoint": "5b6b0ef46ace5d7dad5f5e7cb898aeca8b1c824e",
+  "aura-erp/ViolationPoint": "3d03947a270d283cd6e2368c51acea94713d9f2b",
   "aura-erp/AlQuran": "5ca30f17f407cffcf20791ad1d74c454767ac27b",
   "aura-erp/Internship": "c8b35ee9f7067f573048350b0d19d6951bf39bf8",
   "aura-erp/Industry": "58489f7e503b221869f969c989aeebfe23f70236",
-  "aura-erp/Student": "a99cfc312d570ca5679f231105bca71bb18b5c8d",
-  "aura-erp/Teacher": "11667187944fa2784ccacd2c125aa19f4969efff"
+  "aura-erp/Student": "0fbcef92f1baa47ab832ff830fe1c043c13c0009",
+  "aura-erp/Teacher": "4cbb577234077947dabbd4df0a087749562c739e"
 }
