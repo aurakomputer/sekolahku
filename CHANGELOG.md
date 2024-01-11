@@ -610,3 +610,11 @@
 
 #### [aura-erp/aura-erp]
 - fix: error - 64b1166 (Mohamad Supangat, 2024-01-11)
+
+
+### 20240111.07.35
+
+
+#### [aura-erp/aura-erp]
+- vite: "resources/styles/print.scss", - dbba036 (Mohamad Supangat, 2024-01-11)
+- htaccess: upgrade to php82 - c5c8aac (Mohamad Supangat, 2024-01-11)
