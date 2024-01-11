@@ -603,3 +603,10 @@
 
 #### [aura-erp/aura-erp]
 - fix: tidak bisa upgrade karena command not found - 8e0c411 (Mohamad Supangat, 2024-01-11)
+
+
+### 20240111.05.31
+
+
+#### [aura-erp/aura-erp]
+- fix: error - 64b1166 (Mohamad Supangat, 2024-01-11)
