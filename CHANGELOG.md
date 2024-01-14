@@ -618,3 +618,17 @@
 #### [aura-erp/aura-erp]
 - vite: "resources/styles/print.scss", - dbba036 (Mohamad Supangat, 2024-01-11)
 - htaccess: upgrade to php82 - c5c8aac (Mohamad Supangat, 2024-01-11)
+
+
+### 20240114.17.13
+
+
+#### [aura-erp/aura-erp]
+- Mengganti kata kata ketika alamat desa tidak di temukan - 3269035 (Mohamad Supangat, 2024-01-14)
+- update kata kata tanggal dan jam - aa74c67 (Mohamad Supangat, 2024-01-11)
+#### [aura-erp/StudentRegistration]
+- Menambahkan data dashboard informasi siswa - be67802 (Mohamad Supangat, 2024-01-14)
+- Menambah submber informasi untuk di export - 92a8284 (Mohamad Supangat, 2024-01-14)
+#### [aura-erp/ViolationPoint]
+- Memfilter kelas pada export data pelanggaran dengan tahun ajaran yang di pilih - 55005cc (Mohamad Supangat, 2024-01-12)
+- Tahun ajaran waijb - 16eb247 (Mohamad Supangat, 2024-01-12)
