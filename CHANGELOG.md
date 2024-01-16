@@ -667,3 +667,10 @@
 
 #### [aura-erp/Student]
 - reset hanya data siswa ketika submit - f680b43 (Mohamad Supangat, 2024-01-16)
+
+
+### 20240116.09.28
+
+
+#### [aura-erp/aura-erp]
+- datatable: default rowsPerPage: is 15 - c919666 (Mohamad Supangat, 2024-01-16)
