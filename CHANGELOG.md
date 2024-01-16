@@ -651,3 +651,12 @@
 ### 20240116.08.04
 
 
+
+
+### 20240116.08.26
+
+
+#### [aura-erp/aura-erp]
+- Menambahkan text-input pada datetime picker - c4c58ee (Mohamad Supangat, 2024-01-16)
+#### [aura-erp/Student]
+- Menambahkan data bermasalah - e8dc0a3 (Mohamad Supangat, 2024-01-16)
