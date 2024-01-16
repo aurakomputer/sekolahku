@@ -660,3 +660,10 @@
 - Menambahkan text-input pada datetime picker - c4c58ee (Mohamad Supangat, 2024-01-16)
 #### [aura-erp/Student]
 - Menambahkan data bermasalah - e8dc0a3 (Mohamad Supangat, 2024-01-16)
+
+
+### 20240116.08.45
+
+
+#### [aura-erp/Student]
+- reset hanya data siswa ketika submit - f680b43 (Mohamad Supangat, 2024-01-16)
