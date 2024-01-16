@@ -632,3 +632,17 @@
 #### [aura-erp/ViolationPoint]
 - Memfilter kelas pada export data pelanggaran dengan tahun ajaran yang di pilih - 55005cc (Mohamad Supangat, 2024-01-12)
 - Tahun ajaran waijb - 16eb247 (Mohamad Supangat, 2024-01-12)
+
+
+### 20240116.07.57
+
+
+#### [aura-erp/aura-erp]
+- upgrade plugin - 3fd36e9 (Mohamad Supangat, 2024-01-16)
+- Menambahkan beberapa props datatable - bc89e8a (Mohamad Supangat, 2024-01-16)
+#### [aura-erp/ViolationPoint]
+- fix: salah perijinan untuk mengakses data mutasi siswa - 7290269 (Mohamad Supangat, 2024-01-16)
+#### [aura-erp/Student]
+- Menambahkan jenis pindah sekolah - 177f171 (Mohamad Supangat, 2024-01-16)
+#### [aura-erp/Teacher]
+- fix: globEager di role form - 4d8ba65 (Mohamad Supangat, 2024-01-16)
