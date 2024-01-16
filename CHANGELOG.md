@@ -674,3 +674,12 @@
 
 #### [aura-erp/aura-erp]
 - datatable: default rowsPerPage: is 15 - c919666 (Mohamad Supangat, 2024-01-16)
+
+
+### 20240116.09.30
+
+
+#### [aura-erp/aura-erp]
+- datatable: default rowsPerPage: is 15 - c919666 (Mohamad Supangat, 2024-01-16)
+#### [aura-erp/StudentRegistration]
+- Melakukan dense - e7e6cfd (Mohamad Supangat, 2024-01-16)
