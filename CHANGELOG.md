@@ -705,3 +705,10 @@
 #### [aura-erp/Student]
 - resign: export excel - b793c02 (Mohamad Supangat, 2024-01-18)
 - resign: Menambahkan filter  tahun ajaran - ccc935f (Mohamad Supangat, 2024-01-18)
+
+
+### 20240118.09.20
+
+
+#### [aura-erp/ViolationPoint]
+- fix: mengahapus data coaching - 3f4a01f (Mohamad Supangat, 2024-01-18)
