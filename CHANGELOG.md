@@ -683,3 +683,25 @@
 - datatable: default rowsPerPage: is 15 - c919666 (Mohamad Supangat, 2024-01-16)
 #### [aura-erp/StudentRegistration]
 - Melakukan dense - e7e6cfd (Mohamad Supangat, 2024-01-16)
+
+
+### 20240118.08.36
+
+
+#### [aura-erp/aura-erp]
+- fungsi syncAttachment jika attachment bukanlah array dan tidak di ketahui maka attachment = [] / array kosong - da932d3 (Mohamad Supangat, 2024-01-18)
+#### [aura-erp/Payment]
+- format using blade formatter - bfe4e1b (Mohamad Supangat, 2024-01-18)
+#### [aura-erp/StudentRegistration]
+- dahsboard: split data tidak di terima dan tidak ada data - 8b551d9 (Mohamad Supangat, 2024-01-18)
+#### [aura-erp/ViolationPoint]
+- Merge branch 'edit-history' into 'master' - 5e20737 (Mohamad Supangat, 2024-01-18)
+- Rename judul point menjadi poin - f5f0819 (Mohamad Supangat, 2024-01-18)
+- Edit pembinaan siswa - e1b8cc2 (Mohamad Supangat, 2024-01-18)
+- Menyimpan data edit pelanggaran siswa - a7441c2 (Mohamad Supangat, 2024-01-18)
+- Merge remote-tracking branch 'origin/edit-history' into edit-history - 4f7cb74 (Mohamad Supangat, 2024-01-18)
+- wip: edit history - 006b789 (Mohamad Supangat, 2024-01-12)
+- wip: edit history - c719089 (Mohamad Supangat, 2024-01-12)
+#### [aura-erp/Student]
+- resign: export excel - b793c02 (Mohamad Supangat, 2024-01-18)
+- resign: Menambahkan filter  tahun ajaran - ccc935f (Mohamad Supangat, 2024-01-18)
