@@ -712,3 +712,10 @@
 
 #### [aura-erp/ViolationPoint]
 - fix: mengahapus data coaching - 3f4a01f (Mohamad Supangat, 2024-01-18)
+
+
+### 20240119.04.11
+
+
+#### [aura-erp/aura-erp]
+- Memperbaiki button helper agar tidak menghalangi aplikasi - 5c4df17 (Mohamad Supangat, 2024-01-19)
