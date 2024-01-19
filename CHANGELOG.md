@@ -728,3 +728,12 @@
 - Memperbaiki button helper agar tidak menghalangi aplikasi - 5c4df17 (Mohamad Supangat, 2024-01-19)
 #### [aura-erp/ViolationPoint]
 - fix: rekap laporan kategori tidak rapi karena tidak di dalam q-td - 198554f (Mohamad Supangat, 2024-01-19)
+
+
+### 20240119.06.52
+
+
+#### [aura-erp/aura-erp]
+- Menambahkan slot di component import export buttons - d2388bb (Mohamad Supangat, 2024-01-19)
+#### [aura-erp/Student]
+- export: mengeksport data siswa dengan grop per kelas - 0e2a4b2 (Mohamad Supangat, 2024-01-19)
