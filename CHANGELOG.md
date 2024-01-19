@@ -719,3 +719,12 @@
 
 #### [aura-erp/aura-erp]
 - Memperbaiki button helper agar tidak menghalangi aplikasi - 5c4df17 (Mohamad Supangat, 2024-01-19)
+
+
+### 20240119.04.14
+
+
+#### [aura-erp/aura-erp]
+- Memperbaiki button helper agar tidak menghalangi aplikasi - 5c4df17 (Mohamad Supangat, 2024-01-19)
+#### [aura-erp/ViolationPoint]
+- fix: rekap laporan kategori tidak rapi karena tidak di dalam q-td - 198554f (Mohamad Supangat, 2024-01-19)
