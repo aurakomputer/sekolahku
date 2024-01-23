@@ -737,3 +737,10 @@
 - Menambahkan slot di component import export buttons - d2388bb (Mohamad Supangat, 2024-01-19)
 #### [aura-erp/Student]
 - export: mengeksport data siswa dengan grop per kelas - 0e2a4b2 (Mohamad Supangat, 2024-01-19)
+
+
+### 20240123.05.33
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan table konfigurasi api untuk mengambil data kodepos - 70109a8 (Mohamad Supangat, 2024-01-23)
