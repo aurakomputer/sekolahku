@@ -744,3 +744,15 @@
 
 #### [aura-erp/aura-erp]
 - feat: menambahkan table konfigurasi api untuk mengambil data kodepos - 70109a8 (Mohamad Supangat, 2024-01-23)
+
+
+### 20240130.01.30
+
+
+#### [aura-erp/aura-erp]
+- Menambahkan props rowclick pada datatable - 978bf3b (Mohamad Supangat, 2024-01-30)
+#### [aura-erp/StudentRegistration]
+- fix: ketika registrasi dari web sumber informasi tidak tersimpan - 1f38328 (Mohamad Supangat, 2024-01-29)
+#### [aura-erp/ViolationPoint]
+- Menampilkan buku poin ketika mengeklik laporan rekap - 24a6178 (Mohamad Supangat, 2024-01-25)
+- perbaikan dashboard dan chart - f8a2d07 (Mohamad Supangat, 2024-01-25)
