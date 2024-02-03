@@ -756,3 +756,13 @@
 #### [aura-erp/ViolationPoint]
 - Menampilkan buku poin ketika mengeklik laporan rekap - 24a6178 (Mohamad Supangat, 2024-01-25)
 - perbaikan dashboard dan chart - f8a2d07 (Mohamad Supangat, 2024-01-25)
+
+
+### 20240203.15.51
+
+
+#### [aura-erp/aura-erp]
+- menambah beberapa props - 53f921d (Mohamad Supangat, 2024-02-03)
+#### [aura-erp/StudentRegistration]
+- default order untuk daftar smp dan total pendaftaran - ce8cc47 (Mohamad Supangat, 2024-02-03)
+- Menampilkan semua daftar daerah siswa dan mengurutkan berdasakan data terbanyak - 76bd8b1 (Mohamad Supangat, 2024-02-03)
