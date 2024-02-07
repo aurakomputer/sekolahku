@@ -814,3 +814,12 @@
 
 #### [aura-erp/aura-erp]
 - fix: new spatie middlewares namespace - db8b36d (Mohamad Supangat, 2024-02-08)
+
+
+### 20240207.20.33
+
+
+#### [aura-erp/aura-erp]
+- fix: licenseHideTime un declarated - bf70208 (Mohamad Supangat, 2024-02-08)
+#### [aura-erp/StudentRegistration]
+- menambah licensi route - b86b0a6 (Mohamad Supangat, 2024-02-08)
