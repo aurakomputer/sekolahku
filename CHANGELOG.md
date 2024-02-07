@@ -766,3 +766,44 @@
 #### [aura-erp/StudentRegistration]
 - default order untuk daftar smp dan total pendaftaran - ce8cc47 (Mohamad Supangat, 2024-02-03)
 - Menampilkan semua daftar daerah siswa dan mengurutkan berdasakan data terbanyak - 76bd8b1 (Mohamad Supangat, 2024-02-03)
+
+
+### 20240207.09.31
+
+
+#### [aura-erp/aura-erp]
+- update: composer - 2239a41 (Mohamad Supangat, 2024-02-07)
+- format: filesystem - a9daa29 (Mohamad Supangat, 2024-02-07)
+- fix: menambahkan kolom daftar aplikasi - 62f9a74 (Mohamad Supangat, 2024-02-07)
+- feat: membuat tombol aplikasi lebih menarik - e233bde (Mohamad Supangat, 2024-02-07)
+- Merge branch 'progress_pendataran' into 'master' - 5d13591 (Mohamad Supangat, 2024-02-06)
+- fix: revert back audit connection and fix: momentRange - ed2cf40 (Mohamad Supangat, 2024-02-06)
+- daftar menu aplikasi tidak usah pindah halaman - b0af19a (Mohamad Supangat, 2024-02-05)
+- Menambah dbal - 1d26079 (Mohamad Supangat, 2024-02-05)
+- ketika sqlite jangan drop foregin - 3127c88 (Mohamad Supangat, 2024-02-05)
+- using default database for storing audit - 24bbfa4 (Mohamad Supangat, 2024-02-05)
+- dashboard untuk daftar prorgress - 4bb489f (Mohamad Supangat, 2024-02-05)
+- fix: inputan uppercase langsung jadi tanpa perihal input - afaf27a (Mohamad Supangat, 2024-02-05)
+- fix: navigasi - b8ebdef (Mohamad Supangat, 2024-02-04)
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- format - 0aaf3bb (Mohamad Supangat, 2024-02-07)
+#### [aura-whatsapp/WhatsApp]
+- fix: jika whatsapp event tidak di temukan maka return default [] - 8609410 (Mohamad Supangat, 2024-02-06)
+#### [aura-erp/Information]
+- Menambahkan license - 4718ccf (Mohamad Supangat, 2024-02-07)
+#### [aura-erp/StudentRegistration]
+- fix: ketika prevSchedule tidak ada - 4fe3c0e (Mohamad Supangat, 2024-02-07)
+- fix: progress itu adalah jumlah s.d tanggal bukan rekap per tanggal - f8b1e8a (Mohamad Supangat, 2024-02-07)
+- format: phpcsfixer - dd8e1e3 (Mohamad Supangat, 2024-02-07)
+- Merge branch 'progress_pendafatan' into 'master' - 5230a73 (Mohamad Supangat, 2024-02-06)
+- fix: beberapa typo - c8f2776 (Mohamad Supangat, 2024-02-06)
+- fix: menghitung seberapa banyak orang yang sudah daftar ulang - 050a27b (Mohamad Supangat, 2024-02-06)
+- fix: perhitan payment date tidak valid - 205a913 (Mohamad Supangat, 2024-02-06)
+- wip: menampilkan progress - 73de614 (Mohamad Supangat, 2024-02-06)
+- riwayat progress - 6b7dd1a (Mohamad Supangat, 2024-02-06)
+- Mengambil data progress pendaftaran - 5595163 (Mohamad Supangat, 2024-02-05)
+- Menamabah data target pendaftaran pada setiap jadwal pendaftaran - 5b126cb (Mohamad Supangat, 2024-02-05)
+#### [aura-erp/ViolationPoint]
+- format point - 8f52bdb (Mohamad Supangat, 2024-02-07)
+#### [aura-erp/Student]
+- feat: api untuk mengambil semua data jurusan - 37f98cd (Mohamad Supangat, 2024-02-06)
