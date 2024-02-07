@@ -807,3 +807,10 @@
 - format point - 8f52bdb (Mohamad Supangat, 2024-02-07)
 #### [aura-erp/Student]
 - feat: api untuk mengambil semua data jurusan - 37f98cd (Mohamad Supangat, 2024-02-06)
+
+
+### 20240207.20.28
+
+
+#### [aura-erp/aura-erp]
+- fix: new spatie middlewares namespace - db8b36d (Mohamad Supangat, 2024-02-08)
