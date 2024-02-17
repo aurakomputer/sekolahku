@@ -823,3 +823,31 @@
 - fix: licenseHideTime un declarated - bf70208 (Mohamad Supangat, 2024-02-08)
 #### [aura-erp/StudentRegistration]
 - menambah licensi route - b86b0a6 (Mohamad Supangat, 2024-02-08)
+
+
+### 20240217.16.22
+
+
+#### [aura-erp/aura-erp]
+- revert: print pdf menggunakan bootstrap - 046f749 (Mohamad Supangat, 2024-02-17)
+- fix: permission error / bug aneh - 8b30da5 (Mohamad Supangat, 2024-02-17)
+- upgrade: laravel permission migration new fixing - 5a93acb (Mohamad Supangat, 2024-02-17)
+- update some config and permissions - 7d20a48 (Mohamad Supangat, 2024-02-16)
+- upgrade npm package - cc92016 (Mohamad Supangat, 2024-02-09)
+- upgrade: composer - d4c4841 (Mohamad Supangat, 2024-02-09)
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- fix: generate Recap Data - 5ecb6f9 (Mohamad Supangat, 2024-02-17)
+- fix: error - 355711a (Mohamad Supangat, 2024-02-17)
+#### [aura-whatsapp/WhatsApp]
+- fix: - 5689c6a (Mohamad Supangat, 2024-02-17)
+#### [aura-erp/ViolationPoint]
+- fix - 606825f (Mohamad Supangat, 2024-02-17)
+- asd - 7919533 (Mohamad Supangat, 2024-02-17)
+- todo: ketika siswa di hapus kemana choaching reminder ? - 770a814 (Mohamad Supangat, 2024-02-17)
+#### [aura-erp/Student]
+- fix: export excel mutasi siswa tidak mengexport catatan di hapus - cd56680 (Mohamad Supangat, 2024-02-09)
+#### [aura-erp/Teacher]
+- fix: sync roles tidak bekerja setelah update - 846b101 (Mohamad Supangat, 2024-02-17)
+- fixx - bc2aabe (Mohamad Supangat, 2024-02-17)
+- fix: ketika demo di seed maka menimbulkan error - d9af044 (Mohamad Supangat, 2024-02-17)
+- Melihat daftar guru yang memiliki role terkait - 095c56e (Mohamad Supangat, 2024-02-16)
