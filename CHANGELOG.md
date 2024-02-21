@@ -851,3 +851,15 @@
 - fixx - bc2aabe (Mohamad Supangat, 2024-02-17)
 - fix: ketika demo di seed maka menimbulkan error - d9af044 (Mohamad Supangat, 2024-02-17)
 - Melihat daftar guru yang memiliki role terkait - 095c56e (Mohamad Supangat, 2024-02-16)
+
+
+### 20240221.17.20
+
+
+#### [aura-erp/aura-erp]
+- upgrade - 464b718 (Mohamad Supangat, 2024-02-22)
+- composer: hapus intervention depend - 05802f4 (Mohamad Supangat, 2024-02-22)
+- datatable: using setup function ? - d8c2c1c (Mohamad Supangat, 2024-02-21)
+- fix: tombol tambah kontak lain terlalu besar - aa5f778 (Mohamad Supangat, 2024-02-19)
+#### [aura-erp/StudentRegistration]
+- fix: perhitungan total peserta yang sudah daftar ulang - 6c118dd (Mohamad Supangat, 2024-02-21)
