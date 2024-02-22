@@ -863,3 +863,10 @@
 - fix: tombol tambah kontak lain terlalu besar - aa5f778 (Mohamad Supangat, 2024-02-19)
 #### [aura-erp/StudentRegistration]
 - fix: perhitungan total peserta yang sudah daftar ulang - 6c118dd (Mohamad Supangat, 2024-02-21)
+
+
+### 20240222.17.34
+
+
+#### [aura-whatsapp/WhatsApp]
+- add message - 5e29112 (Mohamad Supangat, 2024-02-23)
