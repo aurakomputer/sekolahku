@@ -870,3 +870,13 @@
 
 #### [aura-whatsapp/WhatsApp]
 - add message - 5e29112 (Mohamad Supangat, 2024-02-23)
+
+
+### 20240228.17.14
+
+
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- fix: rekap tidak menyimpan data pdf - 6af6476 (Mohamad Supangat, 2024-02-29)
+- fix: attachment tidak terkirim - d51b4f5 (Mohamad Supangat, 2024-02-28)
+#### [aura-whatsapp/WhatsApp]
+- fix: jangan gunakan public_path untuk mengambil data contents - f1a7b74 (Mohamad Supangat, 2024-02-29)
