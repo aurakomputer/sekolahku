@@ -880,3 +880,19 @@
 - fix: attachment tidak terkirim - d51b4f5 (Mohamad Supangat, 2024-02-28)
 #### [aura-whatsapp/WhatsApp]
 - fix: jangan gunakan public_path untuk mengambil data contents - f1a7b74 (Mohamad Supangat, 2024-02-29)
+
+
+### 20240305.08.22
+
+
+#### [aura-erp/aura-erp]
+- fix: datatable using pinia to store data - 7ad2e09 (Mohamad Supangat, 2024-03-05)
+- add quasar and lodash  import - 4cfbd33 (Mohamad Supangat, 2024-03-05)
+- upgrade package - 91bee3f (Mohamad Supangat, 2024-03-05)
+- Merge remote-tracking branch 'origin/feat/pinia' - 955aba9 (Mohamad Supangat, 2024-03-05)
+- vite add auto import and vue component - 350efaa (Mohamad Supangat, 2024-03-05)
+- init: menggunakan pinia - a0c16f8 (Mohamad Supangat, 2024-02-22)
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/mass_editing' into 'master' - e42473c (Mohamad Supangat, 2024-03-05)
+- fix: ubah masal data siswa - 9d0361c (Mohamad Supangat, 2024-03-05)
+- Menambahkan fitur mass editing - 84ce43d (Mohamad Supangat, 2024-03-05)
