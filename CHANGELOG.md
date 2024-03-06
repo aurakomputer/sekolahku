@@ -896,3 +896,14 @@
 - Merge branch 'feat/mass_editing' into 'master' - e42473c (Mohamad Supangat, 2024-03-05)
 - fix: ubah masal data siswa - 9d0361c (Mohamad Supangat, 2024-03-05)
 - Menambahkan fitur mass editing - 84ce43d (Mohamad Supangat, 2024-03-05)
+
+
+### 20240306.18.20
+
+
+#### [aura-erp/aura-erp]
+- remove: vuepick datetime picker, using native quasar - f734513 (Mohamad Supangat, 2024-03-07)
+- remove console.log in store datatable - 6ab7061 (Mohamad Supangat, 2024-03-07)
+- feat: new datetimepicker - 25537b7 (Mohamad Supangat, 2024-03-06)
+#### [aura-erp/ViolationPoint]
+- fixing: some and set default now in input - 976d6e8 (Mohamad Supangat, 2024-03-07)
