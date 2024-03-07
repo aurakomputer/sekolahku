@@ -907,3 +907,16 @@
 - feat: new datetimepicker - 25537b7 (Mohamad Supangat, 2024-03-06)
 #### [aura-erp/ViolationPoint]
 - fixing: some and set default now in input - 976d6e8 (Mohamad Supangat, 2024-03-07)
+
+
+### 20240307.05.29
+
+
+#### [aura-erp/aura-erp]
+- feat: pencarian sekolah - e83659a (Mohamad Supangat, 2024-03-07)
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/validasi_school_origin' into 'master' - 40bba98 (Mohamad Supangat, 2024-03-07)
+- Menggunakan pencarian sekolah dari dapodik - ec85070 (Mohamad Supangat, 2024-03-07)
+- melakukan mass edit school origin - 457a0c9 (Mohamad Supangat, 2024-03-07)
+- pengecekan dengan validate - 7ac7c98 (Mohamad Supangat, 2024-03-07)
+- init - dd911b5 (Mohamad Supangat, 2024-03-07)
