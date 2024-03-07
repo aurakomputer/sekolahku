@@ -920,3 +920,18 @@
 - melakukan mass edit school origin - 457a0c9 (Mohamad Supangat, 2024-03-07)
 - pengecekan dengan validate - 7ac7c98 (Mohamad Supangat, 2024-03-07)
 - init - dd911b5 (Mohamad Supangat, 2024-03-07)
+
+
+### 20240307.05.33
+
+
+#### [aura-erp/aura-erp]
+- Merge branch 'feat/new_database_backup' into 'master' - fd7e600 (Mohamad Supangat, 2024-03-07)
+- wip: backup database using pure php - 3b8efe3 (Mohamad Supangat, 2024-03-07)
+- feat: pencarian sekolah - e83659a (Mohamad Supangat, 2024-03-07)
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/validasi_school_origin' into 'master' - 40bba98 (Mohamad Supangat, 2024-03-07)
+- Menggunakan pencarian sekolah dari dapodik - ec85070 (Mohamad Supangat, 2024-03-07)
+- melakukan mass edit school origin - 457a0c9 (Mohamad Supangat, 2024-03-07)
+- pengecekan dengan validate - 7ac7c98 (Mohamad Supangat, 2024-03-07)
+- init - dd911b5 (Mohamad Supangat, 2024-03-07)
