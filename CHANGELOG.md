@@ -935,3 +935,14 @@
 - melakukan mass edit school origin - 457a0c9 (Mohamad Supangat, 2024-03-07)
 - pengecekan dengan validate - 7ac7c98 (Mohamad Supangat, 2024-03-07)
 - init - dd911b5 (Mohamad Supangat, 2024-03-07)
+
+
+### 20240308.01.22
+
+
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/validasi_school_origin' into 'master' - 71fab07 (Mohamad Supangat, 2024-03-07)
+- fix: counting - 77fc2bc (Mohamad Supangat, 2024-03-07)
+- export school origin to csv - 76c7381 (Mohamad Supangat, 2024-03-07)
+- fix using glob import - c13bebc (Mohamad Supangat, 2024-03-07)
+- au - 9070b49 (Mohamad Supangat, 2024-03-07)
