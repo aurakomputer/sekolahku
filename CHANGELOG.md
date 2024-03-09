@@ -959,3 +959,10 @@
 ### 20240309.09.42
 
 
+
+
+### 20240309.15.20
+
+
+#### [aura-erp/Teacher]
+- Menampilkan guru yang di tangguhkan - 1d11138 (Mohamad Supangat, 2024-03-09)
