@@ -966,3 +966,12 @@
 
 #### [aura-erp/Teacher]
 - Menampilkan guru yang di tangguhkan - 1d11138 (Mohamad Supangat, 2024-03-09)
+
+
+### 20240309.16.26
+
+
+#### [aura-erp/aura-erp]
+- fix: expose datatable refresh function - aae0e1d (Mohamad Supangat, 2024-03-09)
+#### [aura-erp/Teacher]
+- restore data guru - a6945d0 (Mohamad Supangat, 2024-03-09)
