@@ -946,3 +946,11 @@
 - export school origin to csv - 76c7381 (Mohamad Supangat, 2024-03-07)
 - fix using glob import - c13bebc (Mohamad Supangat, 2024-03-07)
 - au - 9070b49 (Mohamad Supangat, 2024-03-07)
+
+
+### 20240309.08.40
+
+
+#### [aura-erp/Teacher]
+- paksa guru untuk update profil - f5ad7c2 (Mohamad Supangat, 2024-03-09)
+- nama tidak boleh di ganti tanpa persetujuan admin - 3439e9e (Mohamad Supangat, 2024-03-08)
