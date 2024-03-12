@@ -986,3 +986,12 @@
 #### [aura-erp/Pesantren]
 - fix: update pengaturan - 882a3f8 (Mohamad Supangat, 2024-03-12)
 - fix: jadwal imsak - 6496ef8 (Mohamad Supangat, 2024-03-12)
+
+
+### 20240312.08.48
+
+
+#### [aura-erp/aura-erp]
+- fix: datatable multiple selection - feb32d2 (Mohamad Supangat, 2024-03-12)
+#### [aura-erp/Pesantren]
+- format: using phpcsfixer - 78e8a66 (Mohamad Supangat, 2024-03-12)
