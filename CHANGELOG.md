@@ -975,3 +975,14 @@
 - fix: expose datatable refresh function - aae0e1d (Mohamad Supangat, 2024-03-09)
 #### [aura-erp/Teacher]
 - restore data guru - a6945d0 (Mohamad Supangat, 2024-03-09)
+
+
+### 20240312.04.32
+
+
+#### [aura-erp/aura-erp]
+- feat: update pengaturan key secara manual dari inputan text - dd3c577 (Mohamad Supangat, 2024-03-12)
+- Menambahkan fitur lain kali pada apps - d13324b (Mohamad Supangat, 2024-03-12)
+#### [aura-erp/Pesantren]
+- fix: update pengaturan - 882a3f8 (Mohamad Supangat, 2024-03-12)
+- fix: jadwal imsak - 6496ef8 (Mohamad Supangat, 2024-03-12)
