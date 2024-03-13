@@ -995,3 +995,13 @@
 - fix: datatable multiple selection - feb32d2 (Mohamad Supangat, 2024-03-12)
 #### [aura-erp/Pesantren]
 - format: using phpcsfixer - 78e8a66 (Mohamad Supangat, 2024-03-12)
+
+
+### 20240313.01.46
+
+
+#### [aura-erp/aura-erp]
+- upgrade - 0c3adce (Mohamad Supangat, 2024-03-13)
+#### [aura-erp/Pesantren]
+- Merge remote-tracking branch 'origin/master' - 1ecf091 (Mohamad Supangat, 2024-03-13)
+- fix: tampilkan ikuti jadwal pesantren baru - 3708e6f (Mohamad Supangat, 2024-03-13)
