@@ -1005,3 +1005,10 @@
 #### [aura-erp/Pesantren]
 - Merge remote-tracking branch 'origin/master' - 1ecf091 (Mohamad Supangat, 2024-03-13)
 - fix: tampilkan ikuti jadwal pesantren baru - 3708e6f (Mohamad Supangat, 2024-03-13)
+
+
+### 20240313.02.04
+
+
+#### [aura-erp/Student]
+- paksa completed profile - 87a4f16 (Mohamad Supangat, 2024-03-13)
