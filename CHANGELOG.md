@@ -1012,3 +1012,10 @@
 
 #### [aura-erp/Student]
 - paksa completed profile - 87a4f16 (Mohamad Supangat, 2024-03-13)
+
+
+### 20240313.02.13
+
+
+#### [aura-erp/Pesantren]
+- fitur upload foto sudah di perbaiki - 6394c0c (Mohamad Supangat, 2024-03-13)
