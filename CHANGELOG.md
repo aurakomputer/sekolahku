@@ -1019,3 +1019,10 @@
 
 #### [aura-erp/Pesantren]
 - fitur upload foto sudah di perbaiki - 6394c0c (Mohamad Supangat, 2024-03-13)
+
+
+### 20240313.02.54
+
+
+#### [aura-erp/Student]
+- address and not required in teacher form - 0c64bc8 (Mohamad Supangat, 2024-03-13)
