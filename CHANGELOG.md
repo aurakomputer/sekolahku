@@ -1038,3 +1038,10 @@
 - input masal penerimaan seragam - a66cfb8 (Mohamad Supangat, 2024-04-20)
 - feat: mengelola data rincian penerimaandaftar ulang - f16f5c2 (Mohamad Supangat, 2024-04-20)
 - fix: Nama - 278780b (Mohamad Supangat, 2024-04-20)
+
+
+### 20240421.16.16
+
+
+#### [aura-erp/aura-erp]
+- add some table - 27bbf54 (Mohamad Supangat, 2024-04-21)
