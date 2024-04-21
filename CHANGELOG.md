@@ -1026,3 +1026,15 @@
 
 #### [aura-erp/Student]
 - address and not required in teacher form - 0c64bc8 (Mohamad Supangat, 2024-03-13)
+
+
+### 20240421.15.33
+
+
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/seragam' into 'master' - a8674d2 (Mohamad Supangat, 2024-04-21)
+- feat: permission untuk menginput data seragam - 987182f (Mohamad Supangat, 2024-04-21)
+- fix: halamn input masal - 0e2eb66 (Mohamad Supangat, 2024-04-21)
+- input masal penerimaan seragam - a66cfb8 (Mohamad Supangat, 2024-04-20)
+- feat: mengelola data rincian penerimaandaftar ulang - f16f5c2 (Mohamad Supangat, 2024-04-20)
+- fix: Nama - 278780b (Mohamad Supangat, 2024-04-20)
