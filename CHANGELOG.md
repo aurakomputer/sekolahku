@@ -1066,3 +1066,10 @@
 #### [aura-erp/StudentRegistration]
 - Merge branch 'feat/seragam' into 'master' - 8a95d6a (Mohamad Supangat, 2024-04-22)
 - wip: menyimpan data riwayat pengambilan seragam - 04f65bf (Mohamad Supangat, 2024-04-22)
+
+
+### 20240422.07.10
+
+
+#### [aura-erp/StudentRegistration]
+- Hotfix: jangan schedule_id dan clothes_id - 0c5e4d2 (Mohamad Supangat, 2024-04-22)
