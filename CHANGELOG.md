@@ -1045,3 +1045,11 @@
 
 #### [aura-erp/aura-erp]
 - add some table - 27bbf54 (Mohamad Supangat, 2024-04-21)
+
+
+### 20240422.02.37
+
+
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/seragam' into 'master' - 02d0324 (Mohamad Supangat, 2024-04-22)
+- fix: inputan minimum_register_payment tidak bisa menyimpan data 1 juta - 9ff63be (Mohamad Supangat, 2024-04-22)
