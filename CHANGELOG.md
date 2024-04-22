@@ -1073,3 +1073,11 @@
 
 #### [aura-erp/StudentRegistration]
 - Hotfix: jangan schedule_id dan clothes_id - 0c5e4d2 (Mohamad Supangat, 2024-04-22)
+
+
+### 20240422.15.48
+
+
+#### [aura-erp/StudentRegistration]
+- cloning data rincian - b8baf3e (Mohamad Supangat, 2024-04-22)
+- feat: melihat riwayat penerimaan seragam - fb10257 (Mohamad Supangat, 2024-04-22)
