@@ -1058,3 +1058,11 @@
 ### 20240422.06.34
 
 
+
+
+### 20240422.06.52
+
+
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/seragam' into 'master' - 8a95d6a (Mohamad Supangat, 2024-04-22)
+- wip: menyimpan data riwayat pengambilan seragam - 04f65bf (Mohamad Supangat, 2024-04-22)
