@@ -1081,3 +1081,21 @@
 #### [aura-erp/StudentRegistration]
 - cloning data rincian - b8baf3e (Mohamad Supangat, 2024-04-22)
 - feat: melihat riwayat penerimaan seragam - fb10257 (Mohamad Supangat, 2024-04-22)
+
+
+### 20240428.17.23
+
+
+#### [aura-erp/aura-erp]
+- set is demo config - d99d9fa (Mohamad Supangat, 2024-04-28)
+- ff - 440809e (Mohamad Supangat, 2024-04-26)
+- remove vite config ts a - 5e9fb4b (Mohamad Supangat, 2024-04-22)
+#### [aura-erp/StudentRegistration]
+- wip: recap excel - e8749fc (Mohamad Supangat, 2024-04-28)
+- fix: input pengambilkan secara manual - c023d7d (Mohamad Supangat, 2024-04-28)
+- Menambah beberapa middleware untuk menanggulangi perijinan - 36db863 (Mohamad Supangat, 2024-04-28)
+- Pagination untuk mass_input data - d8a8e63 (Mohamad Supangat, 2024-04-27)
+- wip: menampilkan data untuk masing masing siswa - a3f2cd4 (Mohamad Supangat, 2024-04-27)
+- fix: format using null-ls - 3dd0e28 (Mohamad Supangat, 2024-04-27)
+- fix: mass input tidak menampilkan banyak data sekaligus - 039f9f3 (Mohamad Supangat, 2024-04-27)
+- table header - 5a827b2 (Mohamad Supangat, 2024-04-26)
