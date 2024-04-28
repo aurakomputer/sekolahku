@@ -1099,3 +1099,10 @@
 - fix: format using null-ls - 3dd0e28 (Mohamad Supangat, 2024-04-27)
 - fix: mass input tidak menampilkan banyak data sekaligus - 039f9f3 (Mohamad Supangat, 2024-04-27)
 - table header - 5a827b2 (Mohamad Supangat, 2024-04-26)
+
+
+### 20240428.17.30
+
+
+#### [aura-erp/StudentRegistration]
+- fix: menambahkan loading ketika mass_input data seragam - 2419411 (Mohamad Supangat, 2024-04-29)
