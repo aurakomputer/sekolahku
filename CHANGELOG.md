@@ -1106,3 +1106,10 @@
 
 #### [aura-erp/StudentRegistration]
 - fix: menambahkan loading ketika mass_input data seragam - 2419411 (Mohamad Supangat, 2024-04-29)
+
+
+### 20240429.06.56
+
+
+#### [aura-erp/StudentRegistration]
+- export reka[ - 5638f66 (Mohamad Supangat, 2024-04-29)
