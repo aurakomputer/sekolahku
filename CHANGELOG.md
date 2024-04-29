@@ -1113,3 +1113,10 @@
 
 #### [aura-erp/StudentRegistration]
 - export reka[ - 5638f66 (Mohamad Supangat, 2024-04-29)
+
+
+### 20240429.15.59
+
+
+#### [aura-erp/StudentRegistration]
+- Export rekap penerimaan seragam dengan siapa guru yang menerima - 69c04ef (Mohamad Supangat, 2024-04-29)
