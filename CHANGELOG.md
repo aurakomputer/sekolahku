@@ -1120,3 +1120,16 @@
 
 #### [aura-erp/StudentRegistration]
 - Export rekap penerimaan seragam dengan siapa guru yang menerima - 69c04ef (Mohamad Supangat, 2024-04-29)
+
+
+### 20240504.17.41
+
+
+#### [aura-erp/aura-erp]
+- pengumuman kelulusan - 5d34c4d (Mohamad Supangat, 2024-05-05)
+- migrate pnpm to bun - 7eaeae6 (Mohamad Supangat, 2024-05-05)
+- feat: disable login akses untuk beberapa user - 7896bf5 (Mohamad Supangat, 2024-05-03)
+#### [aura-erp/ViolationPoint]
+- format using cs fixer - b90206b (Mohamad Supangat, 2024-05-03)
+#### [aura-erp/Student]
+- wip: kelulusan siswa - 13a5f4d (Mohamad Supangat, 2024-05-03)
