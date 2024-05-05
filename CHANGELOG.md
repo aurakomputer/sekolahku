@@ -1133,3 +1133,10 @@
 - format using cs fixer - b90206b (Mohamad Supangat, 2024-05-03)
 #### [aura-erp/Student]
 - wip: kelulusan siswa - 13a5f4d (Mohamad Supangat, 2024-05-03)
+
+
+### 20240505.03.41
+
+
+#### [aura-erp/Student]
+- fix: duplikasi pada import data kelas karena nama tidak sesuai dengan slug - 48a95c9 (Mohamad Supangat, 2024-05-05)
