@@ -1145,3 +1145,10 @@
 ### 20240516.16.55
 
 
+
+
+### 20240516.17.27
+
+
+#### [aura-erp/ViolationPoint]
+- fix: error ketika membuat point pelanggaran pada hari yang tidak di inputkan - 81f00c0 (Mohamad Supangat, 2024-05-16)
