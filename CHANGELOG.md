@@ -1140,3 +1140,8 @@
 
 #### [aura-erp/Student]
 - fix: duplikasi pada import data kelas karena nama tidak sesuai dengan slug - 48a95c9 (Mohamad Supangat, 2024-05-05)
+
+
+### 20240516.16.55
+
+
