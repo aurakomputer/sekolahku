@@ -1289,3 +1289,11 @@
 - fixing - 5e7435e (Mohamad Supangat, 2024-07-14)
 #### [aura-erp/Internship]
 - fix - 5591d4a (Mohamad Supangat, 2024-07-14)
+
+
+### 20240713.18.07
+
+
+#### [aura-erp/Teacher]
+- Merge branch 'dev' - 4a31da0 (Mohamad Supangat, 2024-07-14)
+- format: using prettier - deb907a (Mohamad Supangat, 2024-07-11)
