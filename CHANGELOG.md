@@ -1152,3 +1152,131 @@
 
 #### [aura-erp/ViolationPoint]
 - fix: error ketika membuat point pelanggaran pada hari yang tidak di inputkan - 81f00c0 (Mohamad Supangat, 2024-05-16)
+
+
+### 20240713.17.18
+
+
+#### [aura-erp/aura-erp]
+- fixing: demo-mode - 37aa7a7 (Mohamad Supangat, 2024-07-13)
+- Merge branch 'upgrade-depend' into 'master' - 4a81521 (Mohamad Supangat, 2024-07-13)
+- feat: update ke master - cbd4729 (Mohamad Supangat, 2024-07-13)
+- feat: menambahkan helper - a60d619 (Mohamad Supangat, 2024-07-12)
+- feat: menambahkan caption pada panel - 6215bef (Mohamad Supangat, 2024-07-12)
+- feat: num2words - 0fc7983 (Mohamad Supangat, 2024-07-11)
+- feat:add prettier script to format json - 0243e02 (Mohamad Supangat, 2024-07-11)
+- fixing format - b31935a (Mohamad Supangat, 2024-07-11)
+- format: using prettier - 05fdf1b (Mohamad Supangat, 2024-07-11)
+- remove prettier plugin php - 9f99256 (Mohamad Supangat, 2024-07-11)
+- fix: watching datatable filter - ce2c54a (Mohamad Supangat, 2024-07-11)
+- format panel layout - 3e03e80 (Mohamad Supangat, 2024-07-10)
+- feat: using php formatter prettier - caed5c4 (Mohamad Supangat, 2024-07-09)
+- feat: using prettier in pug - 61c9155 (Mohamad Supangat, 2024-07-09)
+- feat: update master menggunkaan data_get agar tidak valid - c3b1130 (Mohamad Supangat, 2024-07-08)
+- feat: css upload container - 42fda3c (Mohamad Supangat, 2024-07-07)
+- remove laraupdater - 74bd682 (Mohamad Supangat, 2024-07-06)
+- upgrade php unit - 87f2362 (Mohamad Supangat, 2024-06-28)
+- upgrade depend - 368a909 (Mohamad Supangat, 2024-06-28)
+- menambahkan box shadow pada file picker - 2fc2a9e (Mohamad Supangat, 2024-06-28)
+- prepare: php word import pdf file - 4938853 (Mohamad Supangat, 2024-06-28)
+- pickfiles - ec63913 (Mohamad Supangat, 2024-06-28)
+- wip: mansory layout - f624989 (Mohamad Supangat, 2024-06-27)
+- Menambahkan support copy paste dari microsoft word - 7ec29db (Mohamad Supangat, 2024-06-27)
+- melakukan upload file berdasarkan jenis - 8ff6d3b (Mohamad Supangat, 2024-06-27)
+- memperbaiki warng background ketika tidak ada pattern - fd3c36d (Mohamad Supangat, 2024-06-27)
+- upload file with api - 7f75999 (Mohamad Supangat, 2024-06-26)
+- update semua command:app menjadi command:sekolahku - 7cd11f2 (Mohamad Supangat, 2024-06-26)
+- wip: filecontroller - 18bd29c (Mohamad Supangat, 2024-06-25)
+- memperbarui data - 3437ae2 (Mohamad Supangat, 2024-06-25)
+- using pnpm again because bun is unstable - 62a4977 (Mohamad Supangat, 2024-06-12)
+#### [aura-erp/Administration]
+- Merge branch 'dev' into 'master' - 2ab9ff7 (Mohamad Supangat, 2024-07-13)
+- feat: kurang bayar - af5a844 (Mohamad Supangat, 2024-07-13)
+- feat: tahap pengerjaan - 0a0dfe8 (Mohamad Supangat, 2024-07-13)
+- mapping data riwayat alokasi pembayaran - 0217e45 (Mohamad Supangat, 2024-07-13)
+- submit pembayaran dengan alokasi pembayaran - 69646fa (Mohamad Supangat, 2024-07-13)
+- submit alokasi - a846317 (Mohamad Supangat, 2024-07-12)
+- form alokasi - 39e62f5 (Mohamad Supangat, 2024-07-12)
+- migrasi alokasi pembayaran - 52e9e81 (Mohamad Supangat, 2024-07-12)
+- split history pembayaran - 13815ec (Mohamad Supangat, 2024-07-12)
+- print biaya - b872ddc (Mohamad Supangat, 2024-07-12)
+- wip: menampilkan rincian untuk alokasi - e92eb9c (Mohamad Supangat, 2024-07-12)
+- menambil data biaya perkelas siswa - 6d6815c (Mohamad Supangat, 2024-07-12)
+- menambahkan meta dan perbaikan halaman administrasi - 967c7b8 (Mohamad Supangat, 2024-07-11)
+- print tanda bukti pembayaran - 028299e (Mohamad Supangat, 2024-07-11)
+- wip: halaman show administrasi - 319a9b7 (Mohamad Supangat, 2024-07-11)
+- prepare: view - 00082d3 (Mohamad Supangat, 2024-07-10)
+- Menampilkan rincian biaya bulanan - ac8a215 (Mohamad Supangat, 2024-07-10)
+- format - e905e3a (Mohamad Supangat, 2024-07-09)
+- formating php using prettier - 9da8cd4 (Mohamad Supangat, 2024-07-09)
+- formatting pug - bbd1c65 (Mohamad Supangat, 2024-07-09)
+- edit dan duplikasi biaya administrasi - 3264f35 (Mohamad Supangat, 2024-07-09)
+- menyimpan biaya administrasi - 8fbcd4c (Mohamad Supangat, 2024-07-09)
+- wip: tambah biaya administrasi - e5a1e0b (Mohamad Supangat, 2024-07-09)
+- model - 914ff51 (Mohamad Supangat, 2024-07-09)
+- feat: migrasi untuk cost - 9d41289 (Mohamad Supangat, 2024-07-09)
+- init: module tata usaha - 99f5678 (Mohamad Supangat, 2024-07-09)
+#### [aura-erp/ELearning]
+- feat: menyimpan data materi - 1bcf41f (Mohamad Supangat, 2024-06-16)
+- feat: menyimpan data mata pelajaran - 585a45a (Mohamad Supangat, 2024-06-16)
+- feat: Melakukan index data - 6b0cf4d (Mohamad Supangat, 2024-06-15)
+- feat: Menyimpan data baru mata pelajaran - 4ab13ba (Mohamad Supangat, 2024-06-15)
+- create: Menambahkan migrasi untuk materi pelajaran - ee9fbf8 (Mohamad Supangat, 2024-06-15)
+- init - 8b14652 (Mohamad Supangat, 2024-06-15)
+#### [aura-erp/Course]
+- component: select course - f4af62c (Mohamad Supangat, 2024-06-19)
+- feat: seeder mata pelajaran - 162683d (Mohamad Supangat, 2024-06-15)
+- init module - 184e31c (Mohamad Supangat, 2024-06-15)
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- Γöéformat: using prettier - 795496e (Mohamad Supangat, 2024-07-11)
+#### [aura-whatsapp/WhatsAppStudent]
+- Γöéformat: using prettier - 136df44 (Mohamad Supangat, 2024-07-11)
+#### [aura-whatsapp/WhatsApp]
+- Γöéformat: using prettier - 71b936f (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/Achievement]
+- format: using prettier - 63a6f39 (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/Information]
+- updae comment plugin using anil - 3469f7f (Mohamad Supangat, 2024-06-13)
+#### [aura-erp/Pesantren]
+- Γöéformat: using prettier - a22d3b9 (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/Payment]
+- update - 2e81430 (Mohamad Supangat, 2024-07-11)
+- update - 2b6e3a1 (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/StudentRegistration]
+- Merge branch 'feat/pembagian_kelas_siswa_baru' into 'master' - 00f0eea (Mohamad Supangat, 2024-07-13)
+- fix: tombol print jangan ikutan di print - be064ee (Mohamad Supangat, 2024-07-11)
+- format - 722b88e (Mohamad Supangat, 2024-07-11)
+- menambahan meta - 9787fa6 (Mohamad Supangat, 2024-07-10)
+- Merge remote-tracking branch 'origin/feat/pembagian_kelas_siswa_baru' into feat/pembagian_kelas_siswa_baru - 06fc93e (Mohamad Supangat, 2024-07-10)
+- format - f05bad9 (Mohamad Supangat, 2024-07-10)
+- wip: tidak benar - c8a5fdf (Mohamad Supangat, 2024-07-09)
+- wip: prosess import data - 1809f23 (Mohamad Supangat, 2024-07-08)
+- wip: prosess import data - 3af0c54 (Mohamad Supangat, 2024-07-08)
+- feat: prepare import data disposition - 538a5e0 (Mohamad Supangat, 2024-07-08)
+- feat: halaman pembagian kelas - 1227ec9 (Mohamad Supangat, 2024-07-06)
+- path: untuk split data ukuran baju putra dan putri - 86e3b6f (Mohamad Supangat, 2024-06-12)
+- fix: auto show dengan items_key - 7624a6e (Mohamad Supangat, 2024-06-12)
+- fix auto dimensions - 7f79400 (Mohamad Supangat, 2024-05-14)
+#### [aura-erp/ViolationPoint]
+- Γöéformat: using prettier - d78aef9 (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/AlQuran]
+- Γöéformat: using prettier - afe122a (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/Internship]
+- format: using prettier - a18ea34 (Mohamad Supangat, 2024-07-11)
+#### [aura-erp/Industry]
+- Γöéformat: using prettier - c737959 (Mohamad Supangat, 2024-07-11)
+- fix: composer old - 55fc0f7 (Mohamad Supangat, 2024-06-28)
+#### [aura-erp/Student]
+- Merge branch 'dev' into 'master' - 44ac860 (Mohamad Supangat, 2024-07-13)
+- fix: tidak bisa simpan data alamat siswa - 94c4880 (Mohamad Supangat, 2024-07-11)
+- format: using prettier - 6f37efc (Mohamad Supangat, 2024-07-11)
+- format using prettier - 6300094 (Mohamad Supangat, 2024-07-10)
+- fix: export school class - 0d8b884 (Mohamad Supangat, 2024-07-08)
+- format: dasboard - 6510e73 (Mohamad Supangat, 2024-07-06)
+- fix: composer deprecated class - 2f4c879 (Mohamad Supangat, 2024-06-28)
+- feat: component  mengambil datatable level - 271899c (Mohamad Supangat, 2024-06-16)
+#### [aura-erp/Teacher]
+- format: using prettier - b844451 (Mohamad Supangat, 2024-07-11)
+- feat(permission): siswa tidak bisa mengekspos data guru - 1813cff (Mohamad Supangat, 2024-06-13)
+- format: - dfa2677 (Mohamad Supangat, 2024-06-13)
+- feat(permission): memindahkan middleware dari controller ke dalam routing - f49fa88 (Mohamad Supangat, 2024-06-13)
