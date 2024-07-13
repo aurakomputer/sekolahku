@@ -1280,3 +1280,12 @@
 - feat(permission): siswa tidak bisa mengekspos data guru - 1813cff (Mohamad Supangat, 2024-06-13)
 - format: - dfa2677 (Mohamad Supangat, 2024-06-13)
 - feat(permission): memindahkan middleware dari controller ke dalam routing - f49fa88 (Mohamad Supangat, 2024-06-13)
+
+
+### 20240713.17.55
+
+
+#### [aura-erp/Pesantren]
+- fixing - 5e7435e (Mohamad Supangat, 2024-07-14)
+#### [aura-erp/Internship]
+- fix - 5591d4a (Mohamad Supangat, 2024-07-14)
