@@ -1297,3 +1297,10 @@
 #### [aura-erp/Teacher]
 - Merge branch 'dev' - 4a31da0 (Mohamad Supangat, 2024-07-14)
 - format: using prettier - deb907a (Mohamad Supangat, 2024-07-11)
+
+
+### 20240714.01.27
+
+
+#### [aura-erp/Administration]
+- fix: undefined type sex - 9946d26 (Mohamad Supangat, 2024-07-14)
