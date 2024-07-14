@@ -1304,3 +1304,10 @@
 
 #### [aura-erp/Administration]
 - fix: undefined type sex - 9946d26 (Mohamad Supangat, 2024-07-14)
+
+
+### 20240714.03.14
+
+
+#### [aura-erp/Administration]
+- fix: tidak bisa create data - 93045f5 (Mohamad Supangat, 2024-07-14)
