@@ -1330,3 +1330,22 @@
 #### [aura-erp/StudentRegistration]
 - fix: tidak menampilkan data guru - e4aa497 (Mohamad Supangat, 2024-07-15)
 - feat: Menambahkan inputan teacher pada simpan payment - 21fd6d7 (Mohamad Supangat, 2024-07-15)
+
+
+### 20240714.17.57
+
+
+#### [aura-erp/aura-erp]
+- ganti demo mode ke dalam app.blade.php - e005b1b (Mohamad Supangat, 2024-07-15)
+- fix: backup db cron - f9a91c4 (Mohamad Supangat, 2024-07-14)
+#### [aura-erp/Administration]
+- Merge remote-tracking branch 'origin/master' - 51312eb (Mohamad Supangat, 2024-07-15)
+- feat: menampilkan riwayat pembayaran - ba07a9b (Mohamad Supangat, 2024-07-15)
+- feat: menampilkan riwayat pembayaran - 62318fd (Mohamad Supangat, 2024-07-15)
+- fix: tidak menampilkan dialog form ketika tidak ada data pembayaran - d5a4ad8 (Mohamad Supangat, 2024-07-15)
+- feat: remove monthly fee - 0e0fc67 (Mohamad Supangat, 2024-07-14)
+#### [aura-erp/Payment]
+- add teacher to payment tabble - 8e14a24 (Mohamad Supangat, 2024-07-15)
+#### [aura-erp/StudentRegistration]
+- fix: tidak menampilkan data guru - e4aa497 (Mohamad Supangat, 2024-07-15)
+- feat: Menambahkan inputan teacher pada simpan payment - 21fd6d7 (Mohamad Supangat, 2024-07-15)
