@@ -1349,3 +1349,20 @@
 #### [aura-erp/StudentRegistration]
 - fix: tidak menampilkan data guru - e4aa497 (Mohamad Supangat, 2024-07-15)
 - feat: Menambahkan inputan teacher pada simpan payment - 21fd6d7 (Mohamad Supangat, 2024-07-15)
+
+
+### 20240716.17.53
+
+
+#### [aura-erp/aura-erp]
+- using notify create - 74901f4 (Mohamad Supangat, 2024-07-17)
+- fix: migrasi semua app: command ke sekolahku: - 649b35c (Mohamad Supangat, 2024-07-15)
+#### [aura-erp/Administration]
+- fix - 6547ae0 (Mohamad Supangat, 2024-07-17)
+#### [aura-erp/Payment]
+- drop jsonb column - b8f18f9 (Mohamad Supangat, 2024-07-17)
+- hoho - add60c4 (Mohamad Supangat, 2024-07-17)
+- fea - 3f86bad (Mohamad Supangat, 2024-07-17)
+#### [aura-erp/StudentRegistration]
+- fix: where has morph - 83058d7 (Mohamad Supangat, 2024-07-17)
+- fix - 6b66800 (Mohamad Supangat, 2024-07-17)
