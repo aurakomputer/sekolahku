@@ -1366,3 +1366,17 @@
 #### [aura-erp/StudentRegistration]
 - fix: where has morph - 83058d7 (Mohamad Supangat, 2024-07-17)
 - fix - 6b66800 (Mohamad Supangat, 2024-07-17)
+
+
+### 20240717.06.51
+
+
+#### [aura-erp/Payment]
+- remove: user - be86786 (Mohamad Supangat, 2024-07-17)
+- remove: unused migration - f4c9943 (Mohamad Supangat, 2024-07-17)
+- remove: conform - c14ac69 (Mohamad Supangat, 2024-07-17)
+- fix: - e392dfc (Mohamad Supangat, 2024-07-17)
+#### [aura-erp/StudentRegistration]
+- fix: pengambilan rekap - 441f8af (Mohamad Supangat, 2024-07-17)
+- fix: rekap informasi pembayaran - 4f87298 (Mohamad Supangat, 2024-07-17)
+- fix: jangan simpan user - 107ac17 (Mohamad Supangat, 2024-07-17)
