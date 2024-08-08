@@ -1380,3 +1380,31 @@
 - fix: pengambilan rekap - 441f8af (Mohamad Supangat, 2024-07-17)
 - fix: rekap informasi pembayaran - 4f87298 (Mohamad Supangat, 2024-07-17)
 - fix: jangan simpan user - 107ac17 (Mohamad Supangat, 2024-07-17)
+
+
+### 20240808.15.52
+
+
+#### [aura-erp/aura-erp]
+- fix: update: filter generator checking is array or object - a0dc535 (Mohamad Supangat, 2024-08-06)
+- Merge remote-tracking branch 'origin/master' - 22cc605 (Mohamad Supangat, 2024-08-04)
+- change default quasar font to iner - 0689e40 (Mohamad Supangat, 2024-08-04)
+- change default quasar font to iner - af977a7 (Mohamad Supangat, 2024-08-04)
+- feat: year picker - 1e00fff (Mohamad Supangat, 2024-08-04)
+- memperbaiki default pengambilan data kodepos - 56732b3 (Mohamad Supangat, 2024-08-03)
+- hidden overflow-x - d2aa0c5 (Mohamad Supangat, 2024-08-03)
+- feat: helper is_base64 && filter datatables menggunakan base64 pada object - e110a3f (Mohamad Supangat, 2024-07-18)
+- feat: range date picker - dfdabfc (Mohamad Supangat, 2024-07-18)
+#### [aura-erp/Administration]
+- feat: menampilkan data siswa - 11bfe7c (Mohamad Supangat, 2024-08-04)
+- feat: export data riwayat payment - 995a503 (Mohamad Supangat, 2024-08-04)
+- feat: filter berdasarkan payment_date - 324c9be (Mohamad Supangat, 2024-07-18)
+- export data pembayaran - 28773b5 (Mohamad Supangat, 2024-07-18)
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- wip: new sending event whatsapp ketika kirim - 943b5d9 (Mohamad Supangat, 2024-07-28)
+#### [aura-whatsapp/WhatsApp]
+- add: whatsapp client for multiple whatsapp clients - 66a7413 (Mohamad Supangat, 2024-07-21)
+#### [aura-erp/Payment]
+- filter: berdasarkan scope paymentdate - 8281c99 (Mohamad Supangat, 2024-07-18)
+#### [aura-erp/StudentRegistration]
+- feat: melakuakan filter asal skeolah - 7360b0f (Mohamad Supangat, 2024-08-08)
