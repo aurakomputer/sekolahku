@@ -1449,3 +1449,18 @@
 - feat: redesign fitur dan penambahan meta - a6f4ff8 (Mohamad Supangat, 2024-08-10)
 #### [aura-erp/Teacher]
 - Menambahkan meta - 8fadd34 (Mohamad Supangat, 2024-08-11)
+
+
+### 20240821.23.33
+
+
+#### [aura-whatsapp/WhatsApp]
+- Merge branch 'dev' - 7772c45 (Mohamad Supangat, 2024-08-22)
+- fix: typo - 3aadb64 (Mohamad Supangat, 2024-08-11)
+- menggunakan whatsapp client - 1fa66a1 (Mohamad Supangat, 2024-07-28)
+- wip: gimana cara mengirimkan whatsapp event ke whatsapp client - e69543a (Mohamad Supangat, 2024-07-28)
+- fix: menambahkan data jika client terkoneksi dengan benar - 5cdb2f3 (Mohamad Supangat, 2024-07-28)
+- Menambah dan menghapus client whatsapp - 35a5dcf (Mohamad Supangat, 2024-07-24)
+- form token - e2090b8 (Mohamad Supangat, 2024-07-23)
+- kelola client - b8e42cc (Mohamad Supangat, 2024-07-21)
+- add: whatsapp client for multiple whatsapp clients - f3c5c98 (Mohamad Supangat, 2024-07-21)
