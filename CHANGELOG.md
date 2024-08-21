@@ -1408,3 +1408,44 @@
 - filter: berdasarkan scope paymentdate - 8281c99 (Mohamad Supangat, 2024-07-18)
 #### [aura-erp/StudentRegistration]
 - feat: melakuakan filter asal skeolah - 7360b0f (Mohamad Supangat, 2024-08-08)
+
+
+### 20240821.23.03
+
+
+#### [aura-erp/aura-erp]
+- Merge branch 'styling' into 'master' - 2b1cb91 (Mohamad Supangat, 2024-08-21)
+- feat: loading applikasi ketika pada menu app diklik - f98c15f (Mohamad Supangat, 2024-08-17)
+- feat: disable pattern pada app.blade.php - 6f348e4 (Mohamad Supangat, 2024-08-17)
+- memperbarui style layout - 1ca1ae9 (Mohamad Supangat, 2024-08-11)
+- menambahkan site headline pada bawah logo admin panel - 8361d54 (Mohamad Supangat, 2024-08-10)
+- Button aplikasi menjadi link - 7135330 (Mohamad Supangat, 2024-08-10)
+- keren - 37123c3 (Mohamad Supangat, 2024-08-09)
+- fix: drawer item - f04bd46 (Mohamad Supangat, 2024-08-09)
+- dev: change layout to like https://smart.patelki-pky.id/midone/index.html - bda5e1b (Mohamad Supangat, 2024-08-09)
+- fix: login page tidak muncul pemilihan type - e040258 (Mohamad Supangat, 2024-08-08)
+#### [aura-erp/Administration]
+- Merge branch 'devv' - 5474fbb (Mohamad Supangat, 2024-08-22)
+- wip: dashboard - e548b6b (Mohamad Supangat, 2024-08-17)
+- feat: button untuk melihat ke halaman detail siswa - 7e558da (Mohamad Supangat, 2024-08-17)
+- feat: menyimpan data total tunggakan siswa dari semua tahun ajaran - 7a3d2f7 (Mohamad Supangat, 2024-08-07)
+- feat: lock data rincian pembayaran ketika suda pernah ada transaksi uang masuk - 1b93592 (Mohamad Supangat, 2024-08-07)
+- feat: menampilkan data siswa - 174cd68 (Mohamad Supangat, 2024-08-04)
+#### [aura-whatsapp/WhatsApp]
+- Merge remote-tracking branch 'origin/master' - 511316a (Mohamad Supangat, 2024-08-09)
+- fix: scheme doses - 1471be1 (Mohamad Supangat, 2024-08-09)
+- fix: scheme doses - 20e8048 (Mohamad Supangat, 2024-08-09)
+#### [aura-erp/StudentRegistration]
+- Merge remote-tracking branch 'origin/master' - 4f25cc0 (Mohamad Supangat, 2024-08-17)
+- feat: melakukan pencarian data siswa - 89129cd (Mohamad Supangat, 2024-08-14)
+- feat: melakukan pencarian data siswa - 3ae1e22 (Mohamad Supangat, 2024-08-14)
+- feat: menambahkan beberapa meta - 66793ed (Mohamad Supangat, 2024-08-14)
+- feat: integrasi database siswa dengan partisipant pendaftaran - 50fb505 (Mohamad Supangat, 2024-08-14)
+#### [aura-erp/AlQuran]
+- feat: menambahkan border radius - 096d0c2 (Mohamad Supangat, 2024-08-17)
+#### [aura-erp/Student]
+- Merge branch 'dev' into 'master' - 6998a1c (Mohamad Supangat, 2024-08-21)
+- feat: menghapus - 0a3b9a9 (Mohamad Supangat, 2024-08-14)
+- feat: redesign fitur dan penambahan meta - a6f4ff8 (Mohamad Supangat, 2024-08-10)
+#### [aura-erp/Teacher]
+- Menambahkan meta - 8fadd34 (Mohamad Supangat, 2024-08-11)
