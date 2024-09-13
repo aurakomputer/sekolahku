@@ -1576,3 +1576,11 @@
 ### 20240913.08.45
 
 
+
+
+### 20240913.09.12
+
+
+#### [aura-erp/MonitoringShalat]
+- update slug - 0bcc8fe (Mohamad Supangat, 2024-09-13)
+- batch update monitoring shalat - 1d0dc48 (Mohamad Supangat, 2024-09-13)
