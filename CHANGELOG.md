@@ -1598,3 +1598,8 @@
 #### [aura-erp/Student]
 - Merge remote-tracking branch 'origin/as' - f4512cd (Mohamad Supangat, 2024-09-13)
 - menambahkan beberapa scope untuk school class trought studen t - 0651890 (Mohamad Supangat, 2024-09-11)
+
+
+### 20240914.06.30
+
+
