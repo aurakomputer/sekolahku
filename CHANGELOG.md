@@ -1584,3 +1584,17 @@
 #### [aura-erp/MonitoringShalat]
 - update slug - 0bcc8fe (Mohamad Supangat, 2024-09-13)
 - batch update monitoring shalat - 1d0dc48 (Mohamad Supangat, 2024-09-13)
+
+
+### 20240914.01.30
+
+
+#### [aura-erp/MonitoringShalat]
+- update - e32078b (Mohamad Supangat, 2024-09-14)
+- dense datatable - ef6ffac (Mohamad Supangat, 2024-09-13)
+- meredesign tombol - 87e166c (Mohamad Supangat, 2024-09-13)
+- update controller - 655f935 (Mohamad Supangat, 2024-09-13)
+- update service provider - bccfcf1 (Mohamad Supangat, 2024-09-13)
+#### [aura-erp/Student]
+- Merge remote-tracking branch 'origin/as' - f4512cd (Mohamad Supangat, 2024-09-13)
+- menambahkan beberapa scope untuk school class trought studen t - 0651890 (Mohamad Supangat, 2024-09-11)
