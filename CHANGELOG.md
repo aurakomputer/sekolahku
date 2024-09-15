@@ -1603,3 +1603,17 @@
 ### 20240914.06.30
 
 
+
+
+### 20240915.13.47
+
+
+#### [aura-erp/aura-erp]
+- month picker - 32e7e67 (Mohamad Supangat, 2024-09-15)
+- fixing - 44dc320 (Mohamad Supangat, 2024-09-14)
+- update faker locale - 423beaf (Mohamad Supangat, 2024-09-14)
+#### [aura-erp/MonitoringShalat]
+- memperbaiki form download excel - 92164e4 (Mohamad Supangat, 2024-09-15)
+- wip: recap excel - f6260f1 (Mohamad Supangat, 2024-09-14)
+#### [aura-erp/Student]
+- random - 3e9b70d (Mohamad Supangat, 2024-09-14)
