@@ -1617,3 +1617,10 @@
 - wip: recap excel - f6260f1 (Mohamad Supangat, 2024-09-14)
 #### [aura-erp/Student]
 - random - 3e9b70d (Mohamad Supangat, 2024-09-14)
+
+
+### 20240915.14.22
+
+
+#### [aura-erp/MonitoringShalat]
+- fixing tidak bisa menyimpan edit - 82cd0c1 (Mohamad Supangat, 2024-09-15)
