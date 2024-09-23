@@ -1651,3 +1651,31 @@
 - surat keterangan kelulusan - 50e3127 (Mohamad Supangat, 2024-09-22)
 - memperbaiki import - 229a698 (Mohamad Supangat, 2024-09-21)
 - melakukan split dashboard frontend dan pengambilan data - 1f59095 (Mohamad Supangat, 2024-09-21)
+
+
+### 20240923.06.20
+
+
+#### [aura-erp/aura-erp]
+- collapse menu menjadi putih - 4998483 (Mohamad Supangat, 2024-09-21)
+- memperbaiki import - b10b06c (Mohamad Supangat, 2024-09-21)
+- menambahkan demo seeder - f938894 (Mohamad Supangat, 2024-09-21)
+- Menambahkan kernel untuk selalu melakukan database seeder selama 6 jam sekali - 59154fd (Mohamad Supangat, 2024-09-21)
+- web_builder: revert fromElement - 461ca76 (Mohamad Supangat, 2024-09-20)
+- website: memperbaiki lebar - 0b56c13 (Mohamad Supangat, 2024-09-20)
+- memperbaiki computed - 781567e (Mohamad Supangat, 2024-09-20)
+- menambahkan kembali vite svg loader - 86b6a42 (Mohamad Supangat, 2024-09-20)
+- change default primary colors - 489b662 (Mohamad Supangat, 2024-09-18)
+- add database seeder - a06cd88 (Mohamad Supangat, 2024-09-17)
+- remove all cron - 5601eb3 (Mohamad Supangat, 2024-09-17)
+#### [aura-erp/StudentRegistration]
+- menambahkan gap antar jadwal pendaftaran - 6cea8f3 (Mohamad Supangat, 2024-09-20)
+#### [aura-erp/Student]
+- fixing - e6ce30e (Mohamad Supangat, 2024-09-23)
+- prepare graduation letter - e7c70d2 (Mohamad Supangat, 2024-09-23)
+- graduation at - c6a1cc5 (Mohamad Supangat, 2024-09-22)
+- melakukan kelulusan - 46a1900 (Mohamad Supangat, 2024-09-22)
+- redesign menu - 7c27e55 (Mohamad Supangat, 2024-09-22)
+- surat keterangan kelulusan - 50e3127 (Mohamad Supangat, 2024-09-22)
+- memperbaiki import - 229a698 (Mohamad Supangat, 2024-09-21)
+- melakukan split dashboard frontend dan pengambilan data - 1f59095 (Mohamad Supangat, 2024-09-21)
