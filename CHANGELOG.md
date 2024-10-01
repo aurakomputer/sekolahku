@@ -1679,3 +1679,10 @@
 - surat keterangan kelulusan - 50e3127 (Mohamad Supangat, 2024-09-22)
 - memperbaiki import - 229a698 (Mohamad Supangat, 2024-09-21)
 - melakukan split dashboard frontend dan pengambilan data - 1f59095 (Mohamad Supangat, 2024-09-21)
+
+
+### 20241001.19.41
+
+
+#### [aura-erp/Administration]
+- menambhakan spclient middleware - 4f37dc7 (Mohamad Supangat, 2024-10-02)
