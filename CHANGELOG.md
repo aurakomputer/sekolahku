@@ -1686,3 +1686,16 @@
 
 #### [aura-erp/Administration]
 - menambhakan spclient middleware - 4f37dc7 (Mohamad Supangat, 2024-10-02)
+
+
+### 20241009.04.00
+
+
+#### [aura-erp/aura-erp]
+- menambah helper formatdate - 740a187 (Mohamad Supangat, 2024-10-08)
+- Menambahkan InputAdress Sebagai default Component - 5a0208c (Mohamad Supangat, 2024-10-07)
+#### [aura-erp/Administration]
+- printkartu pembayaran siswa - b7a6879 (Mohamad Supangat, 2024-10-08)
+- update duplikasi routing untuk cetak kartu administrasi - ea86c03 (Mohamad Supangat, 2024-10-05)
+- cetak kartu administrasi siswa - 50b4d8d (Mohamad Supangat, 2024-10-05)
+- memperbaiki division by zero - cc8e968 (Mohamad Supangat, 2024-10-05)
