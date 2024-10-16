@@ -1743,3 +1743,8 @@
 #### [aura-erp/Payment]
 - menambahkan scope untuk hide - 3ae6c91 (Mohamad Supangat, 2024-10-14)
 - Menambahhkan field untuk hide dari laporan - 2a022af (Mohamad Supangat, 2024-10-14)
+
+
+### 20241016.10.10
+
+
