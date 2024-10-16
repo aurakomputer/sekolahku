@@ -1699,3 +1699,47 @@
 - update duplikasi routing untuk cetak kartu administrasi - ea86c03 (Mohamad Supangat, 2024-10-05)
 - cetak kartu administrasi siswa - 50b4d8d (Mohamad Supangat, 2024-10-05)
 - memperbaiki division by zero - cc8e968 (Mohamad Supangat, 2024-10-05)
+
+
+### 20241016.10.04
+
+
+#### [aura-erp/aura-erp]
+- list month - 4fbca5e (Mohamad Supangat, 2024-10-16)
+- migrasi fungsi $q ke Dialog - 66583e2 (Mohamad Supangat, 2024-10-15)
+- Menambahkan slot default ke carddahsboard - 4d9216e (Mohamad Supangat, 2024-10-15)
+- disable demo mode - 80f44e3 (Mohamad Supangat, 2024-10-14)
+- default datatable is dense - c0f0e17 (Mohamad Supangat, 2024-10-14)
+- format date to sring - b0e3e68 (Mohamad Supangat, 2024-10-14)
+- Menambahkan style page size pada master print - 2f4ceb4 (Mohamad Supangat, 2024-10-11)
+#### [aura-erp/Administration]
+- rincian tidak ditemukan - 2d43417 (Mohamad Supangat, 2024-10-16)
+- menambahkan error ketika rincian tidak ditemukan - d1e9914 (Mohamad Supangat, 2024-10-16)
+- fixing lokal - 52cb088 (Mohamad Supangat, 2024-10-16)
+- Menambahkan testMode - 02faae6 (Mohamad Supangat, 2024-10-16)
+- wip: sudah bisa import ust - 88b262c (Mohamad Supangat, 2024-10-16)
+- wip: ust - b59b447 (Mohamad Supangat, 2024-10-16)
+- perbaikan tidak bisa mencari - 911f9e9 (Mohamad Supangat, 2024-10-16)
+- perbaiki tombol hapus item rincian biaya - 14ff939 (Mohamad Supangat, 2024-10-16)
+- ketika tgl pembayaran kosong == null, jangan tampilkan tanggal - d12d5de (Mohamad Supangat, 2024-10-16)
+- Sukses migrasi data pembayaran daftar ulang - 70aa5ac (Mohamad Supangat, 2024-10-16)
+- migrasi riwayat - 7d91f4b (Mohamad Supangat, 2024-10-16)
+- wip: halaman migrasi data - 24c0f4a (Mohamad Supangat, 2024-10-15)
+- menambahkan checkbox untuk sembunyikan pembayaran di laporan - f4dca4f (Mohamad Supangat, 2024-10-15)
+- wip: - 17b524c (Mohamad Supangat, 2024-10-14)
+- melakukan filter berdasarkan type pembayaran - 5633508 (Mohamad Supangat, 2024-10-12)
+- menampilkan sholarship text pada kartu pembayaran - 39221c4 (Mohamad Supangat, 2024-10-12)
+- memperbaiki data kartu - 3e1f0a6 (Mohamad Supangat, 2024-10-11)
+- mengambil data beasiswa pada rincian - 5d4038f (Mohamad Supangat, 2024-10-11)
+- menyimpan beasiswa pada transaksi uang masuk - c850a71 (Mohamad Supangat, 2024-10-11)
+- menampilkan beasiswa pada alokasi - 76b2b46 (Mohamad Supangat, 2024-10-11)
+- menyimpan rincian biaya disertai dengan beasiswa - 1976120 (Mohamad Supangat, 2024-10-11)
+- edit clone dan hapus data beasisw - ac0418b (Mohamad Supangat, 2024-10-11)
+- percent - 44dfead (Mohamad Supangat, 2024-10-11)
+- kelola data beasiswa / keringanan - 2bf4ccb (Mohamad Supangat, 2024-10-10)
+- wip: beasiswa - 571341e (Mohamad Supangat, 2024-10-10)
+- wip: beasiswa - 4cd0559 (Mohamad Supangat, 2024-10-10)
+- perbaikan kartu pembayaran - d3a5473 (Mohamad Supangat, 2024-10-10)
+#### [aura-erp/Payment]
+- menambahkan scope untuk hide - 3ae6c91 (Mohamad Supangat, 2024-10-14)
+- Menambahhkan field untuk hide dari laporan - 2a022af (Mohamad Supangat, 2024-10-14)
