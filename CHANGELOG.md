@@ -1762,3 +1762,10 @@
 - alokasi pembayaran kedalam rincian - 7363af6 (Mohamad Supangat, 2024-10-16)
 #### [aura-erp/Student]
 - memperbaiki student import - f484b6f (Mohamad Supangat, 2024-10-17)
+
+
+### 20241017.04.10
+
+
+#### [aura-erp/aura-erp]
+- update - 354c093 (Mohamad Supangat, 2024-10-17)
