@@ -1748,3 +1748,17 @@
 ### 20241016.10.10
 
 
+
+
+### 20241017.03.50
+
+
+#### [aura-erp/aura-erp]
+- clean backup - 838f4d0 (Mohamad Supangat, 2024-10-17)
+- update package - 8ffbbc3 (Mohamad Supangat, 2024-10-17)
+#### [aura-erp/Administration]
+- menambahkan alokasi beserta tanggal - dd5e923 (Mohamad Supangat, 2024-10-16)
+- Menambahkan penempatan - cabe22b (Mohamad Supangat, 2024-10-16)
+- alokasi pembayaran kedalam rincian - 7363af6 (Mohamad Supangat, 2024-10-16)
+#### [aura-erp/Student]
+- memperbaiki student import - f484b6f (Mohamad Supangat, 2024-10-17)
