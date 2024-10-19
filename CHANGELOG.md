@@ -1769,3 +1769,33 @@
 
 #### [aura-erp/aura-erp]
 - update - 354c093 (Mohamad Supangat, 2024-10-17)
+
+
+### 20241019.03.02
+
+
+#### [aura-erp/aura-erp]
+- memperbaiki minimalize - ae345c2 (Mohamad Supangat, 2024-10-18)
+- datatabkle: minimalize column, mengambil data hanya kolom yang di muat - 601392b (Mohamad Supangat, 2024-10-17)
+- emit data - 0425929 (Mohamad Supangat, 2024-10-17)
+- fixing drawer item white / hidden in mobile - 874964b (Mohamad Supangat, 2024-10-17)
+#### [aura-erp/Administration]
+- Merge branch 'rekap' - d053842 (Mohamad Supangat, 2024-10-19)
+- menampilkan riwayat pembayaran jika tidak ada rekap harianya - d090c21 (Mohamad Supangat, 2024-10-19)
+- rekap riwayat pembayaran excel beserta rincian - e6dd914 (Mohamad Supangat, 2024-10-19)
+- wip: rekap excel pembayaran beserta detail - 8cec137 (Mohamad Supangat, 2024-10-18)
+- menampikan keperluan di rekap pembayaran excel - 3ec0747 (Mohamad Supangat, 2024-10-18)
+- migrasi ke minimalize - 020c05d (Mohamad Supangat, 2024-10-18)
+- preapre rekap beserta rincian - 13b9312 (Mohamad Supangat, 2024-10-17)
+- minimalize columns - 39ffdeb (Mohamad Supangat, 2024-10-17)
+- minimalize columns - 0683be7 (Mohamad Supangat, 2024-10-17)
+- fixing - fee72ac (Mohamad Supangat, 2024-10-17)
+- menampilkan total amount di riwayat pembayaran siswa - 306ca03 (Mohamad Supangat, 2024-10-17)
+- memperbarui meta - dd57d96 (Mohamad Supangat, 2024-10-17)
+- menghapus data penempatan dana - a37575a (Mohamad Supangat, 2024-10-17)
+- riwayat import kelas - b7a9982 (Mohamad Supangat, 2024-10-17)
+- import dengan calculasi formula - c4f986e (Mohamad Supangat, 2024-10-17)
+- memperbaiki penampilan tanggal pada detail administrasi - aeea76d (Mohamad Supangat, 2024-10-17)
+- memperbaiki dashboard administrasi tu - ccc6b07 (Mohamad Supangat, 2024-10-17)
+#### [aura-erp/Student]
+- memperbaiki import siswa jenis kelamin tidak terdaftar - 03c6c87 (Mohamad Supangat, 2024-10-17)
