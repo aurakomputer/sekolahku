@@ -1799,3 +1799,38 @@
 - memperbaiki dashboard administrasi tu - ccc6b07 (Mohamad Supangat, 2024-10-17)
 #### [aura-erp/Student]
 - memperbaiki import siswa jenis kelamin tidak terdaftar - 03c6c87 (Mohamad Supangat, 2024-10-17)
+
+
+### 20241023.10.06
+
+
+#### [aura-erp/aura-erp]
+- fix: quasar vite 1.8.0 - 9b03016 (Mohamad Supangat, 2024-10-23)
+- fix upgrade: downgrade ziggy because v2.0 unstable - e6041db (Mohamad Supangat, 2024-10-23)
+- upgrade pnpm package - 4158086 (Mohamad Supangat, 2024-10-23)
+- feat: upgrade laravel modules - 660fa17 (Mohamad Supangat, 2024-10-23)
+- feat: update all composer package - 8d5f121 (Mohamad Supangat, 2024-10-23)
+- upgrade laravel package - bbb085b (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/MonitoringShalat]
+- Laravel 11.x - 61d6fb6 (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Administration]
+- minize - 042bb7b (Mohamad Supangat, 2024-10-23)
+- Laravel 11.x - 1c46659 (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Information]
+- fix - 72555d9 (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Pesantren]
+- Laravel 11.x - d9ef858 (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Payment]
+- Laravel 11.x - ff68cec (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/StudentRegistration]
+- Laravel 11.x - e0e139c (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/ViolationPoint]
+- Laravel 11.x - d624b4c (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Internship]
+- Laravel 11.x - 9a09935 (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Industry]
+- upgrade - f4595d6 (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Student]
+- laravel 11.x - 5a541de (Mohamad Supangat, 2024-10-23)
+#### [aura-erp/Teacher]
+- Laravel 11.x - 1f796db (Mohamad Supangat, 2024-10-23)
