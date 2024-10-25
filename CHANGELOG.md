@@ -1888,3 +1888,10 @@
 - Merge remote-tracking branch 'origin/master' - ed3704c (Mohamad Supangat, 2024-10-25)
 - alhamdulillah import dengan dinamik kolom angsuran 1 berhasil - 8b1caaf (Mohamad Supangat, 2024-10-25)
 - alhamdulillah import dengan dinamik kolom angsuran 1 berhasil - ac81177 (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.09.24
+
+
+#### [aura-erp/aura-erp]
+- memperbaiki error - f61a1da (Mohamad Supangat, 2024-10-25)
