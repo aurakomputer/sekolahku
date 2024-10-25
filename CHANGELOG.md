@@ -1922,3 +1922,10 @@
 #### [aura-erp/Student]
 - feat: meneambahkan data kelas baru pada siswa - 5bde49e (Mohamad Supangat, 2024-10-25)
 - feat: hapus data kelas lewat halaman edit - ec36044 (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.16.36
+
+
+#### [aura-erp/Administration]
+- fix: menambahkan logika untuk pengecekan excel lebih dinamis - 4b4fda9 (Mohamad Supangat, 2024-10-25)
