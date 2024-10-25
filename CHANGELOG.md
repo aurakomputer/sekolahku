@@ -1834,3 +1834,40 @@
 - laravel 11.x - 5a541de (Mohamad Supangat, 2024-10-23)
 #### [aura-erp/Teacher]
 - Laravel 11.x - 1f796db (Mohamad Supangat, 2024-10-23)
+
+
+### 20241025.03.52
+
+
+#### [aura-erp/aura-erp]
+- fixing alert - 4882301 (Mohamad Supangat, 2024-10-25)
+- alert ketika muncul error untuk menghubungi kami - ad4bb2a (Mohamad Supangat, 2024-10-25)
+- excel: bold pada baris total - 87756f3 (Mohamad Supangat, 2024-10-25)
+- exce: master menambahkan row footer total - 4d67f8e (Mohamad Supangat, 2024-10-25)
+- excel: menambahkan kolom untuk section - 2446a45 (Mohamad Supangat, 2024-10-25)
+- helper: Menambahkan beberapa helpers - f8502de (Mohamad Supangat, 2024-10-25)
+- simple: simple output - 484feb2 (Mohamad Supangat, 2024-10-24)
+- Page Loader - fba0acc (Mohamad Supangat, 2024-10-24)
+- Merge remote-tracking branch 'origin/master' - c0abd7c (Mohamad Supangat, 2024-10-23)
+- dashboard - 69963c0 (Mohamad Supangat, 2024-10-16)
+#### [aura-erp/Administration]
+- fix: validasi nominal untuk amount = 0 tapi tidak ada keringanan biaya - d2c590e (Mohamad Supangat, 2024-10-25)
+- menyimpan nominal 0 ketika dapat beasiswa - 59e37cd (Mohamad Supangat, 2024-10-25)
+- color primary - f9308ed (Mohamad Supangat, 2024-10-25)
+- student: dashboard siswa - 00be8bd (Mohamad Supangat, 2024-10-25)
+- excel: menambahkan no. payment kedalam data - 823bbb6 (Mohamad Supangat, 2024-10-25)
+- excel: menambahkan total pada rekap pembayaran harian - 6c481bf (Mohamad Supangat, 2024-10-25)
+- excel: rekap pembayaran dengan rincian menampilkan total - ac6d6c2 (Mohamad Supangat, 2024-10-25)
+- excel: rekap halaman index - ff0922a (Mohamad Supangat, 2024-10-25)
+- disable: alokasi pembayaran - 270b344 (Mohamad Supangat, 2024-10-24)
+- wip: edit alokasi - 2bfa300 (Mohamad Supangat, 2024-10-24)
+- feat: edit alokasi - 2c33c39 (Mohamad Supangat, 2024-10-24)
+- feat: jika data pembayaran kurang dari data alokasi menampilkan warning - 78540b2 (Mohamad Supangat, 2024-10-24)
+- fix: mengupdate nilai pembayaran - 65ce04c (Mohamad Supangat, 2024-10-24)
+- menambahkan loading spinner ketika administrasi di buat - 3cdda95 (Mohamad Supangat, 2024-10-24)
+- fix: menyimpan data cash - adb11ec (Mohamad Supangat, 2024-10-24)
+- fix: mengambil data guru - f28ce10 (Mohamad Supangat, 2024-10-24)
+- wip: import riwayat penempatan kelas 10 - af21bcc (Mohamad Supangat, 2024-10-24)
+- wip: import riwaat penempatan - 233ad4b (Mohamad Supangat, 2024-10-24)
+#### [aura-erp/Student]
+- button primary - 29d82dd (Mohamad Supangat, 2024-10-25)
