@@ -1909,3 +1909,16 @@
 
 #### [aura-erp/Administration]
 - fix: pencarian kolom angsuran - 5f2ce52 (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.16.31
+
+
+#### [aura-erp/aura-erp]
+- fix: error ketika menajalankan perintah db:update database - e2f18a6 (Mohamad Supangat, 2024-10-25)
+#### [aura-erp/Administration]
+- riwayat pembayaran - 4606252 (Mohamad Supangat, 2024-10-25)
+- feat: menambahkan detail administrasi siswa - c2065ed (Mohamad Supangat, 2024-10-25)
+#### [aura-erp/Student]
+- feat: meneambahkan data kelas baru pada siswa - 5bde49e (Mohamad Supangat, 2024-10-25)
+- feat: hapus data kelas lewat halaman edit - ec36044 (Mohamad Supangat, 2024-10-25)
