@@ -1902,3 +1902,10 @@
 
 #### [aura-erp/aura-erp]
 - memperbaiki error - f61a1da (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.09.42
+
+
+#### [aura-erp/Administration]
+- fix: pencarian kolom angsuran - 5f2ce52 (Mohamad Supangat, 2024-10-25)
