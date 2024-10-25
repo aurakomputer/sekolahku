@@ -1936,3 +1936,10 @@
 
 #### [aura-erp/Administration]
 - fixing import penempatan - 9c06083 (Mohamad Supangat, 2024-10-26)
+
+
+### 20241025.18.09
+
+
+#### [aura-erp/Administration]
+- fix: jangan import kembali penempatan jika sudah pernah ada pada waktu tersebut - cf6ef24 (Mohamad Supangat, 2024-10-26)
