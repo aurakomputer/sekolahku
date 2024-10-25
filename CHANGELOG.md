@@ -1895,3 +1895,10 @@
 
 #### [aura-erp/aura-erp]
 - memperbaiki error - f61a1da (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.09.27
+
+
+#### [aura-erp/aura-erp]
+- memperbaiki error - f61a1da (Mohamad Supangat, 2024-10-25)
