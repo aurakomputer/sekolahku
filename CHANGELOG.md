@@ -1879,3 +1879,12 @@
 #### [aura-erp/aura-erp]
 - upgrade base - 691c7ab (Mohamad Supangat, 2024-10-25)
 - memperbarui halaman license - 4412631 (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.09.15
+
+
+#### [aura-erp/Administration]
+- Merge remote-tracking branch 'origin/master' - ed3704c (Mohamad Supangat, 2024-10-25)
+- alhamdulillah import dengan dinamik kolom angsuran 1 berhasil - 8b1caaf (Mohamad Supangat, 2024-10-25)
+- alhamdulillah import dengan dinamik kolom angsuran 1 berhasil - ac81177 (Mohamad Supangat, 2024-10-25)
