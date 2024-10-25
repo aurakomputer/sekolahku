@@ -1929,3 +1929,10 @@
 
 #### [aura-erp/Administration]
 - fix: menambahkan logika untuk pengecekan excel lebih dinamis - 4b4fda9 (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.17.20
+
+
+#### [aura-erp/Administration]
+- fixing import penempatan - 9c06083 (Mohamad Supangat, 2024-10-26)
