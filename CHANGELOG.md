@@ -1871,3 +1871,11 @@
 - wip: import riwaat penempatan - 233ad4b (Mohamad Supangat, 2024-10-24)
 #### [aura-erp/Student]
 - button primary - 29d82dd (Mohamad Supangat, 2024-10-25)
+
+
+### 20241025.04.41
+
+
+#### [aura-erp/aura-erp]
+- upgrade base - 691c7ab (Mohamad Supangat, 2024-10-25)
+- memperbarui halaman license - 4412631 (Mohamad Supangat, 2024-10-25)
