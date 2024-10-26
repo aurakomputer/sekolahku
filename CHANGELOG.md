@@ -1962,3 +1962,13 @@
 - unique - f4e608c (Mohamad Supangat, 2024-10-26)
 - command untuk reset payment number - 3ff13b6 (Mohamad Supangat, 2024-10-26)
 - Menambahkan scope not zero - 297d063 (Mohamad Supangat, 2024-10-26)
+
+
+### 20241026.17.51
+
+
+#### [aura-erp/aura-erp]
+- menampilkan semua baris di table - d345867 (Mohamad Supangat, 2024-10-27)
+#### [aura-erp/Administration]
+- fix: multiple import - 5c98534 (Mohamad Supangat, 2024-10-27)
+- migration multiple file - 41fdaaf (Mohamad Supangat, 2024-10-27)
