@@ -1943,3 +1943,22 @@
 
 #### [aura-erp/Administration]
 - fix: jangan import kembali penempatan jika sudah pernah ada pada waktu tersebut - cf6ef24 (Mohamad Supangat, 2024-10-26)
+
+
+### 20241026.17.20
+
+
+#### [aura-erp/Administration]
+- feat: kelas 10 dengan biaya admin - 9630623 (Mohamad Supangat, 2024-10-27)
+- feat: kelas 11, kunjungan industri - a2c3466 (Mohamad Supangat, 2024-10-27)
+- feat: memperbaiki import rekapitulasi kelas 11 - 7cacb22 (Mohamad Supangat, 2024-10-26)
+- feat: cetak excel du hanya rekap - 16edc35 (Mohamad Supangat, 2024-10-26)
+- feat: script untuk reset data kelas 10 dan 11 - 3c4e6ab (Mohamad Supangat, 2024-10-26)
+- Menampilkan payment via - ed6ec24 (Mohamad Supangat, 2024-10-26)
+- feat: command untuk reset payment - c0a142f (Mohamad Supangat, 2024-10-26)
+- fix: meneampilkan data kelas pada invoice - 3df32f6 (Mohamad Supangat, 2024-10-26)
+- fix: rincian tidak sinkron ketika mendapatkan beasiswa - 15695a0 (Mohamad Supangat, 2024-10-26)
+#### [aura-erp/Payment]
+- unique - f4e608c (Mohamad Supangat, 2024-10-26)
+- command untuk reset payment number - 3ff13b6 (Mohamad Supangat, 2024-10-26)
+- Menambahkan scope not zero - 297d063 (Mohamad Supangat, 2024-10-26)
