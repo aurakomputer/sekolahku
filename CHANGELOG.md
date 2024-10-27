@@ -1979,3 +1979,12 @@
 
 #### [aura-erp/Administration]
 - disable throw error untuk menanggulangi data tidak masuk - dbf0bfb (Mohamad Supangat, 2024-10-27)
+
+
+### 20241027.05.40
+
+
+#### [aura-erp/Administration]
+- fix: memperbaiki kesalahan import - d70cd52 (Mohamad Supangat, 2024-10-27)
+#### [aura-erp/Payment]
+- fix:  pembuatan nomor payment - 5f18965 (Mohamad Supangat, 2024-10-27)
