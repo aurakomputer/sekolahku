@@ -1988,3 +1988,14 @@
 - fix: memperbaiki kesalahan import - d70cd52 (Mohamad Supangat, 2024-10-27)
 #### [aura-erp/Payment]
 - fix:  pembuatan nomor payment - 5f18965 (Mohamad Supangat, 2024-10-27)
+
+
+### 20241027.15.07
+
+
+#### [aura-erp/aura-erp]
+- message pada loader - 9f17bcf (Mohamad Supangat, 2024-10-27)
+#### [aura-erp/Administration]
+- fix: memperbaiki reset payment number - a3fca23 (Mohamad Supangat, 2024-10-27)
+#### [aura-erp/Payment]
+- fix: memperbaiki fungsi generateNumber - a7c4330 (Mohamad Supangat, 2024-10-27)
