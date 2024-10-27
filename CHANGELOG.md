@@ -1972,3 +1972,10 @@
 #### [aura-erp/Administration]
 - fix: multiple import - 5c98534 (Mohamad Supangat, 2024-10-27)
 - migration multiple file - 41fdaaf (Mohamad Supangat, 2024-10-27)
+
+
+### 20241027.00.28
+
+
+#### [aura-erp/Administration]
+- disable throw error untuk menanggulangi data tidak masuk - dbf0bfb (Mohamad Supangat, 2024-10-27)
