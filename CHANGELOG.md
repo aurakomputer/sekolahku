@@ -1999,3 +1999,15 @@
 - fix: memperbaiki reset payment number - a3fca23 (Mohamad Supangat, 2024-10-27)
 #### [aura-erp/Payment]
 - fix: memperbaiki fungsi generateNumber - a7c4330 (Mohamad Supangat, 2024-10-27)
+
+
+### 20241029.17.59
+
+
+#### [aura-erp/aura-erp]
+- fix: terkena memory limit saat melakukan backup - ef2a31c (Mohamad Supangat, 2024-10-28)
+#### [aura-erp/Administration]
+- manusa: hotfix - f7d6a8d (Mohamad Supangat, 2024-10-30)
+- menampillkan jenis kelamin pada daftar administrasi siswa - 593beb1 (Mohamad Supangat, 2024-10-30)
+- hotfix: perbaikan perbaikan - 5491d49 (Mohamad Supangat, 2024-10-28)
+- hotfix: memperbaiki data ust kelas 10 di bulan oktober - 4f1e029 (Mohamad Supangat, 2024-10-28)
