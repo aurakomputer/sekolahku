@@ -2011,3 +2011,13 @@
 - menampillkan jenis kelamin pada daftar administrasi siswa - 593beb1 (Mohamad Supangat, 2024-10-30)
 - hotfix: perbaikan perbaikan - 5491d49 (Mohamad Supangat, 2024-10-28)
 - hotfix: memperbaiki data ust kelas 10 di bulan oktober - 4f1e029 (Mohamad Supangat, 2024-10-28)
+
+
+### 20241030.17.55
+
+
+#### [aura-erp/aura-erp]
+- enable queue work on cron - ec3d077 (Mohamad Supangat, 2024-10-31)
+- update nwidart modules config and stubs - 1488cfb (Mohamad Supangat, 2024-10-31)
+#### [aura-erp/Administration]
+- feat: pengecekan dan validasi ketika ada perubahan pada data siswa - f7c0b1a (Mohamad Supangat, 2024-10-31)
