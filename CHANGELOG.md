@@ -2038,3 +2038,20 @@
 - default menamilkan filter untuk dalam kurun  1 minggu - e927fb3 (Mohamad Supangat, 2024-10-31)
 - wip: import penempatan PPDB - 9c6123f (Mohamad Supangat, 2024-10-31)
 - wip: import penempatan siswa ppdb - dc10571 (Mohamad Supangat, 2024-10-31)
+
+
+### 20241031.09.18
+
+
+#### [aura-erp/aura-erp]
+- update to latest nodejs - e74c3fc (Mohamad Supangat, 2024-10-31)
+#### [aura-erp/Administration]
+- menampilkan data yang belum di alokasikan - ede1f3c (Mohamad Supangat, 2024-10-31)
+- pengecekan ketika saldo belum di teteapkan masih lebih - 9dd9fdf (Mohamad Supangat, 2024-10-31)
+- Merge remote-tracking branch 'origin/master' - 54b0580 (Mohamad Supangat, 2024-10-31)
+- wip: script import penempatan dari setor dusl - ddf96bf (Mohamad Supangat, 2024-10-31)
+- wip: script import penempatan dari setor dusl - 5f89d56 (Mohamad Supangat, 2024-10-31)
+- script untuk import penempatan dari data pesertadidik baru - 831695b (Mohamad Supangat, 2024-10-31)
+- default menamilkan filter untuk dalam kurun  1 minggu - e927fb3 (Mohamad Supangat, 2024-10-31)
+- wip: import penempatan PPDB - 9c6123f (Mohamad Supangat, 2024-10-31)
+- wip: import penempatan siswa ppdb - dc10571 (Mohamad Supangat, 2024-10-31)
