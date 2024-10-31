@@ -2063,3 +2063,10 @@
 #### [aura-erp/aura-erp]
 - migrasi plugin untuk backup data - e3c59ee (Mohamad Supangat, 2024-10-31)
 - Menambahkan kolom message pada  import result dialog - 36347be (Mohamad Supangat, 2024-10-31)
+
+
+### 20241031.10.02
+
+
+#### [aura-erp/aura-erp]
+- dont dump some table data - 0d9226e (Mohamad Supangat, 2024-10-31)
