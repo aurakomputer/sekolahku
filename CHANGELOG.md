@@ -2055,3 +2055,11 @@
 - default menamilkan filter untuk dalam kurun  1 minggu - e927fb3 (Mohamad Supangat, 2024-10-31)
 - wip: import penempatan PPDB - 9c6123f (Mohamad Supangat, 2024-10-31)
 - wip: import penempatan siswa ppdb - dc10571 (Mohamad Supangat, 2024-10-31)
+
+
+### 20241031.09.39
+
+
+#### [aura-erp/aura-erp]
+- migrasi plugin untuk backup data - e3c59ee (Mohamad Supangat, 2024-10-31)
+- Menambahkan kolom message pada  import result dialog - 36347be (Mohamad Supangat, 2024-10-31)
