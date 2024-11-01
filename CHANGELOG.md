@@ -2070,3 +2070,12 @@
 
 #### [aura-erp/aura-erp]
 - dont dump some table data - 0d9226e (Mohamad Supangat, 2024-10-31)
+
+
+### 20241101.02.55
+
+
+#### [aura-erp/aura-erp]
+- fixing modules config - cef26c7 (Mohamad Supangat, 2024-11-01)
+#### [aura-erp/Administration]
+- fixing: duplicate data penempatan DU - b27bf4a (Mohamad Supangat, 2024-11-01)
