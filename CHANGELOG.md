@@ -2079,3 +2079,24 @@
 - fixing modules config - cef26c7 (Mohamad Supangat, 2024-11-01)
 #### [aura-erp/Administration]
 - fixing: duplicate data penempatan DU - b27bf4a (Mohamad Supangat, 2024-11-01)
+
+
+### 20241102.07.55
+
+
+#### [aura-erp/aura-erp]
+- function to check currentGuard - d885c9f (Mohamad Supangat, 2024-11-02)
+- disbale dark mode for now - 95381e4 (Mohamad Supangat, 2024-11-02)
+- remove bun.lockb - 2f62ba4 (Mohamad Supangat, 2024-11-02)
+- dashboard card: menambah beberapa props tambahan - 657be00 (Mohamad Supangat, 2024-11-02)
+- dasboard card add more slot - f9dd6c9 (Mohamad Supangat, 2024-11-01)
+#### [aura-erp/Administration]
+- fix - 1926554 (Mohamad Supangat, 2024-11-02)
+- feat: jika tunggakan lunas maka tampilkan chip lunas - aafdd05 (Mohamad Supangat, 2024-11-02)
+- fix: mengganti status lunas dengan chip agar tidak membingungkan - 1edea3e (Mohamad Supangat, 2024-11-02)
+- feat:  menambahkan nominal yang di terima masing masing guru - 4e834d1 (Mohamad Supangat, 2024-11-02)
+#### [aura-erp/Payment]
+- fix: error untuk pengambilan payment formattedAmount - 74ff752 (Mohamad Supangat, 2024-11-02)
+#### [aura-erp/Teacher]
+- fix: permission  untuk mengambil list data guru - d414ff7 (Mohamad Supangat, 2024-11-02)
+- new random teacher - 4da4acc (Mohamad Supangat, 2024-09-14)
