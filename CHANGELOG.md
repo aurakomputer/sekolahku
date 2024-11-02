@@ -2100,3 +2100,10 @@
 #### [aura-erp/Teacher]
 - fix: permission  untuk mengambil list data guru - d414ff7 (Mohamad Supangat, 2024-11-02)
 - new random teacher - 4da4acc (Mohamad Supangat, 2024-09-14)
+
+
+### 20241102.08.04
+
+
+#### [aura-erp/Administration]
+- paymentlist: default filter now - a0aaf58 (Mohamad Supangat, 2024-11-02)
