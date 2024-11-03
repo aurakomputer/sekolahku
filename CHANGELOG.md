@@ -2107,3 +2107,12 @@
 
 #### [aura-erp/Administration]
 - paymentlist: default filter now - a0aaf58 (Mohamad Supangat, 2024-11-02)
+
+
+### 20241103.18.11
+
+
+#### [aura-erp/aura-erp]
+- fix - 3902880 (Mohamad Supangat, 2024-11-04)
+#### [aura-erp/Administration]
+- fix: import data - 72b3ea9 (Mohamad Supangat, 2024-11-04)
