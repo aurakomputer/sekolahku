@@ -2116,3 +2116,13 @@
 - fix - 3902880 (Mohamad Supangat, 2024-11-04)
 #### [aura-erp/Administration]
 - fix: import data - 72b3ea9 (Mohamad Supangat, 2024-11-04)
+
+
+### 20241104.04.25
+
+
+#### [aura-erp/Administration]
+- fix: jangan importkan penempatan pada import masal - f7075cd (Mohamad Supangat, 2024-11-04)
+- fix: data tidak di importkan - 1b52959 (Mohamad Supangat, 2024-11-04)
+- Merge remote-tracking branch 'origin/master' - fa577bc (Mohamad Supangat, 2024-11-04)
+- fixing - 9e22ecb (Mohamad Supangat, 2024-11-04)
