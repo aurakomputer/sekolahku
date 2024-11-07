@@ -2156,3 +2156,13 @@
 #### [aura-erp/Student]
 - primary color select schoolclass - 3accba2 (Mohamad Supangat, 2024-11-07)
 - feat: fungsi untuk mengambil min dan max level kelas secara dinamis dalam database - ea784ce (Mohamad Supangat, 2024-11-04)
+
+
+### 20241107.11.05
+
+
+#### [aura-erp/aura-erp]
+- fungsi untuk download file menggunakan api - 11b20c5 (Mohamad Supangat, 2024-11-07)
+#### [aura-erp/Administration]
+- download file menggunakan api - 09158a8 (Mohamad Supangat, 2024-11-07)
+- extend money format in excel summary - 8cbc244 (Mohamad Supangat, 2024-11-07)
