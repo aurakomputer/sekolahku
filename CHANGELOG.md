@@ -2166,3 +2166,12 @@
 #### [aura-erp/Administration]
 - download file menggunakan api - 09158a8 (Mohamad Supangat, 2024-11-07)
 - extend money format in excel summary - 8cbc244 (Mohamad Supangat, 2024-11-07)
+
+
+### 20241107.16.30
+
+
+#### [aura-erp/Administration]
+- Menambahkan update data administrationcost pada saat membuat pembayaran baru - 7b2a734 (Mohamad Supangat, 2024-11-07)
+- menambahkan schedule - d26a57c (Mohamad Supangat, 2024-11-07)
+- update data administrasi menggunakan commands - 3b09f64 (Mohamad Supangat, 2024-11-07)
