@@ -2175,3 +2175,10 @@
 - Menambahkan update data administrationcost pada saat membuat pembayaran baru - 7b2a734 (Mohamad Supangat, 2024-11-07)
 - menambahkan schedule - d26a57c (Mohamad Supangat, 2024-11-07)
 - update data administrasi menggunakan commands - 3b09f64 (Mohamad Supangat, 2024-11-07)
+
+
+### 20241107.16.41
+
+
+#### [aura-erp/Administration]
+- hotfix: ubah type ke float - 1f4a173 (Mohamad Supangat, 2024-11-07)
