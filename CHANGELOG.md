@@ -2126,3 +2126,33 @@
 - fix: data tidak di importkan - 1b52959 (Mohamad Supangat, 2024-11-04)
 - Merge remote-tracking branch 'origin/master' - fa577bc (Mohamad Supangat, 2024-11-04)
 - fixing - 9e22ecb (Mohamad Supangat, 2024-11-04)
+
+
+### 20241107.10.30
+
+
+#### [aura-erp/aura-erp]
+- Merge remote-tracking branch 'origin/fix' - 0ef6ddd (Mohamad Supangat, 2024-11-06)
+- fix - 0dfcaaa (Mohamad Supangat, 2024-11-05)
+- fix - 902b029 (Mohamad Supangat, 2024-11-05)
+- fungsi untuk sub / manipulate schoolYear - 2eabe56 (Mohamad Supangat, 2024-11-05)
+- excel master layout: menambahkan penggunaan multiple column dan rows header - 1246979 (Mohamad Supangat, 2024-11-05)
+- master - 6c7228d (Mohamad Supangat, 2024-11-04)
+#### [aura-erp/Administration]
+- Merge branch 'asd' - 9cd98a0 (Mohamad Supangat, 2024-11-07)
+- Menambahkan rekap - 170cb47 (Mohamad Supangat, 2024-11-07)
+- export rekap data siswa - e912ec7 (Mohamad Supangat, 2024-11-07)
+- tampilan simple dan visual - f0ce1dd (Mohamad Supangat, 2024-11-07)
+- tampilan simple dan visual - f9bce12 (Mohamad Supangat, 2024-11-07)
+- jangan school halaman ketika refresh data - a5fcc91 (Mohamad Supangat, 2024-11-07)
+- fixing payment - ea22db3 (Mohamad Supangat, 2024-11-07)
+- export data payment dari halaman download - 2dcf711 (Mohamad Supangat, 2024-11-07)
+- halaman kusus untuk export data - 567ee75 (Mohamad Supangat, 2024-11-07)
+- perbaikan import data riwayat - fcaee26 (Mohamad Supangat, 2024-11-07)
+- wip: checkgin data - 46cfada (Mohamad Supangat, 2024-11-07)
+- wip: perbaikan data - 1d37179 (Mohamad Supangat, 2024-11-06)
+- wip: headers multiple rows - 8b94950 (Mohamad Supangat, 2024-11-05)
+- wip: download excel recap - 46a652d (Mohamad Supangat, 2024-11-04)
+#### [aura-erp/Student]
+- primary color select schoolclass - 3accba2 (Mohamad Supangat, 2024-11-07)
+- feat: fungsi untuk mengambil min dan max level kelas secara dinamis dalam database - ea784ce (Mohamad Supangat, 2024-11-04)
