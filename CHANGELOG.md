@@ -2182,3 +2182,12 @@
 
 #### [aura-erp/Administration]
 - hotfix: ubah type ke float - 1f4a173 (Mohamad Supangat, 2024-11-07)
+
+
+### 20241108.02.17
+
+
+#### [aura-erp/Administration]
+- feat: freeze pane excel rekapitulasi - 1bae0cc (Mohamad Supangat, 2024-11-08)
+- feat: Mensorting data tunggakan dan total dana belum di alokasikan - f484b10 (Mohamad Supangat, 2024-11-08)
+- fix: cast - 7593444 (Mohamad Supangat, 2024-11-07)
