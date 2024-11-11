@@ -2191,3 +2191,21 @@
 - feat: freeze pane excel rekapitulasi - 1bae0cc (Mohamad Supangat, 2024-11-08)
 - feat: Mensorting data tunggakan dan total dana belum di alokasikan - f484b10 (Mohamad Supangat, 2024-11-08)
 - fix: cast - 7593444 (Mohamad Supangat, 2024-11-07)
+
+
+### 20241111.02.07
+
+
+#### [aura-erp/aura-erp]
+- menambahkan fungsi untuk validasi data pada json - 2ea41e0 (Mohamad Supangat, 2024-11-10)
+- fungsi: mengambil kolom nama excel dari nomor - 84218a8 (Mohamad Supangat, 2024-11-10)
+#### [aura-erp/MonitoringShalat]
+- menambahkan upload foto - 4607f6d (Mohamad Supangat, 2024-11-10)
+#### [aura-erp/Administration]
+- feat: script untuk mengecek siswa yang zero payments - 53eb64a (Mohamad Supangat, 2024-11-11)
+- feat: menampilkan data dengan formula - 95330b3 (Mohamad Supangat, 2024-11-10)
+- fix: penambahan logika import riwayat - 4c89aa7 (Mohamad Supangat, 2024-11-09)
+- fix: import data riwayat - c2d7529 (Mohamad Supangat, 2024-11-09)
+#### [aura-erp/Student]
+- Merge remote-tracking branch 'origin/master' - 2c07b50 (Mohamad Supangat, 2024-11-09)
+- feat: mengambil semua data kelas - 0912adb (Mohamad Supangat, 2024-11-09)

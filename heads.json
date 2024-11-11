@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "11b20c5b23efb2a687f41dee6b90c2026c46713a",
+  "aura-erp/aura-erp": "2ea41e021d6d76edbf87a464777c0f64522c1289",
   "aura-whatsapp/WhatsAppViolationPoint": "943b5d9054aa264d80934e2f2b9ce8d5d40c0aef",
   "aura-whatsapp/WhatsAppStudent": "136df44007ed9ed81b6d01b4fb5fad35c40c4dd3",
   "aura-whatsapp/WhatsApp": "9e9b58e5d606b231378874493bc9b645a70030ee",
@@ -13,10 +13,10 @@
   "aura-erp/AlQuran": "096d0c288abe384b96f073fbdd17a19c0b9b42da",
   "aura-erp/Internship": "9a09935d8c70d46a6abe6edbd64704a469367e82",
   "aura-erp/Industry": "f4595d684d028d3301cafa7875432a82595d2175",
-  "aura-erp/Student": "3accba24970ac519903d23f043ab5c3e7a6d65a7",
+  "aura-erp/Student": "2c07b50e92abe1262f1360ab8e4792fb810d6014",
   "aura-erp/Teacher": "d414ff77d12452e64c0c77484814c06b2855ab41",
-  "aura-erp/Administration": "1bae0cc8651ad9cc3b9f07da586ea0680d6540ea",
+  "aura-erp/Administration": "53eb64a382cfaa0e869e42668e4206cba01cc028",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
   "aura-erp/Course": "b7e86151b9ea64ff44100a16a2da75971e06a727",
-  "aura-erp/MonitoringShalat": "61d6fb63092e542c9e5a62b7f696e28f380a6e49"
+  "aura-erp/MonitoringShalat": "4607f6d78b2d4a75eb732560b4e64099b823cd13"
 }
