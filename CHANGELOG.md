@@ -2241,3 +2241,10 @@
 - feat: menambahkan form untuk menambahkan pembayaran tanppa harus penempatan - 7aeb078 (Mohamad Supangat, 2024-11-11)
 - fixing - 733d2c2 (Mohamad Supangat, 2024-11-11)
 - fixing - b5cafbd (Mohamad Supangat, 2024-11-11)
+
+
+### 20241111.09.02
+
+
+#### [aura-erp/Administration]
+- jika negative - 459e8b7 (Mohamad Supangat, 2024-11-11)
