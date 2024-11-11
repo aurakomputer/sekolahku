@@ -2230,3 +2230,14 @@
 
 #### [aura-erp/aura-erp]
 - upgrade - 86ae221 (Mohamad Supangat, 2024-11-11)
+
+
+### 20241111.08.48
+
+
+#### [aura-erp/Administration]
+- feat: menambahkan dialog konfirmasi input dana - bc398f7 (Mohamad Supangat, 2024-11-11)
+- Merge remote-tracking branch 'origin/master' - 117b622 (Mohamad Supangat, 2024-11-11)
+- feat: menambahkan form untuk menambahkan pembayaran tanppa harus penempatan - 7aeb078 (Mohamad Supangat, 2024-11-11)
+- fixing - 733d2c2 (Mohamad Supangat, 2024-11-11)
+- fixing - b5cafbd (Mohamad Supangat, 2024-11-11)
