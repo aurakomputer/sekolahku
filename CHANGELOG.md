@@ -2209,3 +2209,12 @@
 #### [aura-erp/Student]
 - Merge remote-tracking branch 'origin/master' - 2c07b50 (Mohamad Supangat, 2024-11-09)
 - feat: mengambil semua data kelas - 0912adb (Mohamad Supangat, 2024-11-09)
+
+
+### 20241111.02.27
+
+
+#### [aura-erp/MonitoringShalat]
+- fix - edeb8c1 (Mohamad Supangat, 2024-11-11)
+- fix: jangan tampilkan inputan pada halaman detail mode - ede5f82 (Mohamad Supangat, 2024-11-11)
+- feat: menampilkan file preview - aaa54be (Mohamad Supangat, 2024-11-11)
