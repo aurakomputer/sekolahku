@@ -2248,3 +2248,10 @@
 
 #### [aura-erp/Administration]
 - jika negative - 459e8b7 (Mohamad Supangat, 2024-11-11)
+
+
+### 20241114.09.47
+
+
+#### [aura-erp/StudentRegistration]
+- fix: tidak bisa melakukan pencarian nama asal sekolah - 8a98836 (Mohamad Supangat, 2024-11-14)
