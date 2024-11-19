@@ -2255,3 +2255,12 @@
 
 #### [aura-erp/StudentRegistration]
 - fix: tidak bisa melakukan pencarian nama asal sekolah - 8a98836 (Mohamad Supangat, 2024-11-14)
+
+
+### 20241119.17.09
+
+
+#### [aura-erp/Administration]
+- fix: memperbaiki excel rekap tidak sum kunjungan industri - 2a417f4 (Mohamad Supangat, 2024-11-20)
+- Menambahkan Kunjungan Industri - bdf14bf (Mohamad Supangat, 2024-11-18)
+- pengecekan duplikasi payment - d15b5ad (Mohamad Supangat, 2024-11-12)
