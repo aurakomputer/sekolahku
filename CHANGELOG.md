@@ -2264,3 +2264,13 @@
 - fix: memperbaiki excel rekap tidak sum kunjungan industri - 2a417f4 (Mohamad Supangat, 2024-11-20)
 - Menambahkan Kunjungan Industri - bdf14bf (Mohamad Supangat, 2024-11-18)
 - pengecekan duplikasi payment - d15b5ad (Mohamad Supangat, 2024-11-12)
+
+
+### 20241119.17.50
+
+
+#### [aura-erp/Administration]
+- Merge branch 'feat/custom_nominal_rincian' into 'master' - d7b6daf (Mohamad Supangat, 2024-11-19)
+- feat: menambahkan custom amount pada form alokasi - d7d1e32 (Mohamad Supangat, 2024-11-20)
+- melakukan perhitungan total be_paid ketika custom_be_paid - eacc601 (Mohamad Supangat, 2024-11-20)
+- menambahkan kolom kustom rincian - 1a8b78c (Mohamad Supangat, 2024-11-20)
