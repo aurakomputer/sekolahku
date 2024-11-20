@@ -2287,3 +2287,10 @@
 - menambahkan payment_id - dd0ac04 (Mohamad Supangat, 2024-11-21)
 - menambahkan payment_id - 04e1f3a (Mohamad Supangat, 2024-11-21)
 - menambahkan seeder untuk memperbaiki alokasi - ea76b7e (Mohamad Supangat, 2024-11-20)
+
+
+### 20241120.18.30
+
+
+#### [aura-erp/Administration]
+- fix - 5c2fe95 (Mohamad Supangat, 2024-11-21)
