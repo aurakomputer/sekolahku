@@ -2274,3 +2274,16 @@
 - feat: menambahkan custom amount pada form alokasi - d7d1e32 (Mohamad Supangat, 2024-11-20)
 - melakukan perhitungan total be_paid ketika custom_be_paid - eacc601 (Mohamad Supangat, 2024-11-20)
 - menambahkan kolom kustom rincian - 1a8b78c (Mohamad Supangat, 2024-11-20)
+
+
+### 20241120.18.01
+
+
+#### [aura-erp/Administration]
+- feat - 3414b49 (Mohamad Supangat, 2024-11-21)
+- feat: nonaktifkan - 081329e (Mohamad Supangat, 2024-11-21)
+- fix: alokasi - c52f4c7 (Mohamad Supangat, 2024-11-21)
+- Merge remote-tracking branch 'origin/master' - 6e71be2 (Mohamad Supangat, 2024-11-21)
+- menambahkan payment_id - dd0ac04 (Mohamad Supangat, 2024-11-21)
+- menambahkan payment_id - 04e1f3a (Mohamad Supangat, 2024-11-21)
+- menambahkan seeder untuk memperbaiki alokasi - ea76b7e (Mohamad Supangat, 2024-11-20)
