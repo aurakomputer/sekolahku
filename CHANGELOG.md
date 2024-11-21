@@ -2294,3 +2294,12 @@
 
 #### [aura-erp/Administration]
 - fix - 5c2fe95 (Mohamad Supangat, 2024-11-21)
+
+
+### 20241121.06.43
+
+
+#### [aura-erp/aura-erp]
+- excel; master menambahkan background color - 287c195 (Mohamad Supangat, 2024-11-21)
+#### [aura-erp/Administration]
+- Menambahkan dana kolom dana belum di tempatkan di download export - b9b7ea2 (Mohamad Supangat, 2024-11-21)
