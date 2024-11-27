@@ -2303,3 +2303,12 @@
 - excel; master menambahkan background color - 287c195 (Mohamad Supangat, 2024-11-21)
 #### [aura-erp/Administration]
 - Menambahkan dana kolom dana belum di tempatkan di download export - b9b7ea2 (Mohamad Supangat, 2024-11-21)
+
+
+### 20241127.16.12
+
+
+#### [aura-erp/Administration]
+- Merge branch 'feat/export_yang_sudah_bayar' into 'master' - 1436432 (Mohamad Supangat, 2024-11-27)
+- feat: menampilkan kolom kekurangan - 5c4702b (Mohamad Supangat, 2024-11-26)
+- feat: export excel yang sudah bayar - 94fc04b (Mohamad Supangat, 2024-11-25)
