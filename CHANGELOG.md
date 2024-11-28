@@ -2312,3 +2312,14 @@
 - Merge branch 'feat/export_yang_sudah_bayar' into 'master' - 1436432 (Mohamad Supangat, 2024-11-27)
 - feat: menampilkan kolom kekurangan - 5c4702b (Mohamad Supangat, 2024-11-26)
 - feat: export excel yang sudah bayar - 94fc04b (Mohamad Supangat, 2024-11-25)
+
+
+### 20241128.16.39
+
+
+#### [aura-erp/aura-erp]
+- Merge remote-tracking branch 'origin/master' - 036fe37 (Mohamad Supangat, 2024-11-28)
+- excel: master add section thead, tbody and tfoot - 642aed9 (Mohamad Supangat, 2024-11-28)
+- excel: master add section thead, tbody and tfoot - db67d1f (Mohamad Supangat, 2024-11-28)
+#### [aura-erp/Administration]
+- feat: memfilter level pada export data - f1e5c3d (Mohamad Supangat, 2024-11-28)
