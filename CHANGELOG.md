@@ -2323,3 +2323,12 @@
 - excel: master add section thead, tbody and tfoot - db67d1f (Mohamad Supangat, 2024-11-28)
 #### [aura-erp/Administration]
 - feat: memfilter level pada export data - f1e5c3d (Mohamad Supangat, 2024-11-28)
+
+
+### 20241129.18.18
+
+
+#### [aura-erp/Administration]
+- feat: enable hapus alokasi - 7676394 (Mohamad Supangat, 2024-11-30)
+#### [aura-erp/Student]
+- Menambahkan filter level pada datatable - 197dced (Mohamad Supangat, 2024-11-30)
