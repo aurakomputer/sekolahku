@@ -2332,3 +2332,22 @@
 - feat: enable hapus alokasi - 7676394 (Mohamad Supangat, 2024-11-30)
 #### [aura-erp/Student]
 - Menambahkan filter level pada datatable - 197dced (Mohamad Supangat, 2024-11-30)
+
+
+### 20241205.17.19
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan fungsi untuk mengambil data monthlists - 6c85f54 (Mohamad Supangat, 2024-12-02)
+#### [aura-erp/Administration]
+- feat: disable perhitungan total - 92a8437 (Mohamad Supangat, 2024-12-06)
+- feat: Menampilkan tunggakan - 9f58400 (Mohamad Supangat, 2024-12-05)
+- feat: seeder untuk memperbaiki item kunjungan industri - cf55b35 (Mohamad Supangat, 2024-12-05)
+- fix: melakukan export excel untuk year_report - 3bb46f2 (Mohamad Supangat, 2024-12-05)
+- wip: export excel pembayaran bulanan - 07ac5c2 (Mohamad Supangat, 2024-12-03)
+- feat: done fixing data - 3bfa449 (Mohamad Supangat, 2024-12-03)
+- feat: fixing data - dc3ef0d (Mohamad Supangat, 2024-12-03)
+- feat: melakukan split api pengambilan data report year - c04b26a (Mohamad Supangat, 2024-12-02)
+- feat: laporan tahunan - 3cd2ea1 (Mohamad Supangat, 2024-12-01)
+- feat: menambahkan administration costs_items pada students table - d060df4 (Mohamad Supangat, 2024-12-01)
+- feat: migrasi kolom administration_costs ke administration_costs_status - b083b73 (Mohamad Supangat, 2024-12-01)
