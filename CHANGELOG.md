@@ -2351,3 +2351,13 @@
 - feat: laporan tahunan - 3cd2ea1 (Mohamad Supangat, 2024-12-01)
 - feat: menambahkan administration costs_items pada students table - d060df4 (Mohamad Supangat, 2024-12-01)
 - feat: migrasi kolom administration_costs ke administration_costs_status - b083b73 (Mohamad Supangat, 2024-12-01)
+
+
+### 20241206.18.42
+
+
+#### [aura-erp/Administration]
+- fix: Memperbaiki pengambilan data ketika export riwayat yang sudah membayar - e97d80a (Mohamad Supangat, 2024-12-07)
+- Memperbaiki kosong - 19f92df (Mohamad Supangat, 2024-12-07)
+#### [aura-erp/Student]
+- fix: permissions - c7e8879 (Mohamad Supangat, 2024-12-07)
