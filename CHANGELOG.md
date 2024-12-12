@@ -2361,3 +2361,12 @@
 - Memperbaiki kosong - 19f92df (Mohamad Supangat, 2024-12-07)
 #### [aura-erp/Student]
 - fix: permissions - c7e8879 (Mohamad Supangat, 2024-12-07)
+
+
+### 20241212.17.03
+
+
+#### [aura-erp/Administration]
+- feat: perbaikan dashboard menampilkan text kosong - b32282f (Mohamad Supangat, 2024-12-12)
+- feat: download excel dengan kategori pembayaran - f43d8c1 (Mohamad Supangat, 2024-12-12)
+- feat: ambil akumulasi amount berdasarkan jenis pembayaran - 890b7aa (Mohamad Supangat, 2024-12-12)
