@@ -2370,3 +2370,16 @@
 - feat: perbaikan dashboard menampilkan text kosong - b32282f (Mohamad Supangat, 2024-12-12)
 - feat: download excel dengan kategori pembayaran - f43d8c1 (Mohamad Supangat, 2024-12-12)
 - feat: ambil akumulasi amount berdasarkan jenis pembayaran - 890b7aa (Mohamad Supangat, 2024-12-12)
+
+
+### 20241219.18.03
+
+
+#### [aura-erp/aura-erp]
+- feat: profile background - e91e5da (Mohamad Supangat, 2024-12-20)
+#### [aura-erp/Administration]
+- feat: menampilkan kurang bayar - ff1a246 (Mohamad Supangat, 2024-12-20)
+- feat: menampilkan dana yang belum di tempatkan pada riwayat - 34cee90 (Mohamad Supangat, 2024-12-20)
+#### [aura-erp/Student]
+- feat: siswa tidak bisa mengupdate profile ketika disable by admin - 6f58aac (Mohamad Supangat, 2024-12-20)
+- fix: student form readonly - 10d4921 (Mohamad Supangat, 2024-12-20)
