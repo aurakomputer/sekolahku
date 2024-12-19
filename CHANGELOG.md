@@ -2383,3 +2383,8 @@
 #### [aura-erp/Student]
 - feat: siswa tidak bisa mengupdate profile ketika disable by admin - 6f58aac (Mohamad Supangat, 2024-12-20)
 - fix: student form readonly - 10d4921 (Mohamad Supangat, 2024-12-20)
+
+
+### 20241219.18.17
+
+
