@@ -2388,3 +2388,10 @@
 ### 20241219.18.17
 
 
+
+
+### 20241219.18.23
+
+
+#### [aura-erp/Administration]
+- fix: formatted ammount - d99b4fb (Mohamad Supangat, 2024-12-20)
