@@ -2395,3 +2395,10 @@
 
 #### [aura-erp/Administration]
 - fix: formatted ammount - d99b4fb (Mohamad Supangat, 2024-12-20)
+
+
+### 20241223.16.44
+
+
+#### [aura-erp/Administration]
+- feat: menambahkan lisensi card pada dashboard - 54a38e4 (Mohamad Supangat, 2024-12-23)
