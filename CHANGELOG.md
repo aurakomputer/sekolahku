@@ -2402,3 +2402,10 @@
 
 #### [aura-erp/Administration]
 - feat: menambahkan lisensi card pada dashboard - 54a38e4 (Mohamad Supangat, 2024-12-23)
+
+
+### 20241223.16.53
+
+
+#### [aura-erp/Administration]
+- wip: extend feature export data rekap siswa - 41f7291 (Mohamad Supangat, 2024-12-23)
