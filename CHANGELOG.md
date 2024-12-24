@@ -2409,3 +2409,12 @@
 
 #### [aura-erp/Administration]
 - wip: extend feature export data rekap siswa - 41f7291 (Mohamad Supangat, 2024-12-23)
+
+
+### 20241224.02.35
+
+
+#### [aura-erp/aura-erp]
+- fix: menampilkan lisensicard - 708f7b4 (Mohamad Supangat, 2024-12-24)
+#### [aura-erp/Administration]
+- fix: batasan limit export data - 284d9f8 (Mohamad Supangat, 2024-12-24)
