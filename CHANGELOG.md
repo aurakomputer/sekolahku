@@ -2418,3 +2418,11 @@
 - fix: menampilkan lisensicard - 708f7b4 (Mohamad Supangat, 2024-12-24)
 #### [aura-erp/Administration]
 - fix: batasan limit export data - 284d9f8 (Mohamad Supangat, 2024-12-24)
+
+
+### 20250111.02.44
+
+
+#### [aura-whatsapp/WhatsApp]
+- fix: penggunaan fungsi empty() - 51ee8e4 (Mohamad Supangat, 2025-01-11)
+- fix: pembuatan whatsapp message channel - 332d4d3 (Mohamad Supangat, 2025-01-11)
