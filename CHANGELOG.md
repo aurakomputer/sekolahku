@@ -2426,3 +2426,16 @@
 #### [aura-whatsapp/WhatsApp]
 - fix: penggunaan fungsi empty() - 51ee8e4 (Mohamad Supangat, 2025-01-11)
 - fix: pembuatan whatsapp message channel - 332d4d3 (Mohamad Supangat, 2025-01-11)
+
+
+### 20250117.06.26
+
+
+#### [aura-erp/aura-erp]
+- fix: using data_get to get id of row - a3f64bc (Mohamad Supangat, 2025-01-17)
+- feat: add vue devtools - e23beff (Mohamad Supangat, 2025-01-15)
+#### [aura-erp/MonitoringShalat]
+- fix: perhitungan total siswa - 0ef9a49 (Mohamad Supangat, 2025-01-15)
+#### [aura-erp/Administration]
+- feat: export rekap harian pembayaranr - ac7a9eb (Mohamad Supangat, 2025-01-17)
+- wip: filter berdasarkan payment - 3f04cbc (Mohamad Supangat, 2025-01-15)

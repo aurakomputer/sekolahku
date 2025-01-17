@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "708f7b479f9d7ef0d7a751808cfbbe609977d91f",
+  "aura-erp/aura-erp": "a3f64bc37e0185dc6d6878a48be7a217141bb6f8",
   "aura-whatsapp/WhatsAppViolationPoint": "943b5d9054aa264d80934e2f2b9ce8d5d40c0aef",
   "aura-whatsapp/WhatsAppStudent": "136df44007ed9ed81b6d01b4fb5fad35c40c4dd3",
   "aura-whatsapp/WhatsApp": "51ee8e432f0dfc46a6baf65857bd1db2566ac170",
@@ -15,8 +15,8 @@
   "aura-erp/Industry": "f4595d684d028d3301cafa7875432a82595d2175",
   "aura-erp/Student": "6f58aaccfb4f121df31a1b05f5d308ce0369603c",
   "aura-erp/Teacher": "d414ff77d12452e64c0c77484814c06b2855ab41",
-  "aura-erp/Administration": "284d9f87e22e451a0e95cb1c988d49cfaf7b625d",
+  "aura-erp/Administration": "ac7a9eb157b61f6fe8e04d58331a69a584ea463a",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
   "aura-erp/Course": "b7e86151b9ea64ff44100a16a2da75971e06a727",
-  "aura-erp/MonitoringShalat": "edeb8c14bfece2854ff42f2e5aa35b8f12078ab5"
+  "aura-erp/MonitoringShalat": "0ef9a49102ae22b9e4d3f29ace8120a7cc3ae97a"
 }
