@@ -2439,3 +2439,10 @@
 #### [aura-erp/Administration]
 - feat: export rekap harian pembayaranr - ac7a9eb (Mohamad Supangat, 2025-01-17)
 - wip: filter berdasarkan payment - 3f04cbc (Mohamad Supangat, 2025-01-15)
+
+
+### 20250117.06.43
+
+
+#### [aura-erp/Administration]
+- feat: command - f549940 (Mohamad Supangat, 2025-01-17)
