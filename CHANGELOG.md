@@ -2446,3 +2446,23 @@
 
 #### [aura-erp/Administration]
 - feat: command - f549940 (Mohamad Supangat, 2025-01-17)
+
+
+### 20250128.07.22
+
+
+#### [aura-erp/aura-erp]
+- fix: usePage props return null - 97a6918 (Mohamad Supangat, 2025-01-28)
+- fix: route.check - 4543461 (Mohamad Supangat, 2025-01-21)
+- fix: error route - a0df944 (Mohamad Supangat, 2025-01-21)
+- Perbaikan penggunaan fungsi route - fbf50eb (Mohamad Supangat, 2025-01-21)
+- upgrade laravel and node.js package - 9c44189 (Mohamad Supangat, 2025-01-21)
+#### [aura-erp/MonitoringShalat]
+- perbaikan: q-calendar - 2192580 (Mohamad Supangat, 2025-01-28)
+#### [aura-erp/Administration]
+- Merge branch 'summary' into 'master' - b29447b (Mohamad Supangat, 2025-01-28)
+- wip: summary - 38c0338 (Mohamad Supangat, 2025-01-21)
+#### [aura-erp/ViolationPoint]
+- memperbarui meta - 88b1ce6 (Mohamad Supangat, 2024-09-14)
+#### [aura-erp/Internship]
+- fix: perbaikan qcalendar - 1d6dbe9 (Mohamad Supangat, 2025-01-28)
