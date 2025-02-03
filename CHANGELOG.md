@@ -2488,3 +2488,16 @@
 - perbaikan: qcalendar - a48e67d (Mohamad Supangat, 2025-01-28)
 #### [aura-erp/WifiShare]
 - format: - d41b9e9 (Mohamad Supangat, 2025-01-28)
+
+
+### 20250203.02.22
+
+
+#### [aura-erp/aura-erp]
+- Update target api kodepos - 39341b5 (Mohamad Supangat, 2025-02-03)
+- update: composer dan node - 498d225 (Mohamad Supangat, 2025-02-03)
+- fix: migration seed all - 4468ed6 (Mohamad Supangat, 2025-01-31)
+- fix: default setting tab is all - d225179 (Mohamad Supangat, 2025-01-29)
+#### [aura-erp/Teacher]
+- fix: menyimpan data role ketika teachers tidak di isi - c467802 (Mohamad Supangat, 2025-02-03)
+- fix: tidak bisa simpan ketika role_ids di kosongkan - a4b2400 (Mohamad Supangat, 2025-02-03)
