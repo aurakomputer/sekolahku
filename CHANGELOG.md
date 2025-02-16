@@ -2501,3 +2501,13 @@
 #### [aura-erp/Teacher]
 - fix: menyimpan data role ketika teachers tidak di isi - c467802 (Mohamad Supangat, 2025-02-03)
 - fix: tidak bisa simpan ketika role_ids di kosongkan - a4b2400 (Mohamad Supangat, 2025-02-03)
+
+
+### 20250216.14.56
+
+
+#### [aura-erp/Administration]
+- Merge remote-tracking branch 'origin/master' - 00478a9 (Mohamad Supangat, 2025-02-16)
+- Export excel siswa resign - 45cd9d1 (Mohamad Supangat, 2025-02-16)
+- menampilkan data siswa yang sudah di hapus - df95ee6 (Mohamad Supangat, 2025-02-16)
+- menampilkan data siswa yang sudah di hapus - e4ab4ff (Mohamad Supangat, 2025-02-16)
