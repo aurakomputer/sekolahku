@@ -2511,3 +2511,10 @@
 - Export excel siswa resign - 45cd9d1 (Mohamad Supangat, 2025-02-16)
 - menampilkan data siswa yang sudah di hapus - df95ee6 (Mohamad Supangat, 2025-02-16)
 - menampilkan data siswa yang sudah di hapus - e4ab4ff (Mohamad Supangat, 2025-02-16)
+
+
+### 20250217.06.58
+
+
+#### [aura-erp/Administration]
+- perbaikan permission utuk akses menu - 94e1134 (Mohamad Supangat, 2025-02-17)
