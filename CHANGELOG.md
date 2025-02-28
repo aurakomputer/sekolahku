@@ -2518,3 +2518,14 @@
 
 #### [aura-erp/Administration]
 - perbaikan permission utuk akses menu - 94e1134 (Mohamad Supangat, 2025-02-17)
+
+
+### 20250228.03.19
+
+
+#### [aura-erp/Administration]
+- fix: ketika parameter student bersifat null maka jangan lakukan aksi lebih lanjut - 06fb5ec (Mohamad Supangat, 2025-02-19)
+#### [aura-erp/Pesantren]
+- fix: hapus kalimat jam kerja - c93dc41 (Mohamad Supangat, 2025-02-28)
+#### [aura-erp/StudentRegistration]
+- fix: permission untuk dapat kelola jadwal pendaftaran - cdefc14 (Mohamad Supangat, 2025-02-21)
