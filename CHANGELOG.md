@@ -2529,3 +2529,12 @@
 - fix: hapus kalimat jam kerja - c93dc41 (Mohamad Supangat, 2025-02-28)
 #### [aura-erp/StudentRegistration]
 - fix: permission untuk dapat kelola jadwal pendaftaran - cdefc14 (Mohamad Supangat, 2025-02-21)
+
+
+### 20250308.03.23
+
+
+#### [aura-erp/aura-erp]
+- migrate using bun - eec24a4 (Mohamad Supangat, 2025-03-06)
+#### [aura-erp/Pesantren]
+- Edit PesantrenJournalController.php - 6b45417 (Mohamad Supangat, 2025-03-08)
