@@ -2538,3 +2538,18 @@
 - migrate using bun - eec24a4 (Mohamad Supangat, 2025-03-06)
 #### [aura-erp/Pesantren]
 - Edit PesantrenJournalController.php - 6b45417 (Mohamad Supangat, 2025-03-08)
+
+
+### 20250317.14.27
+
+
+#### [aura-erp/aura-erp]
+- Merge branch 'webpage' - 3221a8d (Mohamad Supangat, 2025-03-17)
+- Merge remote-tracking branch 'origin/master' - ec07d8c (Mohamad Supangat, 2025-03-17)
+- disable mendapatkan data css dan tailwind - 045028f (Mohamad Supangat, 2025-03-17)
+- feat: menampilkan pesan error - 3feb78a (Mohamad Supangat, 2025-03-09)
+- fix: tidak bisa memunculkan form edit navigasi - e369c6d (Mohamad Supangat, 2025-03-09)
+- fix: perbaikan tidak ditemukan router untuk halaman - 0a56684 (Mohamad Supangat, 2025-03-09)
+- fix: perbaikan tidak ditemukan router untuk halaman - f3b2253 (Mohamad Supangat, 2025-03-09)
+#### [aura-erp/Administration]
+- dashboard ambil tahun sekaran g - 5972225 (Mohamad Supangat, 2025-03-09)
