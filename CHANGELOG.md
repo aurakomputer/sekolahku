@@ -2553,3 +2553,10 @@
 - fix: perbaikan tidak ditemukan router untuk halaman - f3b2253 (Mohamad Supangat, 2025-03-09)
 #### [aura-erp/Administration]
 - dashboard ambil tahun sekaran g - 5972225 (Mohamad Supangat, 2025-03-09)
+
+
+### 20250410.03.33
+
+
+#### [aura-erp/StudentRegistration]
+- fix: tidak bisa melakukan mass input seragam - bd80692 (Mohamad Supangat, 2025-04-10)
