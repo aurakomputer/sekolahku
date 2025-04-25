@@ -2560,3 +2560,10 @@
 
 #### [aura-erp/StudentRegistration]
 - fix: tidak bisa melakukan mass input seragam - bd80692 (Mohamad Supangat, 2025-04-10)
+
+
+### 20250425.19.11
+
+
+#### [aura-erp/StudentRegistration]
+- fix: tidak bisa download rekap seragam - abc810f (Mohamad Supangat, 2025-04-14)
