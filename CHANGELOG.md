@@ -2567,3 +2567,10 @@
 
 #### [aura-erp/StudentRegistration]
 - fix: tidak bisa download rekap seragam - abc810f (Mohamad Supangat, 2025-04-14)
+
+
+### 20250429.06.32
+
+
+#### [aura-erp/Payment]
+- fix: memperbaiki unique number - 744d9af (Mohamad Supangat, 2025-04-29)
