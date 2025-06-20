@@ -2606,3 +2606,12 @@
 #### [aura-erp/Student]
 - wip: melengkapi data siswa - 9d60b85 (Mohamad Supangat, 2025-05-08)
 - wip: melengkapi form siswa - 3dd5b11 (Mohamad Supangat, 2025-05-08)
+
+
+### 20250620.10.14
+
+
+#### [aura-erp/aura-erp]
+- fix: publish module asset - 82a6e9c (Mohamad Supangat, 2025-06-20)
+#### [aura-erp/Student]
+- feat: import kenaikan kelas siswa masal - f958470 (Mohamad Supangat, 2025-06-20)
