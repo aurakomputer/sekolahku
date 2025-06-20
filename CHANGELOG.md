@@ -2615,3 +2615,12 @@
 - fix: publish module asset - 82a6e9c (Mohamad Supangat, 2025-06-20)
 #### [aura-erp/Student]
 - feat: import kenaikan kelas siswa masal - f958470 (Mohamad Supangat, 2025-06-20)
+
+
+### 20250620.17.48
+
+
+#### [aura-erp/aura-erp]
+- fix: ganti / downgrade ke versi php8.3 - cbe3a89 (Mohamad Supangat, 2025-06-21)
+#### [aura-erp/Student]
+- fix: set max_execution time to 0 waktu import data kels - 81f46c8 (Mohamad Supangat, 2025-06-21)
