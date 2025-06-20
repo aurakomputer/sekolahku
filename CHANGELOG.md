@@ -2579,3 +2579,30 @@
 ### 20250620.09.21
 
 
+
+
+### 20250620.09.25
+
+
+#### [aura-erp/aura-erp]
+- Merge branch 'feat/installer' into 'master' - f39f2b2 (Mohamad Supangat, 2025-06-20)
+- installasi aplikasi Sukses - 0e6ad91 (Mohamad Supangat, 2025-06-20)
+- update caddy - 8ce58a0 (Mohamad Supangat, 2025-06-20)
+- wip: installer page - ead7610 (Mohamad Supangat, 2025-06-19)
+- api untuk melakukan instalasi aplikasi - 824cce0 (Mohamad Supangat, 2025-05-31)
+- update db api - 246d240 (Mohamad Supangat, 2025-05-31)
+- Menambahkan route untuk installasi aplikasi - d6a2df2 (Mohamad Supangat, 2025-05-25)
+- frankenphp: menambahkan caddyfile - 2065505 (Mohamad Supangat, 2025-05-25)
+- add cache - 05445ad (Mohamad Supangat, 2025-05-25)
+- set default vite port ke 3000 - db89118 (Mohamad Supangat, 2025-04-30)
+#### [aura-erp/Information]
+- fix: muncul error ketika user sudah di hapus - 35ea290 (Mohamad Supangat, 2025-05-19)
+- fix: memunculkan error ketika user sudah di hapus - 2b2b776 (Mohamad Supangat, 2025-05-19)
+- Mengubah lisensi module information menjadi free to use - c939f2a (Mohamad Supangat, 2025-05-08)
+#### [aura-erp/StudentRegistration]
+- fix: tidak bisa membuka dashboard di karenakan jadwal masih kosong - a458495 (Mohamad Supangat, 2025-05-08)
+#### [aura-erp/ViolationPoint]
+- fix: ketika berstatus tidak terinstall - 53529e5 (Mohamad Supangat, 2025-05-25)
+#### [aura-erp/Student]
+- wip: melengkapi data siswa - 9d60b85 (Mohamad Supangat, 2025-05-08)
+- wip: melengkapi form siswa - 3dd5b11 (Mohamad Supangat, 2025-05-08)
