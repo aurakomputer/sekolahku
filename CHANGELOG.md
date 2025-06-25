@@ -2640,3 +2640,10 @@
 
 #### [aura-erp/aura-erp]
 - jika demo maka jangan tambahkan middleware pada update - 0d7fc9d (Mohamad Supangat, 2025-06-25)
+
+
+### 20250625.17.43
+
+
+#### [aura-erp/aura-erp]
+- fix: ignore installed - 0116ed6 (Mohamad Supangat, 2025-06-26)
