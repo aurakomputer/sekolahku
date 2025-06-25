@@ -2633,3 +2633,10 @@
 - feat: melakukan faking data pada demo mode - a8f09a0 (Mohamad Supangat, 2025-06-25)
 #### [aura-erp/Teacher]
 - feat: dummy data teacher - 78b5b1e (Mohamad Supangat, 2025-06-25)
+
+
+### 20250625.10.04
+
+
+#### [aura-erp/aura-erp]
+- jika demo maka jangan tambahkan middleware pada update - 0d7fc9d (Mohamad Supangat, 2025-06-25)
