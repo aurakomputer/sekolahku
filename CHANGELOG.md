@@ -2624,3 +2624,12 @@
 - fix: ganti / downgrade ke versi php8.3 - cbe3a89 (Mohamad Supangat, 2025-06-21)
 #### [aura-erp/Student]
 - fix: set max_execution time to 0 waktu import data kels - 81f46c8 (Mohamad Supangat, 2025-06-21)
+
+
+### 20250625.04.52
+
+
+#### [aura-erp/Student]
+- feat: melakukan faking data pada demo mode - a8f09a0 (Mohamad Supangat, 2025-06-25)
+#### [aura-erp/Teacher]
+- feat: dummy data teacher - 78b5b1e (Mohamad Supangat, 2025-06-25)
