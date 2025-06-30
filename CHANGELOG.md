@@ -2717,3 +2717,16 @@
 - update - 4451007 (Mohamad Supangat, 2025-06-29)
 - feat: menambahkan kolom school_id ke siswa - a3b3ed2 (Mohamad Supangat, 2025-06-28)
 - feat: menambahkan relasi sekolah ke daftar kelas dan jurusan - 7e8eea0 (Mohamad Supangat, 2025-06-28)
+
+
+### 20250630.16.18
+
+
+#### [aura-erp/School]
+- Merge branch 'kelola' - 0180ae5 (Mohamad Supangat, 2025-06-30)
+- feat: menambahkan komponent select - f9b6c75 (Mohamad Supangat, 2025-06-28)
+- fix; hapus seolah - 63aadf4 (Mohamad Supangat, 2025-06-28)
+- fix: detail mode - 9fd898f (Mohamad Supangat, 2025-06-28)
+- fix: detail mode - 9e4c3cb (Mohamad Supangat, 2025-06-28)
+- fix: mengedit data sekolah - db8f1de (Mohamad Supangat, 2025-06-28)
+- inisiasi moudle sekolah - 8591337 (Mohamad Supangat, 2025-06-28)
