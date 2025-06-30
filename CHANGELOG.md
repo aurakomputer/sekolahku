@@ -2647,3 +2647,38 @@
 
 #### [aura-erp/aura-erp]
 - fix: ignore installed - 0116ed6 (Mohamad Supangat, 2025-06-26)
+
+
+### 20250630.15.57
+
+
+#### [aura-erp/aura-erp]
+- feat: memperbaiki halaman website builder - b766246 (Mohamad Supangat, 2025-06-30)
+- feat: auth button - b05f605 (Mohamad Supangat, 2025-06-30)
+- feat: including uno css for best - fccf94e (Mohamad Supangat, 2025-06-30)
+- redesign to new styling - dcd4863 (Mohamad Supangat, 2025-06-30)
+- enchance image uploader - 4d4ccc1 (Mohamad Supangat, 2025-06-28)
+- Merge branch 'master' into feat/multi_schools - 7792386 (Mohamad Supangat, 2025-06-28)
+- hapus variable .env example yang tidak digunakan - 5328379 (Mohamad Supangat, 2025-06-28)
+- feat: memperbaiki struktur index.js - 6f0d07f (Mohamad Supangat, 2025-06-28)
+- fix: readonly image selector - 28c0be8 (Mohamad Supangat, 2025-06-28)
+- fix: halaman installer tidak merespon - fbdd577 (Mohamad Supangat, 2025-06-26)
+#### [aura-erp/Administration]
+- remove command reset payment number - 24b269f (Mohamad Supangat, 2025-06-21)
+#### [aura-erp/Information]
+- fix: perbesar ukuran gambar - 54aae50 (Mohamad Supangat, 2025-06-30)
+- feat: seeder untuk portal berita - b7a5aa6 (Mohamad Supangat, 2025-06-30)
+#### [aura-erp/Student]
+- wip: check jika multiple tahun ajaran - c5d0f0f (Mohamad Supangat, 2025-06-30)
+- feat: redesign form - 397981b (Mohamad Supangat, 2025-06-30)
+- add  todo - 494044b (Mohamad Supangat, 2025-06-30)
+- redisgn - de83eaa (Mohamad Supangat, 2025-06-30)
+- hapus header resign - 5eeef93 (Mohamad Supangat, 2025-06-30)
+- feat: pengecekan duplikasi sekolah pada import data siswa - 3428ac8 (Mohamad Supangat, 2025-06-30)
+- feat: menambahkan unique pada id_number dan school_id - be73ae2 (Mohamad Supangat, 2025-06-29)
+- feat: menampilkan kode sekolah pada daftar siswa - ad099ed (Mohamad Supangat, 2025-06-29)
+- feat: melakukan filter sekolah pada daftar siswa - 49f4e4b (Mohamad Supangat, 2025-06-29)
+- Command untuk update data siswa ke data kelas telahir - 9fe00bd (Mohamad Supangat, 2025-06-29)
+- update - 4451007 (Mohamad Supangat, 2025-06-29)
+- feat: menambahkan kolom school_id ke siswa - a3b3ed2 (Mohamad Supangat, 2025-06-28)
+- feat: menambahkan relasi sekolah ke daftar kelas dan jurusan - 7e8eea0 (Mohamad Supangat, 2025-06-28)
