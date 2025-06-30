@@ -2730,3 +2730,11 @@
 - fix: detail mode - 9e4c3cb (Mohamad Supangat, 2025-06-28)
 - fix: mengedit data sekolah - db8f1de (Mohamad Supangat, 2025-06-28)
 - inisiasi moudle sekolah - 8591337 (Mohamad Supangat, 2025-06-28)
+
+
+### 20250630.16.33
+
+
+#### [aura-erp/Student]
+- wip: - e0fa2d9 (Mohamad Supangat, 2025-06-30)
+- feat: Hapus field yang tidak di gunakan - 79514f5 (Mohamad Supangat, 2025-06-30)
