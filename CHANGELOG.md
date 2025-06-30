@@ -2738,3 +2738,10 @@
 #### [aura-erp/Student]
 - wip: - e0fa2d9 (Mohamad Supangat, 2025-06-30)
 - feat: Hapus field yang tidak di gunakan - 79514f5 (Mohamad Supangat, 2025-06-30)
+
+
+### 20250630.17.03
+
+
+#### [aura-erp/aura-erp]
+- fix: pdf using bootstrap css - 09f95fe (Mohamad Supangat, 2025-06-30)
