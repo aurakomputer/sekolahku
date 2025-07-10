@@ -2745,3 +2745,71 @@
 
 #### [aura-erp/aura-erp]
 - fix: pdf using bootstrap css - 09f95fe (Mohamad Supangat, 2025-06-30)
+
+
+### 20250710.06.31
+
+
+#### [aura-erp/aura-erp]
+- feat: fungsi actor modification traits - 4760e9e (Mohamad Supangat, 2025-07-10)
+- wip: actor traits - f1b6e09 (Mohamad Supangat, 2025-07-10)
+- revert disable some prettier config - d6d2b07 (Mohamad Supangat, 2025-07-09)
+- menambahkan vue pug - 8328ebe (Mohamad Supangat, 2025-07-09)
+- Menambahkan prettier organize improt - 1c76980 (Mohamad Supangat, 2025-07-09)
+- update bun package - 3bace8c (Mohamad Supangat, 2025-07-09)
+- feat: helpers format tanggal - d8798c7 (Mohamad Supangat, 2025-07-09)
+- fix - 187a1f4 (Mohamad Supangat, 2025-07-08)
+- default print font - 00ea840 (Mohamad Supangat, 2025-07-08)
+- print.css menggunakan font inter untuk hasil lebih baik - 615c89e (Mohamad Supangat, 2025-07-08)
+- enable border di table print.css - db07ffb (Mohamad Supangat, 2025-07-07)
+- feat: menambahkan fungsi generateFullAdress - 91a8108 (Mohamad Supangat, 2025-07-06)
+- feat: default margin pada print master - 038144b (Mohamad Supangat, 2025-07-04)
+- menambahkan master style - 31cdf70 (Mohamad Supangat, 2025-07-04)
+- tinker kedalam composer - a8476b3 (Mohamad Supangat, 2025-07-04)
+- fix: animasi berantakan - bdb026b (Mohamad Supangat, 2025-07-04)
+- feat: takedown tab sekolah pada halaman - ec72791 (Mohamad Supangat, 2025-07-04)
+- jika aplikasi dalam mode production maka jalankan print server - 565aa9d (Mohamad Supangat, 2025-07-04)
+- env: default app_debug = false - 378bc19 (Mohamad Supangat, 2025-07-04)
+- feat: menambahkan include pada compoenent selectApi - a56f1b9 (Mohamad Supangat, 2025-07-03)
+- add placeholder to image uploader - 855e941 (Mohamad Supangat, 2025-07-02)
+- fix: response message - 7e3e76a (Mohamad Supangat, 2025-07-01)
+- feeat: optimasi pengecek navigasi yang aktif - df63a9c (Mohamad Supangat, 2025-07-01)
+- fix: tabs hilang - 2dcbde5 (Mohamad Supangat, 2025-07-01)
+#### [aura-erp/Document]
+- feat: custom fields pada halaman print preview - a74af4a (Mohamad Supangat, 2025-07-09)
+- tambah link untuk open previewurl - fe1e49d (Mohamad Supangat, 2025-07-08)
+- migrasi penggunaan template menjadi blade full - 24e1923 (Mohamad Supangat, 2025-07-08)
+- feat: menambahkan default variable kop suratdan ttd kepsek - b1cdc57 (Mohamad Supangat, 2025-07-08)
+- feat: menambahkan selectSchool pada form template - 1aa1099 (Mohamad Supangat, 2025-07-08)
+- feat: perbaikan api hapus data - eefc2f4 (Mohamad Supangat, 2025-07-08)
+- feat: menambahkan school pada form template - dde1826 (Mohamad Supangat, 2025-07-08)
+- feat: menambahan relasi school pada temlate - dcb53e6 (Mohamad Supangat, 2025-07-08)
+- feat: menggunakan blade untuk template document - 3310f6b (Mohamad Supangat, 2025-07-07)
+- feat: menambahkan beberapa data - a65767b (Mohamad Supangat, 2025-07-06)
+- tambah fomat tanggal - 5e21664 (Mohamad Supangat, 2025-07-05)
+- fix: proses photo - 8a0348f (Mohamad Supangat, 2025-07-05)
+- feat: menambahkan attribute formatTanggal - bebcf78 (Mohamad Supangat, 2025-07-04)
+- margin top - 38cb38c (Mohamad Supangat, 2025-07-04)
+- Penambahan master - 3895a22 (Mohamad Supangat, 2025-07-04)
+- print settings - 2a33cd7 (Mohamad Supangat, 2025-07-04)
+- feat: fungsi render - 2baf66f (Mohamad Supangat, 2025-07-04)
+- Merge remote-tracking branch 'origin/master' - ca18ce9 (Mohamad Supangat, 2025-07-04)
+- feat: beberapa helpers dan fungsi cetak - 82170f2 (Mohamad Supangat, 2025-07-04)
+- feat: beberapa helpers dan fungsi cetak - 96b292a (Mohamad Supangat, 2025-07-04)
+- kelola template document - f3d19cd (Mohamad Supangat, 2025-07-04)
+- Module: template migrasi - 4a7d8e6 (Mohamad Supangat, 2025-07-04)
+- init dokumen modul - b0bc703 (Mohamad Supangat, 2025-06-28)
+#### [aura-erp/School]
+- seeder ketika tidak ada data sekolah sama sekali - 4a41709 (Mohamad Supangat, 2025-07-08)
+- add php csfixer config - 5145089 (Mohamad Supangat, 2025-07-06)
+- feat: memperbaiki form - 56eb1b4 (Mohamad Supangat, 2025-07-02)
+- feat: upload logo sekolah - aa332e2 (Mohamad Supangat, 2025-07-02)
+#### [aura-erp/Administration]
+- add todo: - 23eeb14 (Mohamad Supangat, 2025-07-04)
+#### [aura-erp/StudentRegistration]
+- fix: dapat hapus jika lebih dari 0 - deb4933 (Mohamad Supangat, 2025-07-09)
+#### [aura-erp/Teacher]
+- disable uppercase nama guru - aae7c76 (Mohamad Supangat, 2025-07-06)
+- feat: menambahkan NIP pada table - 80bb6ae (Mohamad Supangat, 2025-07-06)
+- feat: menambahkan nip dan jenis kelamin pada colom - f9764cf (Mohamad Supangat, 2025-07-06)
+- feat: menambahkan bebreapa details pada teachers - 45d56cb (Mohamad Supangat, 2025-07-06)
