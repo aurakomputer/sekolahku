@@ -2813,3 +2813,12 @@
 - feat: menambahkan NIP pada table - 80bb6ae (Mohamad Supangat, 2025-07-06)
 - feat: menambahkan nip dan jenis kelamin pada colom - f9764cf (Mohamad Supangat, 2025-07-06)
 - feat: menambahkan bebreapa details pada teachers - 45d56cb (Mohamad Supangat, 2025-07-06)
+
+
+### 20250710.08.24
+
+
+#### [aura-erp/aura-erp]
+- fix: save unique name - c5bc0a7 (Mohamad Supangat, 2025-07-10)
+#### [aura-erp/Teacher]
+- fix: nama hilang - 1694a7b (Mohamad Supangat, 2025-07-10)
