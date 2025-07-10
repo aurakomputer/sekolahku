@@ -2822,3 +2822,31 @@
 - fix: save unique name - c5bc0a7 (Mohamad Supangat, 2025-07-10)
 #### [aura-erp/Teacher]
 - fix: nama hilang - 1694a7b (Mohamad Supangat, 2025-07-10)
+
+
+### 20250710.18.43
+
+
+#### [aura-erp/aura-erp]
+- fix: queue dijalankan dengan listen dan 5 kali gagal - 6e07170 (Mohamad Supangat, 2025-07-11)
+- feat: simple - d8b0ad3 (Mohamad Supangat, 2025-07-10)
+- feat: menambahkan layout dasar untuk website versi quasar / vue - 20d3b2e (Mohamad Supangat, 2025-07-10)
+- feat: mengubah variable style menjadi url normal - d54123f (Mohamad Supangat, 2025-07-10)
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- fix: shoud queue - 2f2bb3a (Mohamad Supangat, 2025-07-10)
+#### [aura-whatsapp/WhatsApp]
+- feat: integrasi dengan mpwa - f36c132 (Mohamad Supangat, 2025-07-10)
+- feat: menambahkan type mpwa untuk whatsapp connector - 5eca4cd (Mohamad Supangat, 2025-07-10)
+#### [aura-erp/Internship]
+- feat: notifikasi berjalan di latar belakang - c9bd953 (Mohamad Supangat, 2025-07-11)
+- feat: notifikasi ketika di terima / di reject - 82d67c1 (Mohamad Supangat, 2025-07-11)
+- feat: event whatsapp untuk pendaftaran penempatan prakerin - 0bfb3ec (Mohamad Supangat, 2025-07-11)
+- menambahkan event whatsapp - 9cf071c (Mohamad Supangat, 2025-07-11)
+- fix: tidak bisa menampilkan pembimbing siswa - fb31f52 (Mohamad Supangat, 2025-07-10)
+- feat: menampilkan daftar industri prakerin pada halaman web - 9d697fe (Mohamad Supangat, 2025-07-10)
+- feat: menambahkan meta - 859ab93 (Mohamad Supangat, 2025-07-10)
+#### [aura-erp/Industry]
+- fix: pengambilan sisa quota secara global - 7bd14c0 (Mohamad Supangat, 2025-07-11)
+- disable uppercase - 14f6e82 (Mohamad Supangat, 2025-07-10)
+#### [aura-erp/Teacher]
+- fix: duplicate no. hp / whatsapp - 0aa4f64 (Mohamad Supangat, 2025-07-11)
