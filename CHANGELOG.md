@@ -2857,3 +2857,11 @@
 
 #### [aura-erp/Internship]
 - feat: mempeprbaiki narasi notifikasi - fbcd805 (Mohamad Supangat, 2025-07-11)
+
+
+### 20250711.03.05
+
+
+#### [aura-erp/aura-erp]
+- fix: memperbaiki lokasi backup tidak sesuai - d8f7ac7 (Mohamad Supangat, 2025-07-11)
+- fix: fitur backup tidak berjalan - 6cc2511 (Mohamad Supangat, 2025-07-11)
