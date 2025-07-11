@@ -2881,3 +2881,16 @@
 ### 20250711.07.23
 
 
+
+
+### 20250711.18.00
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan updater storage - 8ad98d6 (Mohamad Supangat, 2025-07-12)
+#### [aura-erp/Internship]
+- feat: disable queueable - 05d29a2 (Mohamad Supangat, 2025-07-12)
+- fix: bypass semua percetakan - edabf14 (Mohamad Supangat, 2025-07-12)
+- fix: memperbaiki alur ketika prakeri berstatus di reject - a68d329 (Mohamad Supangat, 2025-07-12)
+- pengaturan surat - c1c8d3e (Mohamad Supangat, 2025-07-12)
+- feat: toggle surat - 11ce86a (Mohamad Supangat, 2025-07-11)
