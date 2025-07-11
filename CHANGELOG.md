@@ -2850,3 +2850,10 @@
 - disable uppercase - 14f6e82 (Mohamad Supangat, 2025-07-10)
 #### [aura-erp/Teacher]
 - fix: duplicate no. hp / whatsapp - 0aa4f64 (Mohamad Supangat, 2025-07-11)
+
+
+### 20250711.02.50
+
+
+#### [aura-erp/Internship]
+- feat: mempeprbaiki narasi notifikasi - fbcd805 (Mohamad Supangat, 2025-07-11)
