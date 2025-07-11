@@ -2865,3 +2865,14 @@
 #### [aura-erp/aura-erp]
 - fix: memperbaiki lokasi backup tidak sesuai - d8f7ac7 (Mohamad Supangat, 2025-07-11)
 - fix: fitur backup tidak berjalan - 6cc2511 (Mohamad Supangat, 2025-07-11)
+
+
+### 20250711.07.08
+
+
+#### [aura-whatsapp/WhatsApp]
+- fix: tidak bisa create client - bb1596f (Mohamad Supangat, 2025-07-11)
+#### [aura-erp/Industry]
+- fix: middleware datatabkle - d3558b4 (Mohamad Supangat, 2025-07-11)
+#### [aura-erp/Teacher]
+- fix: form tambah guru tidak terdeteksi - 92cd42f (Mohamad Supangat, 2025-07-11)
