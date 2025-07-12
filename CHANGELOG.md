@@ -2955,3 +2955,13 @@
 - fix: pengambilan data sekolah - af7d9e5 (Mohamad Supangat, 2025-07-12)
 #### [aura-erp/Student]
 - feat: perbaikan lihat data siswa sebagai wali kelas - 26947ed (Mohamad Supangat, 2025-07-12)
+
+
+### 20250712.16.40
+
+
+#### [aura-erp/Internship]
+- fix: pengambilan jenis kelamin pada surat - d195cd7 (Mohamad Supangat, 2025-07-12)
+#### [aura-erp/Student]
+- fix: readonly nis pada form data siswa - 20d76a2 (Mohamad Supangat, 2025-07-12)
+- fix: perijinan untuk melihat data siswa pada perijinan wali kelas - 44535ed (Mohamad Supangat, 2025-07-12)
