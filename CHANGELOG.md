@@ -2943,3 +2943,15 @@
 ### 20250712.03.50
 
 
+
+
+### 20250712.09.36
+
+
+#### [aura-erp/aura-erp]
+- feat: fungsi untuk mengecek hasPermissions - ce37ca5 (Mohamad Supangat, 2025-07-12)
+#### [aura-erp/Internship]
+- remove general Settings - 557f38d (Mohamad Supangat, 2025-07-12)
+- fix: pengambilan data sekolah - af7d9e5 (Mohamad Supangat, 2025-07-12)
+#### [aura-erp/Student]
+- feat: perbaikan lihat data siswa sebagai wali kelas - 26947ed (Mohamad Supangat, 2025-07-12)
