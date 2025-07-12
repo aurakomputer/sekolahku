@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Student",
+    "repo": "https://gitlab.com/aura-erp/Student.git",
+    "description": "Database Siswa",
+    "core": true
+  },
+  {
+    "name": "Teacher",
+    "repo": "https://gitlab.com/aura-erp/Teacher.git",
+    "description": "Database Guru",
+    "core": true
+  },
+  {
+    "name": "Document",
+    "repo": "https://gitlab.com/aura-erp/Document.git",
+    "description": "Pengelolaan Template Surat",
+    "core": true
+  },
+  {
+    "name": "School",
+    "repo": "https://gitlab.com/aura-erp/School.git",
+    "description": "Module yang digunakan untuk menyimpan data sekolah, dan integrasi multi sekolah",
+    "core": true
+  },
+  {
+    "name": "MonitoringShalat",
+    "repo": "https://gitlab.com/aura-erp/MonitoringShalat.git",
+    "description": ""
+  },
+  {
+    "name": "Administration",
+    "repo": "https://gitlab.com/aura-erp/Administration.git",
+    "description": ""
+  },
+  {
+    "name": "WhatsAppViolationPoint",
+    "repo": "https://gitlab.com/aura-whatsapp/WhatsAppViolationPoint.git",
+    "description": "Konektor WhatsApp untuk plugin Point Pelanggaran"
+  },
+  {
+    "name": "WhatsAppStudent",
+    "repo": "https://gitlab.com/aura-whatsapp/WhatsAppStudent.git",
+    "description": ""
+  },
+  {
+    "name": "WhatsApp",
+    "repo": "https://gitlab.com/aura-whatsapp/WhatsApp.git",
+    "description": "",
+    "core": true
+  },
+  {
+    "name": "Achievement",
+    "repo": "https://gitlab.com/aura-erp/Achievement.git",
+    "description": ""
+  },
+  {
+    "name": "Information",
+    "repo": "https://gitlab.com/aura-erp/Information.git",
+    "description": ""
+  },
+  {
+    "name": "Pesantren",
+    "repo": "https://gitlab.com/aura-erp/Pesantren.git",
+    "description": ""
+  },
+  {
+    "name": "Payment",
+    "repo": "https://gitlab.com/aura-erp/Payment.git",
+    "description": "Module Untuk Menanggulangi pembayaran"
+  },
+  {
+    "name": "StudentRegistration",
+    "repo": "https://gitlab.com/aura-erp/StudentRegistration.git",
+    "description": "Melakukan pendaftaran peserta didik baru "
+  },
+  {
+    "name": "WifiShare",
+    "repo": "https://gitlab.com/aura-erp/WifiShare.git",
+    "description": "Share Password wifi siswa"
+  },
+  {
+    "name": "ViolationPoint",
+    "repo": "https://gitlab.com/aura-erp/ViolationPoint.git",
+    "description": "Penyimpan data Point Pelanggaran Setiap Siswa"
+  },
+  {
+    "name": "AlQuran",
+    "repo": "https://gitlab.com/aura-erp/AlQuran.git",
+    "description": "AlQuran view aura-erp"
+  },
+  {
+    "name": "Internship",
+    "repo": "https://gitlab.com/aura-erp/Internship.git",
+    "description": "Mengelola kegiatan prakerin"
+  },
+  {
+    "name": "Industry",
+    "repo": "https://gitlab.com/aura-erp/Industry.git",
+    "description": "Menyimpan data relasi industri dengan sekolahan"
+  }
+]
