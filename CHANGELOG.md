@@ -2965,3 +2965,8 @@
 #### [aura-erp/Student]
 - fix: readonly nis pada form data siswa - 20d76a2 (Mohamad Supangat, 2025-07-12)
 - fix: perijinan untuk melihat data siswa pada perijinan wali kelas - 44535ed (Mohamad Supangat, 2025-07-12)
+
+
+### 20250712.17.18
+
+
