@@ -2918,3 +2918,8 @@
 
 #### [aura-erp/aura-erp]
 - remove storage link from publish module assets - 9958512 (Mohamad Supangat, 2025-07-12)
+
+
+### 20250712.02.30
+
+
