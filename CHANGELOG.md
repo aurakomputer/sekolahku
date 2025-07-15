@@ -2970,3 +2970,23 @@
 ### 20250712.17.18
 
 
+
+
+### 20250715.02.06
+
+
+#### [aura-erp/aura-erp]
+- Merge branch 'feat/enhancement' - 2dcd104 (Mohamad Supangat, 2025-07-15)
+- wip - fa69f4a (Mohamad Supangat, 2025-07-14)
+- Merge remote-tracking branch 'origin/feat/enhancement' into feat/enhancement - 37a5c31 (Mohamad Supangat, 2025-07-14)
+- wip: actor trait - 6345e57 (Mohamad Supangat, 2025-07-12)
+- wip: actor trait - a32737f (Mohamad Supangat, 2025-07-12)
+#### [aura-erp/Student]
+- Merge branch 'berkas_siswa' - 86f2bc3 (Mohamad Supangat, 2025-07-15)
+- fix: dokumen siswa - d60f143 (Mohamad Supangat, 2025-07-14)
+- Merge remote-tracking branch 'origin/berkas_siswa' into berkas_siswa - febae86 (Mohamad Supangat, 2025-07-14)
+- wip: fungsi lock dan confirm - 0a64fba (Mohamad Supangat, 2025-07-14)
+- wip: fungsi lock dan confirm - 123f7a8 (Mohamad Supangat, 2025-07-14)
+- feat: kelola berkas dokumen siswa - 15560c9 (Mohamad Supangat, 2025-07-13)
+- feat: daftar berkas odkumen siswa - 1e7ae93 (Mohamad Supangat, 2025-07-13)
+- feat: input berkas siswa - 2379f0a (Mohamad Supangat, 2025-07-12)
