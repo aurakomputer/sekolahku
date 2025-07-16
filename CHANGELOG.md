@@ -2990,3 +2990,25 @@
 - feat: kelola berkas dokumen siswa - 15560c9 (Mohamad Supangat, 2025-07-13)
 - feat: daftar berkas odkumen siswa - 1e7ae93 (Mohamad Supangat, 2025-07-13)
 - feat: input berkas siswa - 2379f0a (Mohamad Supangat, 2025-07-12)
+
+
+### 20250716.03.35
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan animasi - 277443a (Mohamad Supangat, 2025-07-16)
+- Merge remote-tracking branch 'origin/master' - 742e5cc (Mohamad Supangat, 2025-07-16)
+- feat: kelola pendaftaran akun - b2c47b0 (Mohamad Supangat, 2025-07-16)
+- feat: kelola pendaftaran akun - 60e64d5 (Mohamad Supangat, 2025-07-16)
+- feat: sukses melaukan registrasi akun - 3c7d0e6 (Mohamad Supangat, 2025-07-16)
+- feat: menambahkan pegaturan batas tanggal untuk registrasi akun orangtua - 7f4b3ea (Mohamad Supangat, 2025-07-16)
+- feaT: component untuk switch dari penggunaan api ke input manual input address - faac8a7 (Mohamad Supangat, 2025-07-16)
+- Merge branch 'master' into feat/enhancement - 20e3caa (Mohamad Supangat, 2025-07-16)
+- feat: jenis inputan alamat - f0210bb (Mohamad Supangat, 2025-07-16)
+- wip: Halaman registrasi - 1fd3294 (Mohamad Supangat, 2025-07-14)
+#### [aura-erp/Student]
+- fix: penambahan kolom pada data peserta - 478f417 (Mohamad Supangat, 2025-07-16)
+- fix: urutan pegambilan form - 2044e8e (Mohamad Supangat, 2025-07-16)
+- fix: inputan nomor kk - 4063598 (Mohamad Supangat, 2025-07-16)
+- Merge branch 'berkas_siswa' - aea4d05 (Mohamad Supangat, 2025-07-15)
+- fix - b1f5c91 (Mohamad Supangat, 2025-07-15)
