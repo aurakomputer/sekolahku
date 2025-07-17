@@ -3050,3 +3050,47 @@
 - takedown: kelompok kelas - 8da5e34 (Mohamad Supangat, 2025-07-16)
 - fix: gunakan fungsi runningInWeb - 7f901c1 (Mohamad Supangat, 2025-07-16)
 - fix: jangan jalankan fungsi di console - 780a9bc (Mohamad Supangat, 2025-07-16)
+
+
+### 20250717.17.30
+
+
+#### [aura-erp/aura-erp]
+- ckeditor: remove ref=cause unsuspend - 98351d6 (Mohamad Supangat, 2025-07-18)
+- ckeditor: best text editor forked code from wbs - 31996f3 (Mohamad Supangat, 2025-07-17)
+- menambahkan readonly - 093f7e3 (Mohamad Supangat, 2025-07-17)
+- fix - d3f1766 (Mohamad Supangat, 2025-07-17)
+- menambahkan fungsi actor trait - 574de02 (Mohamad Supangat, 2025-07-17)
+- fixing - 6f4ea53 (Mohamad Supangat, 2025-07-17)
+- feat: props pada document print master - a55cdcc (Mohamad Supangat, 2025-07-16)
+- feat: menamabhkan appendQuery pada component select-api - 1d3c1ad (Mohamad Supangat, 2025-07-16)
+- feat: menambahkan fieldset - 87836e7 (Mohamad Supangat, 2025-07-16)
+- feat: menambahkan macro untuk Blueprint actors - 596a04a (Mohamad Supangat, 2025-07-16)
+- feat: using ckeditor for best experiences - bf34b50 (Mohamad Supangat, 2025-07-16)
+- fix: migrasi setting tidak berjalan - 31c950a (Mohamad Supangat, 2025-07-16)
+- feat: fungsi mengecek apakah aplikasi berjalan di web - 31b5a66 (Mohamad Supangat, 2025-07-16)
+#### [aura-erp/Document]
+- feat: insert ttd dan kolom - e2488df (Mohamad Supangat, 2025-07-18)
+- feat: konfirmasi surat - 6c8580c (Mohamad Supangat, 2025-07-17)
+- feat: generate data dokumen dan siap untuk melakukan konfirmasi dan daftar dokumen - 67bafbb (Mohamad Supangat, 2025-07-17)
+- feat: meynimpan data guuru yang confirm surat - 3d1fd8c (Mohamad Supangat, 2025-07-16)
+- feat: memperbaiki form template - 2f89f57 (Mohamad Supangat, 2025-07-16)
+#### [aura-erp/School]
+- Merge remote-tracking branch 'origin/master' - b13ba48 (Mohamad Supangat, 2025-07-17)
+- feat: add relation - 5518b29 (Mohamad Supangat, 2025-07-16)
+- feat: add relation - a058007 (Mohamad Supangat, 2025-07-16)
+#### [aura-erp/Information]
+- fix: runing in console - 5e92a7e (Mohamad Supangat, 2025-07-16)
+#### [aura-erp/StudentRegistration]
+- fix: runing in web - 6f1809a (Mohamad Supangat, 2025-07-16)
+#### [aura-erp/ViolationPoint]
+- fix: console - e66b5ac (Mohamad Supangat, 2025-07-16)
+#### [aura-erp/Student]
+- fix: confirmed_by - c9eddfb (Mohamad Supangat, 2025-07-17)
+- dashboard rekap simple - b488ec3 (Mohamad Supangat, 2025-07-16)
+- fix: duplikasi data kelas - 347710a (Mohamad Supangat, 2025-07-16)
+- fix: upload data kelas - f44e986 (Mohamad Supangat, 2025-07-16)
+- feat: fitur field kelompok siswa pada table kelas - 3ab86e7 (Mohamad Supangat, 2025-07-16)
+- takedown: kelompok kelas - 8da5e34 (Mohamad Supangat, 2025-07-16)
+- fix: gunakan fungsi runningInWeb - 7f901c1 (Mohamad Supangat, 2025-07-16)
+- fix: jangan jalankan fungsi di console - 780a9bc (Mohamad Supangat, 2025-07-16)
