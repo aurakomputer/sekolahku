@@ -3094,3 +3094,10 @@
 - takedown: kelompok kelas - 8da5e34 (Mohamad Supangat, 2025-07-16)
 - fix: gunakan fungsi runningInWeb - 7f901c1 (Mohamad Supangat, 2025-07-16)
 - fix: jangan jalankan fungsi di console - 780a9bc (Mohamad Supangat, 2025-07-16)
+
+
+### 20250718.01.15
+
+
+#### [aura-erp/aura-erp]
+- fix: registrasi siswa - 84bb044 (Mohamad Supangat, 2025-07-18)
