@@ -3101,3 +3101,16 @@
 
 #### [aura-erp/aura-erp]
 - fix: registrasi siswa - 84bb044 (Mohamad Supangat, 2025-07-18)
+
+
+### 20250718.18.06
+
+
+#### [aura-erp/Internship]
+- Merge remote-tracking branch 'origin/master' - af416d3 (Mohamad Supangat, 2025-07-19)
+- feat: tambah absensi dari guru dan siswa - de834d4 (Mohamad Supangat, 2025-07-19)
+- feat: tambah absensi dari guru dan siswa - b00e976 (Mohamad Supangat, 2025-07-19)
+- feat: menyesuaikan absensi ke standar - 19ce62f (Mohamad Supangat, 2025-07-19)
+- feat: kelola jurnal kompetensi - 5aa87b3 (Mohamad Supangat, 2025-07-18)
+#### [aura-erp/Student]
+- disable slug import - f444991 (Mohamad Supangat, 2025-07-19)
