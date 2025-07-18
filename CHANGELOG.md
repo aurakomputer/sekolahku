@@ -3114,3 +3114,10 @@
 - feat: kelola jurnal kompetensi - 5aa87b3 (Mohamad Supangat, 2025-07-18)
 #### [aura-erp/Student]
 - disable slug import - f444991 (Mohamad Supangat, 2025-07-19)
+
+
+### 20250718.18.17
+
+
+#### [aura-erp/Internship]
+- feat: menginput data absensi prakein dengan form baru - c047db0 (Mohamad Supangat, 2025-07-19)
