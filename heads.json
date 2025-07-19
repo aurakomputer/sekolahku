@@ -5,7 +5,7 @@
   "aura-whatsapp/WhatsApp": "20dc118e66b51fdda98bbc26b4fec7d3a314782f",
   "aura-erp/Achievement": "793ac6d00e4479d5cafec0bd63716590b6022b43",
   "aura-erp/Information": "5e92a7ec7e795eef92efb914c3aa7c18c01ed14f",
-  "aura-erp/Pesantren": "6b45417332b0b828134fa6deca483d24b0e32819",
+  "aura-erp/Pesantren": "94c7a924007086747e7119e106ce5ff6ff14fc90",
   "aura-erp/Payment": "744d9af4359c132b0bf4eaf1d83ee0d7a5edef40",
   "aura-erp/StudentRegistration": "6f1809a2ae6256bfae04b58cfbaa639f917a6c82",
   "aura-erp/WifiShare": "d41b9e9659338e7b2d8127345186dbfd3384efa4",
@@ -20,5 +20,6 @@
   "aura-erp/Course": "b7e86151b9ea64ff44100a16a2da75971e06a727",
   "aura-erp/MonitoringShalat": "219258070351ac99aa7d84874cbe06e02400947e",
   "aura-erp/School": "d7184502a3b69019558d7dfb1e73b641b3ccfdc4",
-  "aura-erp/Document": "e2488df7a528e27cc3e97ed9cd21c261bbb4fd63"
+  "aura-erp/Document": "e2488df7a528e27cc3e97ed9cd21c261bbb4fd63",
+  "aura-erp/PesantrenAsrama": "21e1d11930deedcd24b9ad46fc59ab68941bda25"
 }

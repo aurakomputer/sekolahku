@@ -3167,3 +3167,12 @@
 
 #### [aura-erp/aura-erp]
 - fix: check tru - 5cc0dd6 (Mohamad Supangat, 2025-07-19)
+
+
+### 20250719.17.56
+
+
+#### [aura-erp/Pesantren]
+- Kelola asrama - 94c7a92 (Mohamad Supangat, 2025-07-19)
+#### [aura-erp/PesantrenAsrama]
+- inisiasi pesantren asrama module fork dari pesantren - 21e1d11 (Mohamad Supangat, 2025-07-20)
