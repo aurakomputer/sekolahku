@@ -3121,3 +3121,35 @@
 
 #### [aura-erp/Internship]
 - feat: menginput data absensi prakein dengan form baru - c047db0 (Mohamad Supangat, 2025-07-19)
+
+
+### 20250719.07.03
+
+
+#### [aura-erp/aura-erp]
+- feat: pembaruan data - 85ca0ad (Mohamad Supangat, 2025-07-19)
+- feat: gunakan inertia untuk halaman register - bcce8e7 (Mohamad Supangat, 2025-07-19)
+- feat: auto create account - b906c8d (Mohamad Supangat, 2025-07-19)
+- fix: default login type ketika salah satu di disable - d8ea03e (Mohamad Supangat, 2025-07-19)
+- fix: menggunakan watchEffect pada datatable - 320d107 (Mohamad Supangat, 2025-07-19)
+- feat: register: akun guru - 60aacb8 (Mohamad Supangat, 2025-07-19)
+- feat: register akun guru - c4df05d (Mohamad Supangat, 2025-07-19)
+- feat: simple register - b1682aa (Mohamad Supangat, 2025-07-19)
+- feat: menambahkan pengambilan active module array dengan snake case - 17bb252 (Mohamad Supangat, 2025-07-19)
+- fix: id pada pengambilan model data tidak di wajibkan karena ada kasus dimana data baru dibuat dan belum mempunyai iD - 621d633 (Mohamad Supangat, 2025-07-19)
+#### [aura-erp/School]
+- fix: seedder tidak menemukan data guru - d718450 (Mohamad Supangat, 2025-07-19)
+#### [aura-erp/Administration]
+- fix: perbaikan kolom pengambilan tunggakan - cab932b (Mohamad Supangat, 2025-07-19)
+#### [aura-whatsapp/WhatsApp]
+- fix: tampilkan event pada api list hanya untuk module yang akiv saja - 20dc118 (Mohamad Supangat, 2025-07-19)
+#### [aura-erp/Student]
+- fix: pemilihan kelas - 50ef968 (Mohamad Supangat, 2025-07-19)
+- fix: upload foto siswa - 5c9b2a7 (Mohamad Supangat, 2025-07-19)
+- fix: update data diri siswa - f45f44f (Mohamad Supangat, 2025-07-19)
+- fix: upload dokumen file - 0ea5c93 (Mohamad Supangat, 2025-07-19)
+- fix: auto disable - 5063c9a (Mohamad Supangat, 2025-07-19)
+- Menambahkan filter pada database siswa - b33ece9 (Mohamad Supangat, 2025-07-19)
+#### [aura-erp/Teacher]
+- feat: pembaruan data - 4738bbc (Mohamad Supangat, 2025-07-19)
+- perijinan lihat guru dan NIK - 50dfde2 (Mohamad Supangat, 2025-07-19)
