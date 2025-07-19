@@ -3153,3 +3153,10 @@
 #### [aura-erp/Teacher]
 - feat: pembaruan data - 4738bbc (Mohamad Supangat, 2025-07-19)
 - perijinan lihat guru dan NIK - 50dfde2 (Mohamad Supangat, 2025-07-19)
+
+
+### 20250719.07.22
+
+
+#### [aura-erp/Student]
+- fix: recreate fungsi drop if exists - 4ca7331 (Mohamad Supangat, 2025-07-19)
