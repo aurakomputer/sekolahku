@@ -3192,3 +3192,10 @@
 - feat: update detail data - 61898db (Mohamad Supangat, 2025-07-20)
 - feat: menu untuk data diri siswa - b4b6706 (Mohamad Supangat, 2025-07-20)
 - feat: dummy school majors - accfdcc (Mohamad Supangat, 2025-07-19)
+
+
+### 20250719.20.13
+
+
+#### [aura-erp/Pesantren]
+- Revert "Kelola asrama" - 00ed0e1 (Mohamad Supangat, 2025-07-20)
