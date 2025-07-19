@@ -3176,3 +3176,19 @@
 - Kelola asrama - 94c7a92 (Mohamad Supangat, 2025-07-19)
 #### [aura-erp/PesantrenAsrama]
 - inisiasi pesantren asrama module fork dari pesantren - 21e1d11 (Mohamad Supangat, 2025-07-20)
+
+
+### 20250719.19.56
+
+
+#### [aura-erp/aura-erp]
+- feat: custom label - 9f60eb7 (Mohamad Supangat, 2025-07-19)
+#### [aura-erp/PesantrenAsrama]
+- remove asrama relationship - f0244b9 (Mohamad Supangat, 2025-07-20)
+- feat: noitems - 54d9a0d (Mohamad Supangat, 2025-07-20)
+- feat: student asrama_id - c4aea52 (Mohamad Supangat, 2025-07-20)
+- remove unused files - 4eb51fc (Mohamad Supangat, 2025-07-20)
+#### [aura-erp/Student]
+- feat: update detail data - 61898db (Mohamad Supangat, 2025-07-20)
+- feat: menu untuk data diri siswa - b4b6706 (Mohamad Supangat, 2025-07-20)
+- feat: dummy school majors - accfdcc (Mohamad Supangat, 2025-07-19)
