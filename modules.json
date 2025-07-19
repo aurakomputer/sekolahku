@@ -1,102 +1,147 @@
 [
   {
-    "name": "Student",
-    "repo": "https://gitlab.com/aura-erp/Student.git",
-    "description": "Database Siswa",
-    "core": true
-  },
-  {
-    "name": "Teacher",
-    "repo": "https://gitlab.com/aura-erp/Teacher.git",
-    "description": "Database Guru",
-    "core": true
-  },
-  {
     "name": "Document",
+    "path": "Document",
+    "path_with_namespace": "aura-erp/Document",
     "repo": "https://gitlab.com/aura-erp/Document.git",
-    "description": "Pengelolaan Template Surat",
+    "description": "",
     "core": true
   },
   {
     "name": "School",
+    "path": "School",
+    "path_with_namespace": "aura-erp/School",
     "repo": "https://gitlab.com/aura-erp/School.git",
     "description": "Module yang digunakan untuk menyimpan data sekolah, dan integrasi multi sekolah",
     "core": true
   },
   {
     "name": "MonitoringShalat",
+    "path": "MonitoringShalat",
+    "path_with_namespace": "aura-erp/MonitoringShalat",
     "repo": "https://gitlab.com/aura-erp/MonitoringShalat.git",
     "description": ""
   },
   {
     "name": "Administration",
+    "path": "Administration",
+    "path_with_namespace": "aura-erp/Administration",
     "repo": "https://gitlab.com/aura-erp/Administration.git",
     "description": ""
   },
   {
     "name": "WhatsAppViolationPoint",
+    "path": "WhatsAppViolationPoint",
+    "path_with_namespace": "aura-whatsapp/WhatsAppViolationPoint",
     "repo": "https://gitlab.com/aura-whatsapp/WhatsAppViolationPoint.git",
     "description": "Konektor WhatsApp untuk plugin Point Pelanggaran"
   },
   {
     "name": "WhatsAppStudent",
+    "path": "WhatsAppStudent",
+    "path_with_namespace": "aura-whatsapp/WhatsAppStudent",
     "repo": "https://gitlab.com/aura-whatsapp/WhatsAppStudent.git",
     "description": ""
   },
   {
     "name": "WhatsApp",
+    "path": "WhatsApp",
+    "path_with_namespace": "aura-whatsapp/WhatsApp",
     "repo": "https://gitlab.com/aura-whatsapp/WhatsApp.git",
     "description": "",
     "core": true
   },
   {
     "name": "Achievement",
+    "path": "Achievement",
+    "path_with_namespace": "aura-erp/Achievement",
     "repo": "https://gitlab.com/aura-erp/Achievement.git",
     "description": ""
   },
   {
     "name": "Information",
+    "path": "Information",
+    "path_with_namespace": "aura-erp/Information",
     "repo": "https://gitlab.com/aura-erp/Information.git",
     "description": ""
   },
   {
     "name": "Pesantren",
+    "path": "Pesantren",
+    "path_with_namespace": "aura-erp/Pesantren",
     "repo": "https://gitlab.com/aura-erp/Pesantren.git",
     "description": ""
   },
   {
+    "name": "Pesantren Asrama",
+    "path": "PesantrenAsrama",
+    "path_with_namespace": "aura-erp/PesantrenAsrama",
+    "repo": "https://gitlab.com/aura-erp/PesantrenAsrama.git",
+    "description": ""
+  },
+  {
     "name": "Payment",
+    "path": "Payment",
+    "path_with_namespace": "aura-erp/Payment",
     "repo": "https://gitlab.com/aura-erp/Payment.git",
     "description": "Module Untuk Menanggulangi pembayaran"
   },
   {
     "name": "StudentRegistration",
+    "path": "StudentRegistration",
+    "path_with_namespace": "aura-erp/StudentRegistration",
     "repo": "https://gitlab.com/aura-erp/StudentRegistration.git",
     "description": "Melakukan pendaftaran peserta didik baru "
   },
   {
     "name": "WifiShare",
+    "path": "WifiShare",
+    "path_with_namespace": "aura-erp/WifiShare",
     "repo": "https://gitlab.com/aura-erp/WifiShare.git",
     "description": "Share Password wifi siswa"
   },
   {
     "name": "ViolationPoint",
+    "path": "ViolationPoint",
+    "path_with_namespace": "aura-erp/ViolationPoint",
     "repo": "https://gitlab.com/aura-erp/ViolationPoint.git",
     "description": "Penyimpan data Point Pelanggaran Setiap Siswa"
   },
   {
     "name": "AlQuran",
+    "path": "AlQuran",
+    "path_with_namespace": "aura-erp/AlQuran",
     "repo": "https://gitlab.com/aura-erp/AlQuran.git",
     "description": "AlQuran view aura-erp"
   },
   {
     "name": "Internship",
+    "path": "Internship",
+    "path_with_namespace": "aura-erp/Internship",
     "repo": "https://gitlab.com/aura-erp/Internship.git",
     "description": "Mengelola kegiatan prakerin"
   },
   {
     "name": "Industry",
+    "path": "Industry",
+    "path_with_namespace": "aura-erp/Industry",
     "repo": "https://gitlab.com/aura-erp/Industry.git",
     "description": "Menyimpan data relasi industri dengan sekolahan"
+  },
+  {
+    "name": "Student",
+    "path": "Student",
+    "path_with_namespace": "aura-erp/Student",
+    "repo": "https://gitlab.com/aura-erp/Student.git",
+    "description": "Student module",
+    "core": true
+  },
+  {
+    "name": "Teacher",
+    "path": "Teacher",
+    "path_with_namespace": "aura-erp/Teacher",
+    "repo": "https://gitlab.com/aura-erp/Teacher.git",
+    "description": "",
+    "core": true
   }
 ]
