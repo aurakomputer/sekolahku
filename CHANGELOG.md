@@ -3160,3 +3160,10 @@
 
 #### [aura-erp/Student]
 - fix: recreate fungsi drop if exists - 4ca7331 (Mohamad Supangat, 2025-07-19)
+
+
+### 20250719.08.40
+
+
+#### [aura-erp/aura-erp]
+- fix: check tru - 5cc0dd6 (Mohamad Supangat, 2025-07-19)
