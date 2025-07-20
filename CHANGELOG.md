@@ -3199,3 +3199,29 @@
 
 #### [aura-erp/Pesantren]
 - Revert "Kelola asrama" - 00ed0e1 (Mohamad Supangat, 2025-07-20)
+
+
+### 20250720.18.32
+
+
+#### [aura-erp/aura-erp]
+- fix: q-datetimepicker - a7ecb41 (Mohamad Supangat, 2025-07-20)
+#### [aura-erp/PesantrenAsrama]
+- fix: namespace - 94c7256 (Mohamad Supangat, 2025-07-20)
+- fix - 4fef4e5 (Mohamad Supangat, 2025-07-20)
+- fix: tidak bisa memilih asrama - d41c71b (Mohamad Supangat, 2025-07-20)
+#### [aura-erp/StudentRegistration]
+- fix: import alokasi siswa - 250f3cd (Mohamad Supangat, 2025-07-21)
+- fix: tidak bisa hapus item category - 492d4de (Mohamad Supangat, 2025-07-21)
+- feat: upload alokasi pembayaran - 8b7bb66 (Mohamad Supangat, 2025-07-21)
+- fix: export data siswa - 8af279d (Mohamad Supangat, 2025-07-21)
+- wip: export data alokasi - 3f9344b (Mohamad Supangat, 2025-07-20)
+- Alokasi dana - af3546a (Mohamad Supangat, 2025-07-20)
+- menambahkan beberapa slug - fad9df8 (Mohamad Supangat, 2025-07-20)
+#### [aura-erp/Internship]
+- feat: tidak bisa isi jurnal ketika tidak berstatus berangkat - f9c5da2 (Mohamad Supangat, 2025-07-20)
+- feat: penggunaan q-datetime-picker untuk mengisi tanggal - 29f9793 (Mohamad Supangat, 2025-07-20)
+#### [aura-erp/Student]
+- feat: typo pada staus - c267879 (Mohamad Supangat, 2025-07-20)
+#### [aura-erp/Teacher]
+- fix: typo pada key status - 15ae17f (Mohamad Supangat, 2025-07-20)
