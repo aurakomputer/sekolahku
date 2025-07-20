@@ -3225,3 +3225,10 @@
 - feat: typo pada staus - c267879 (Mohamad Supangat, 2025-07-20)
 #### [aura-erp/Teacher]
 - fix: typo pada key status - 15ae17f (Mohamad Supangat, 2025-07-20)
+
+
+### 20250720.18.43
+
+
+#### [aura-erp/StudentRegistration]
+- fixfix - 0359efd (Mohamad Supangat, 2025-07-21)
