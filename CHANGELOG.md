@@ -3257,3 +3257,10 @@
 
 #### [aura-whatsapp/WhatsApp]
 - fix: log eror - 247ed54 (Mohamad Supangat, 2025-07-22)
+
+
+### 20250721.20.01
+
+
+#### [aura-erp/Student]
+- feat: tambahkan pengaturan untuk control data siswa - 73b78a9 (Mohamad Supangat, 2025-07-22)
