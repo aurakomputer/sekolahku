@@ -3232,3 +3232,21 @@
 
 #### [aura-erp/StudentRegistration]
 - fixfix - 0359efd (Mohamad Supangat, 2025-07-21)
+
+
+### 20250721.19.13
+
+
+#### [aura-erp/aura-erp]
+- feat: download buku panduan di halaman login - e55092d (Mohamad Supangat, 2025-07-22)
+- feat: buku panduan - 01284ff (Mohamad Supangat, 2025-07-22)
+- feat: menambahkan nama siswa - c4b76de (Mohamad Supangat, 2025-07-21)
+- feat: api untuk data alamat - 59a128c (Mohamad Supangat, 2025-07-21)
+#### [aura-whatsapp/WhatsApp]
+- fix: lakukan try catch - e3dd53e (Mohamad Supangat, 2025-07-22)
+#### [aura-erp/PesantrenAsrama]
+- feat: menampilkan data buku induk siswa secara langsung - 5c60cc7 (Mohamad Supangat, 2025-07-22)
+#### [aura-erp/Student]
+- feat: penyesuaian beberapa field - 54a9c69 (Mohamad Supangat, 2025-07-21)
+- feat: takedown NIS - 0b57859 (Mohamad Supangat, 2025-07-21)
+- feat: mengganti pesan saat untuk isi data - ed85c20 (Mohamad Supangat, 2025-07-21)
