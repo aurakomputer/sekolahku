@@ -3297,3 +3297,10 @@
 - feat: ambil cuma data wali kelas saja - f93a732 (Mohamad Supangat, 2025-07-22)
 - feat: kelas siswa - b15ec94 (Mohamad Supangat, 2025-07-22)
 - feat: disable jarak dan waktu tempuh - 6d361cb (Mohamad Supangat, 2025-07-22)
+
+
+### 20250722.16.56
+
+
+#### [aura-erp/aura-erp]
+- feat: nama sekolah - 0a4c19b (Mohamad Supangat, 2025-07-22)
