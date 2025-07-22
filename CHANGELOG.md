@@ -3264,3 +3264,10 @@
 
 #### [aura-erp/Student]
 - feat: tambahkan pengaturan untuk control data siswa - 73b78a9 (Mohamad Supangat, 2025-07-22)
+
+
+### 20250722.06.09
+
+
+#### [aura-erp/aura-erp]
+- feat: logo pada halaman login - 217ce49 (Mohamad Supangat, 2025-07-22)
