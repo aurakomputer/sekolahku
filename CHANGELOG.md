@@ -3271,3 +3271,10 @@
 
 #### [aura-erp/aura-erp]
 - feat: logo pada halaman login - 217ce49 (Mohamad Supangat, 2025-07-22)
+
+
+### 20250722.06.20
+
+
+#### [aura-erp/aura-erp]
+- fix: site headline - f497e67 (Mohamad Supangat, 2025-07-22)
