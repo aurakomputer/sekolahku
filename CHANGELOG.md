@@ -3278,3 +3278,13 @@
 
 #### [aura-erp/aura-erp]
 - fix: site headline - f497e67 (Mohamad Supangat, 2025-07-22)
+
+
+### 20250722.06.34
+
+
+#### [aura-erp/aura-erp]
+- fix: pengaturan siswa - 6228ba4 (Mohamad Supangat, 2025-07-22)
+- fix: pengaturan nama - 81b010c (Mohamad Supangat, 2025-07-22)
+#### [aura-erp/PesantrenAsrama]
+- feat: description - a09ca19 (Mohamad Supangat, 2025-07-22)
