@@ -3304,3 +3304,20 @@
 
 #### [aura-erp/aura-erp]
 - feat: nama sekolah - 0a4c19b (Mohamad Supangat, 2025-07-22)
+
+
+### 20250723.16.51
+
+
+#### [aura-erp/aura-erp]
+- fix: penggunaan permission - 4e0375c (Mohamad Supangat, 2025-07-23)
+- fix: remixing permission controller - d38ec17 (Mohamad Supangat, 2025-07-23)
+#### [aura-erp/PesantrenAsrama]
+- feat: permission seeder - d2077e0 (Mohamad Supangat, 2025-07-23)
+- feat: menghapus data asrama - 5f43ad6 (Mohamad Supangat, 2025-07-23)
+#### [aura-erp/Student]
+- feat: permission siswa - f9fcb97 (Mohamad Supangat, 2025-07-23)
+- feat: penambahan permission untuk guru - 02fc059 (Mohamad Supangat, 2025-07-23)
+- feat: pengaturan siswa dapat mengubah nisn - ac359b6 (Mohamad Supangat, 2025-07-23)
+#### [aura-erp/Teacher]
+- fix: pengecekan username pada akun guru - fd4b18f (Mohamad Supangat, 2025-07-23)
