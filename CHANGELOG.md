@@ -3321,3 +3321,10 @@
 - feat: pengaturan siswa dapat mengubah nisn - ac359b6 (Mohamad Supangat, 2025-07-23)
 #### [aura-erp/Teacher]
 - fix: pengecekan username pada akun guru - fd4b18f (Mohamad Supangat, 2025-07-23)
+
+
+### 20250723.17.16
+
+
+#### [aura-erp/Student]
+- fix: perijinnan dan upload excel - 0ade8f1 (Mohamad Supangat, 2025-07-24)
