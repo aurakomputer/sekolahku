@@ -3342,3 +3342,11 @@
 - tampilkan debug pada waktu import - 4228243 (Mohamad Supangat, 2025-07-24)
 #### [aura-erp/Teacher]
 - feat: filtering akun superadmin - 1b4f214 (Mohamad Supangat, 2025-07-24)
+
+
+### 20250724.06.09
+
+
+#### [aura-erp/Student]
+- fix: penyimpanan berkas dokumen siswa - b45f9d2 (Mohamad Supangat, 2025-07-24)
+- fix: menu untuk app data diri siswa - e3d136d (Mohamad Supangat, 2025-07-24)
