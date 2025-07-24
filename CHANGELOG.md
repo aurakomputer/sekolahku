@@ -3328,3 +3328,17 @@
 
 #### [aura-erp/Student]
 - fix: perijinnan dan upload excel - 0ade8f1 (Mohamad Supangat, 2025-07-24)
+
+
+### 20250724.03.00
+
+
+#### [aura-erp/aura-erp]
+- fix: perbaikan untuk pengambilan full address - 65f3d2c (Mohamad Supangat, 2025-07-24)
+#### [aura-erp/PesantrenAsrama]
+- feat: hilangkan filter wali kelas pada datatable asrama, karna menggunakan permission wali asrama - b228b08 (Mohamad Supangat, 2025-07-24)
+#### [aura-erp/Student]
+- feat: cetak data dashboard siswa - 39b1641 (Mohamad Supangat, 2025-07-24)
+- tampilkan debug pada waktu import - 4228243 (Mohamad Supangat, 2025-07-24)
+#### [aura-erp/Teacher]
+- feat: filtering akun superadmin - 1b4f214 (Mohamad Supangat, 2025-07-24)
