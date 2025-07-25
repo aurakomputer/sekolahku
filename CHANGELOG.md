@@ -3386,3 +3386,10 @@
 - scope tahun - ce61dab (Mohamad Supangat, 2025-07-26)
 #### [aura-erp/StudentRegistration]
 - feat: download excel beserta rincianya - fe39ba3 (Mohamad Supangat, 2025-07-26)
+
+
+### 20250725.20.06
+
+
+#### [aura-erp/aura-erp]
+- feat: telegram backup file - a83c887 (Mohamad Supangat, 2025-07-26)
