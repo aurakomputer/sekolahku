@@ -3350,3 +3350,16 @@
 #### [aura-erp/Student]
 - fix: penyimpanan berkas dokumen siswa - b45f9d2 (Mohamad Supangat, 2025-07-24)
 - fix: menu untuk app data diri siswa - e3d136d (Mohamad Supangat, 2025-07-24)
+
+
+### 20250725.05.04
+
+
+#### [aura-erp/aura-erp]
+- fix - 3e0271a (Mohamad Supangat, 2025-07-25)
+- wrap text - e02cf86 (Mohamad Supangat, 2025-07-25)
+#### [aura-erp/Student]
+- feat: pengecekan data siswa - c53a253 (Mohamad Supangat, 2025-07-25)
+- fix: pengecekan data diri siswa - 70e0e2b (Mohamad Supangat, 2025-07-25)
+- feat: ganti juga passowrd parent - edd7d2a (Mohamad Supangat, 2025-07-25)
+- feat: menampilkan password akun orang tua dan siswa - 3f132ad (Mohamad Supangat, 2025-07-25)
