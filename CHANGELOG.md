@@ -3375,3 +3375,14 @@
 #### [aura-erp/Student]
 - fix: hide pilih sekolah - e7a1434 (Mohamad Supangat, 2025-07-25)
 - feat: filter siswa berdasarkan level kelas - 3779795 (Mohamad Supangat, 2025-07-25)
+
+
+### 20250725.19.29
+
+
+#### [aura-erp/Administration]
+- feat: pindahkan scope ke payment - 1f064bc (Mohamad Supangat, 2025-07-26)
+#### [aura-erp/Payment]
+- scope tahun - ce61dab (Mohamad Supangat, 2025-07-26)
+#### [aura-erp/StudentRegistration]
+- feat: download excel beserta rincianya - fe39ba3 (Mohamad Supangat, 2025-07-26)
