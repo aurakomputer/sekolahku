@@ -3363,3 +3363,15 @@
 - fix: pengecekan data diri siswa - 70e0e2b (Mohamad Supangat, 2025-07-25)
 - feat: ganti juga passowrd parent - edd7d2a (Mohamad Supangat, 2025-07-25)
 - feat: menampilkan password akun orang tua dan siswa - 3f132ad (Mohamad Supangat, 2025-07-25)
+
+
+### 20250725.09.57
+
+
+#### [aura-erp/Document]
+- fix: sembunyikan schooll - a6bd0ca (Mohamad Supangat, 2025-07-25)
+#### [aura-erp/PesantrenAsrama]
+- fix: sembunyikan sekolah - f19c3fb (Mohamad Supangat, 2025-07-25)
+#### [aura-erp/Student]
+- fix: hide pilih sekolah - e7a1434 (Mohamad Supangat, 2025-07-25)
+- feat: filter siswa berdasarkan level kelas - 3779795 (Mohamad Supangat, 2025-07-25)
