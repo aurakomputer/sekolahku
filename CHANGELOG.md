@@ -3413,3 +3413,14 @@
 - feat: penyesuaian urutan siswa berdasarkan abjad nama - 55c59db (Mohamad Supangat, 2025-07-26)
 #### [aura-erp/RekapPembayaran]
 - inisiasi module - 4647468 (Mohamad Supangat, 2025-07-27)
+
+
+### 20250727.16.47
+
+
+#### [aura-erp/aura-erp]
+- batasan pengisian nisn adalah 10 digit - b512d0b (Mohamad Supangat, 2025-07-27)
+#### [aura-erp/StudentRegistration]
+- feat: import data saja - 5f7692c (Mohamad Supangat, 2025-07-27)
+- feat: integrasi biaya ppdb dengan biaya tu - b3fb768 (Mohamad Supangat, 2025-07-26)
+- feat: menyimpan data schedule pada jadwal pendaftaran - 6047343 (Mohamad Supangat, 2025-07-26)
