@@ -3431,3 +3431,15 @@
 
 #### [aura-erp/aura-erp]
 - split modules api - 2dd8769 (Mohamad Supangat, 2025-07-27)
+
+
+### 20250727.18.33
+
+
+#### [aura-erp/aura-erp]
+- feat - 7ae0935 (Mohamad Supangat, 2025-07-28)
+#### [aura-erp/StudentRegistration]
+- feat: import data siswa - b092754 (Mohamad Supangat, 2025-07-28)
+#### [aura-erp/Student]
+- feat: script untuk update semua data siswa - 1179ee2 (Mohamad Supangat, 2025-07-28)
+- feat: script untuk perbaikan jurusan yang kosong - 4c9e2ea (Mohamad Supangat, 2025-07-27)
