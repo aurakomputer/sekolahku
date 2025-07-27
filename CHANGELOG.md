@@ -3424,3 +3424,10 @@
 - feat: import data saja - 5f7692c (Mohamad Supangat, 2025-07-27)
 - feat: integrasi biaya ppdb dengan biaya tu - b3fb768 (Mohamad Supangat, 2025-07-26)
 - feat: menyimpan data schedule pada jadwal pendaftaran - 6047343 (Mohamad Supangat, 2025-07-26)
+
+
+### 20250727.17.15
+
+
+#### [aura-erp/aura-erp]
+- split modules api - 2dd8769 (Mohamad Supangat, 2025-07-27)
