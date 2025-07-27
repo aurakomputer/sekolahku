@@ -3393,3 +3393,23 @@
 
 #### [aura-erp/aura-erp]
 - feat: telegram backup file - a83c887 (Mohamad Supangat, 2025-07-26)
+
+
+### 20250727.15.40
+
+
+#### [aura-erp/aura-erp]
+- Merge remote-tracking branch 'origin/master' - c1d19ea (Mohamad Supangat, 2025-07-27)
+- feat: menspesifikasikan error ketika login - c117c3b (Mohamad Supangat, 2025-07-27)
+- paksa helpers hasMultiSchools menjadi true - 5a0e443 (Mohamad Supangat, 2025-07-27)
+- wip: system integrasi notifikasi database - 8b042fc (Mohamad Supangat, 2025-07-26)
+#### [aura-erp/Document]
+- feat: penyesuaian dokumen - 1ffdc51 (Mohamad Supangat, 2025-07-26)
+- Merge branch 'confirmation' - 2c91829 (Mohamad Supangat, 2025-07-26)
+- feat: create document dialog - 9f000b6 (Mohamad Supangat, 2025-07-26)
+#### [aura-erp/StudentRegistration]
+- feat: menampilkan NISN siswa - 2cdcf93 (Mohamad Supangat, 2025-07-26)
+#### [aura-erp/Student]
+- feat: penyesuaian urutan siswa berdasarkan abjad nama - 55c59db (Mohamad Supangat, 2025-07-26)
+#### [aura-erp/RekapPembayaran]
+- inisiasi module - 4647468 (Mohamad Supangat, 2025-07-27)
