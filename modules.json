@@ -143,5 +143,13 @@
     "repo": "https://gitlab.com/aura-erp/Teacher.git",
     "description": "",
     "core": true
+  },
+  {
+    "name": "Rekap Pembayaran",
+    "path": "RekapPembayaran",
+    "path_with_namespace": "aura-erp/RekapPembayaran",
+    "repo": "https://gitlab.com/aura-erp/RekapPembayaran.git",
+    "description": "",
+    "core": true
   }
 ]
