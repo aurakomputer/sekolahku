@@ -3448,3 +3448,20 @@
 ### 20250728.01.11
 
 
+
+
+### 20250728.18.40
+
+
+#### [aura-erp/aura-erp]
+- feat: Penambahan label required - fd4ecb2 (Mohamad Supangat, 2025-07-29)
+#### [aura-erp/StudentRegistration]
+- Merge remote-tracking branch 'origin/master' - 4510a29 (Mohamad Supangat, 2025-07-28)
+- model - a0dd9ea (Mohamad Supangat, 2025-07-28)
+- fixxiixi - b69e60b (Mohamad Supangat, 2025-07-24)
+#### [aura-erp/Student]
+- feat: Meambahkan filter student_ids - 66b8c42 (Mohamad Supangat, 2025-07-29)
+#### [aura-erp/RekapPembayaran]
+- feat: auto confirm rekap ketika di input langsung oleh guru - a67a75d (Mohamad Supangat, 2025-07-29)
+- feat: tambah rekap pembayaran dari sisi admin - 9445802 (Mohamad Supangat, 2025-07-29)
+- feat: kelola kategori - 87ba78f (Mohamad Supangat, 2025-07-29)
