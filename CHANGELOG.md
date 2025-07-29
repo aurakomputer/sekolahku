@@ -3465,3 +3465,29 @@
 - feat: auto confirm rekap ketika di input langsung oleh guru - a67a75d (Mohamad Supangat, 2025-07-29)
 - feat: tambah rekap pembayaran dari sisi admin - 9445802 (Mohamad Supangat, 2025-07-29)
 - feat: kelola kategori - 87ba78f (Mohamad Supangat, 2025-07-29)
+
+
+### 20250729.19.55
+
+
+#### [aura-erp/aura-erp]
+- feat: memperbarui scope confirmed - 0efbf58 (Mohamad Supangat, 2025-07-30)
+#### [aura-erp/School]
+- fix: filter school_Year - df0bfce (Mohamad Supangat, 2025-07-29)
+#### [aura-erp/PesantrenAsrama]
+- feat: button - 229fac8 (Mohamad Supangat, 2025-07-30)
+#### [aura-erp/StudentRegistration]
+- update aplikasi - eb43990 (Mohamad Supangat, 2025-07-29)
+#### [aura-erp/Student]
+- feat: props disableCustomSelected - 7c2e431 (Mohamad Supangat, 2025-07-29)
+- feat: filter siswa berdasarkan tahun ajaran - 4f69633 (Mohamad Supangat, 2025-07-29)
+- wip: perbaikan rekap data - 6518e49 (Mohamad Supangat, 2025-07-29)
+#### [aura-erp/RekapPembayaran]
+- feat; dashboard guru - fdfc368 (Mohamad Supangat, 2025-07-30)
+- Perijinan pada buttons - d2b706f (Mohamad Supangat, 2025-07-30)
+- feat: filter data - be5390d (Mohamad Supangat, 2025-07-30)
+- feat: konfirmasi rekap pembayaran - c99dfe1 (Mohamad Supangat, 2025-07-30)
+- feat: panel wali murid - d9a917f (Mohamad Supangat, 2025-07-30)
+- feat: Edit Show dan Delete - c40ef63 (Mohamad Supangat, 2025-07-29)
+- feat: daftar rekap pembayaran - 4ca3660 (Mohamad Supangat, 2025-07-29)
+- feat: seeder default kategori - d4cc642 (Mohamad Supangat, 2025-07-29)
