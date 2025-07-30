@@ -3511,3 +3511,11 @@
 - feat: daftar siswa - 5e9e16b (Mohamad Supangat, 2025-07-30)
 - feat: lihat sebagai wali kelas - b5085e1 (Mohamad Supangat, 2025-07-30)
 - feat: download excel riwayat rekap pembayaran - 6c26e02 (Mohamad Supangat, 2025-07-30)
+
+
+### 20250730.18.51
+
+
+#### [aura-erp/Student]
+- feat: memperbaiki style table untuk rekap siswa per kelas - b9c38e9 (Mohamad Supangat, 2025-07-31)
+- feat: superadmin bisa melakukan perubahan riwayat kelas secara langsung - 1a05728 (Mohamad Supangat, 2025-07-31)
