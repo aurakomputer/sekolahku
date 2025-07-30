@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "0efbf587c7a310f689a8949f19bb6dda5b25bcd0",
+  "aura-erp/aura-erp": "2e6e486ee208a475dac564d8b9070ba238e6822a",
   "aura-whatsapp/WhatsAppViolationPoint": "2f2bb3a37e30b4e2e57fde3a6d91533af775c3d8",
   "aura-whatsapp/WhatsAppStudent": "136df44007ed9ed81b6d01b4fb5fad35c40c4dd3",
   "aura-whatsapp/WhatsApp": "247ed54b85fc7d659616a1cf91089c60448d8dce",
@@ -13,7 +13,7 @@
   "aura-erp/AlQuran": "096d0c288abe384b96f073fbdd17a19c0b9b42da",
   "aura-erp/Internship": "f9c5da21de1b31de1ae95a7cfa3b1c9ccf9bb9ef",
   "aura-erp/Industry": "d3558b4a6a03e395673170692289dc5c1351592c",
-  "aura-erp/Student": "7c2e4313e9e78c545fe72a8541486dcfa2b97f39",
+  "aura-erp/Student": "8f0c4be568a6f40f7e8493fcc8871d8e93a8938e",
   "aura-erp/Teacher": "1b4f214eec46a1332c7cb472417f2d2fb41f05a9",
   "aura-erp/Administration": "1f064bc8558f68aecdd8b248554cda6f8ce530c3",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
@@ -22,5 +22,5 @@
   "aura-erp/School": "df0bfced359d4119feb35ed92cf711382087cdd9",
   "aura-erp/Document": "1ffdc5155aefeb07e1000991836dc97ce9a3bc26",
   "aura-erp/PesantrenAsrama": "229fac88c3654154b5a3b51a714f4a8002a3e244",
-  "aura-erp/RekapPembayaran": "fdfc368347bb059eac44550fa6e9b0538eaf5581"
+  "aura-erp/RekapPembayaran": "b8559b0abeeb007c675822d87565584be17ab8d8"
 }

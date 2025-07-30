@@ -3491,3 +3491,23 @@
 - feat: Edit Show dan Delete - c40ef63 (Mohamad Supangat, 2025-07-29)
 - feat: daftar rekap pembayaran - 4ca3660 (Mohamad Supangat, 2025-07-29)
 - feat: seeder default kategori - d4cc642 (Mohamad Supangat, 2025-07-29)
+
+
+### 20250730.18.23
+
+
+#### [aura-erp/aura-erp]
+- fix: memperbaiki pengambilan page view tidak sesuai - 2e6e486 (Mohamad Supangat, 2025-07-31)
+- feat: jika key empty - c99f65d (Mohamad Supangat, 2025-07-31)
+- feat: datetimepicker dapat di clear - 198b32f (Mohamad Supangat, 2025-07-30)
+- feat: melakukan pengahpusan akun - d41b209 (Mohamad Supangat, 2025-07-30)
+#### [aura-erp/Student]
+- feat: dapat membuat kelas dengan level yang di kosongkan / null - 8f0c4be (Mohamad Supangat, 2025-07-30)
+- fix: jangan lakukan seeder major ketika sudah ada data - e5cb55a (Mohamad Supangat, 2025-07-30)
+- feat: perbaikan export data berdasarkan level kelas - 47b1b67 (Mohamad Supangat, 2025-07-30)
+#### [aura-erp/RekapPembayaran]
+- feat: download riwayat pembayaran siswa - b8559b0 (Mohamad Supangat, 2025-07-31)
+- feat: melihat riwayat persiswa - 91544c6 (Mohamad Supangat, 2025-07-30)
+- feat: daftar siswa - 5e9e16b (Mohamad Supangat, 2025-07-30)
+- feat: lihat sebagai wali kelas - b5085e1 (Mohamad Supangat, 2025-07-30)
+- feat: download excel riwayat rekap pembayaran - 6c26e02 (Mohamad Supangat, 2025-07-30)
