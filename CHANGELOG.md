@@ -3546,3 +3546,10 @@
 
 #### [aura-erp/Student]
 - feat: melakukan filter rombel pada form siswa - 2523089 (Mohamad Supangat, 2025-08-02)
+
+
+### 20250801.18.14
+
+
+#### [aura-erp/Student]
+- feat: perbaikan urutan pengambilan kelas ketika mendapatkan kelas kusus - d136069 (Mohamad Supangat, 2025-08-02)
