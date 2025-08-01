@@ -3539,3 +3539,10 @@
 - feat: kenaikan kelas dengan pilih data - dcaae62 (Mohamad Supangat, 2025-08-01)
 #### [aura-erp/RekapPembayaran]
 - fix: perbaikan data tidak tampil di halaman - 2745426 (Mohamad Supangat, 2025-08-01)
+
+
+### 20250801.17.23
+
+
+#### [aura-erp/Student]
+- feat: melakukan filter rombel pada form siswa - 2523089 (Mohamad Supangat, 2025-08-02)
