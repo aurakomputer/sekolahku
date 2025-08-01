@@ -3519,3 +3519,23 @@
 #### [aura-erp/Student]
 - feat: memperbaiki style table untuk rekap siswa per kelas - b9c38e9 (Mohamad Supangat, 2025-07-31)
 - feat: superadmin bisa melakukan perubahan riwayat kelas secara langsung - 1a05728 (Mohamad Supangat, 2025-07-31)
+
+
+### 20250801.06.37
+
+
+#### [aura-erp/aura-erp]
+- feat: menyimpan data active schoolYears - a8db10d (Mohamad Supangat, 2025-08-01)
+#### [aura-erp/Administration]
+- seeder untuk melakukan dump rekap pembayaran - 40a1ce4 (Mohamad Supangat, 2025-07-31)
+- Memindahkan seeder fixing data - 05201a5 (Mohamad Supangat, 2025-07-28)
+#### [aura-erp/Student]
+- feat: perbaikan import data - 71f1186 (Mohamad Supangat, 2025-08-01)
+- feat: melakukan import data siswa berdasarkan nisn - 5a82c2a (Mohamad Supangat, 2025-08-01)
+- feat: melakukan download data siswa yang belum mempunyai data kelas - 800ccf5 (Mohamad Supangat, 2025-08-01)
+- feat: memfilter datatable untuk kelas 7 yang belum ada kelas - dafba93 (Mohamad Supangat, 2025-08-01)
+- feat: menampilkan kelas kusus - 2806442 (Mohamad Supangat, 2025-08-01)
+- feat: menyimpan data bahwa itu adalah kelas kusus - 8a492ea (Mohamad Supangat, 2025-08-01)
+- feat: kenaikan kelas dengan pilih data - dcaae62 (Mohamad Supangat, 2025-08-01)
+#### [aura-erp/RekapPembayaran]
+- fix: perbaikan data tidak tampil di halaman - 2745426 (Mohamad Supangat, 2025-08-01)
