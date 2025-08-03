@@ -3553,3 +3553,25 @@
 
 #### [aura-erp/Student]
 - feat: perbaikan urutan pengambilan kelas ketika mendapatkan kelas kusus - d136069 (Mohamad Supangat, 2025-08-02)
+
+
+### 20250803.17.04
+
+
+#### [aura-erp/aura-erp]
+- feat: validasi nik - 1eb448f (Mohamad Supangat, 2025-08-03)
+- fix: readonly mode qdatetime picker - f1e972f (Mohamad Supangat, 2025-08-03)
+- fix: perbaikan pembuatan index - 423f812 (Mohamad Supangat, 2025-08-03)
+- feat: perbaikan halaman kelola pengumuman - 3f24b4b (Mohamad Supangat, 2025-08-03)
+- feat: menambahkan fungsi unconfirm - f9a5255 (Mohamad Supangat, 2025-08-02)
+#### [aura-erp/PesantrenAsrama]
+- feat: migrasi untuk absensi kegiatan - 4a9789a (Mohamad Supangat, 2025-08-03)
+#### [aura-erp/Internship]
+- feat: perbaikan printing jurnal kegiatan - 9e0f81e (Mohamad Supangat, 2025-08-03)
+#### [aura-erp/Student]
+- feat: kelas sekarnag - f9a5383 (Mohamad Supangat, 2025-08-03)
+- feat: pengisian form nik - ae268e6 (Mohamad Supangat, 2025-08-03)
+- feat: melakukan filter pada download excel kelas - 888e861 (Mohamad Supangat, 2025-08-03)
+- feat: menambahkan filter pada table daftar kelas dan juga perbaikan untuk halaman daftar kelas - b2d7e03 (Mohamad Supangat, 2025-08-02)
+- feat: dapat menyimpan kelas dengan tidak ada jjrusanya - abf5f03 (Mohamad Supangat, 2025-08-02)
+- feat: Lakukan konfirmasi dan lock account - a437f82 (Mohamad Supangat, 2025-08-02)
