@@ -3575,3 +3575,10 @@
 - feat: menambahkan filter pada table daftar kelas dan juga perbaikan untuk halaman daftar kelas - b2d7e03 (Mohamad Supangat, 2025-08-02)
 - feat: dapat menyimpan kelas dengan tidak ada jjrusanya - abf5f03 (Mohamad Supangat, 2025-08-02)
 - feat: Lakukan konfirmasi dan lock account - a437f82 (Mohamad Supangat, 2025-08-02)
+
+
+### 20250803.17.16
+
+
+#### [aura-erp/aura-erp]
+- fix: error ketika build - a5b7d12 (Mohamad Supangat, 2025-08-04)
