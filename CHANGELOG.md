@@ -3591,3 +3591,15 @@
 - fix: perbaikan siswa tidak bisa login - f5f236d (Mohamad Supangat, 2025-08-04)
 #### [aura-erp/Internship]
 - feat: perbaikan printing selalu ada di footer page - ee660f0 (Mohamad Supangat, 2025-08-04)
+
+
+### 20250804.06.32
+
+
+#### [aura-erp/aura-erp]
+- feat: pngecekan isadmin - 9a773a3 (Mohamad Supangat, 2025-08-04)
+- feat: akun guru perllu di konfirmasi ketika sudah registrasi - 611356f (Mohamad Supangat, 2025-08-04)
+#### [aura-erp/Student]
+- feat: menyesuaikan opsi di terima di sekolah ini - 192fa9f (Mohamad Supangat, 2025-08-04)
+- feat: menyesuaikan opsi - 47af92b (Mohamad Supangat, 2025-08-04)
+- feat: guru yang bisa edit data siswa yang sudah di lock - 4976a0e (Mohamad Supangat, 2025-08-04)
