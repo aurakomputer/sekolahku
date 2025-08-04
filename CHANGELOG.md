@@ -3603,3 +3603,15 @@
 - feat: menyesuaikan opsi di terima di sekolah ini - 192fa9f (Mohamad Supangat, 2025-08-04)
 - feat: menyesuaikan opsi - 47af92b (Mohamad Supangat, 2025-08-04)
 - feat: guru yang bisa edit data siswa yang sudah di lock - 4976a0e (Mohamad Supangat, 2025-08-04)
+
+
+### 20250804.18.06
+
+
+#### [aura-erp/aura-erp]
+- wip: notifikasi system - fae060b (Mohamad Supangat, 2025-08-05)
+- feat: persiapan untuk general notifikasi - 3d36dda (Mohamad Supangat, 2025-08-04)
+#### [aura-erp/Student]
+- fix: typo hubungu - e7d52e6 (Mohamad Supangat, 2025-08-05)
+- feat: notifikasi ketika di konfirmasi dan batal konfirmasi - 534ee27 (Mohamad Supangat, 2025-08-05)
+- feat: memfilter pilih rombel berdasarkan pilihan kelas sekarang - b54a661 (Mohamad Supangat, 2025-08-04)
