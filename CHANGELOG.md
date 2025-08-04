@@ -3582,3 +3582,12 @@
 
 #### [aura-erp/aura-erp]
 - fix: error ketika build - a5b7d12 (Mohamad Supangat, 2025-08-04)
+
+
+### 20250804.03.16
+
+
+#### [aura-erp/aura-erp]
+- fix: perbaikan siswa tidak bisa login - f5f236d (Mohamad Supangat, 2025-08-04)
+#### [aura-erp/Internship]
+- feat: perbaikan printing selalu ada di footer page - ee660f0 (Mohamad Supangat, 2025-08-04)
