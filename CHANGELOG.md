@@ -3615,3 +3615,10 @@
 - fix: typo hubungu - e7d52e6 (Mohamad Supangat, 2025-08-05)
 - feat: notifikasi ketika di konfirmasi dan batal konfirmasi - 534ee27 (Mohamad Supangat, 2025-08-05)
 - feat: memfilter pilih rombel berdasarkan pilihan kelas sekarang - b54a661 (Mohamad Supangat, 2025-08-04)
+
+
+### 20250805.01.36
+
+
+#### [aura-erp/aura-erp]
+- feat: batas registrasi akun guru - 468d025 (Mohamad Supangat, 2025-08-05)
