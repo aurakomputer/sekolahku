@@ -3622,3 +3622,13 @@
 
 #### [aura-erp/aura-erp]
 - feat: batas registrasi akun guru - 468d025 (Mohamad Supangat, 2025-08-05)
+
+
+### 20250805.07.29
+
+
+#### [aura-erp/aura-erp]
+- Merge remote-tracking branch 'origin/master' - a60259d (Mohamad Supangat, 2025-08-05)
+- feat: batas registrasi akun guru - 9927f03 (Mohamad Supangat, 2025-08-05)
+#### [aura-erp/Student]
+- fix: perbaikan template jurnal guru - 0ff47bb (Mohamad Supangat, 2025-08-05)
