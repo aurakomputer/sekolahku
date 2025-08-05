@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "a60259d12efd2f2cb3adb4c9b0552ce95279ff08",
+  "aura-erp/aura-erp": "29d384c3acc4c86f5d05e5ec62c9b030d1b93c9f",
   "aura-whatsapp/WhatsAppViolationPoint": "2f2bb3a37e30b4e2e57fde3a6d91533af775c3d8",
   "aura-whatsapp/WhatsAppStudent": "136df44007ed9ed81b6d01b4fb5fad35c40c4dd3",
   "aura-whatsapp/WhatsApp": "247ed54b85fc7d659616a1cf91089c60448d8dce",
@@ -20,7 +20,7 @@
   "aura-erp/Course": "b7e86151b9ea64ff44100a16a2da75971e06a727",
   "aura-erp/MonitoringShalat": "219258070351ac99aa7d84874cbe06e02400947e",
   "aura-erp/School": "df0bfced359d4119feb35ed92cf711382087cdd9",
-  "aura-erp/Document": "1ffdc5155aefeb07e1000991836dc97ce9a3bc26",
-  "aura-erp/PesantrenAsrama": "4a9789a9423febcdb51014d19904a7350433c11c",
+  "aura-erp/Document": "d99b56db8ea9caee6fdd49762478fe5fd4b2e482",
+  "aura-erp/PesantrenAsrama": "52c91c02a6e3c15487dad79d461feb42be5c7c5a",
   "aura-erp/RekapPembayaran": "2745426ea6911374a8396e82f4070dabbe53d595"
 }

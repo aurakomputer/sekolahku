@@ -3632,3 +3632,18 @@
 - feat: batas registrasi akun guru - 9927f03 (Mohamad Supangat, 2025-08-05)
 #### [aura-erp/Student]
 - fix: perbaikan template jurnal guru - 0ff47bb (Mohamad Supangat, 2025-08-05)
+
+
+### 20250805.17.40
+
+
+#### [aura-erp/aura-erp]
+- feat: perbaikan ckeditor - 29d384c (Mohamad Supangat, 2025-08-05)
+- feat: mengganti icon default untuk no-items - c4e13be (Mohamad Supangat, 2025-08-05)
+#### [aura-erp/Document]
+- feat: fungsi reset dokumen - d99b56d (Mohamad Supangat, 2025-08-05)
+- feat: default print page - c9cde7d (Mohamad Supangat, 2025-08-05)
+#### [aura-erp/PesantrenAsrama]
+- feat: hapus kegiatan - 52c91c0 (Mohamad Supangat, 2025-08-06)
+- feat: kelola kegiatan - 10fb415 (Mohamad Supangat, 2025-08-06)
+- wip: perijinan table - 6048c05 (Mohamad Supangat, 2025-08-04)
