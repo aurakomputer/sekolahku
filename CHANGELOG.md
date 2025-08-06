@@ -3660,3 +3660,13 @@
 - fix: menghapus variable yang tidak di perlukan saat edit jurnal - a64003d (Mohamad Supangat, 2025-08-07)
 #### [aura-erp/Student]
 - feat: penamabhan ikon - 9f00f38 (Mohamad Supangat, 2025-08-06)
+
+
+### 20250806.22.23
+
+
+#### [aura-erp/Internship]
+- Merge remote-tracking branch 'origin/master' - 4c70b1b (Mohamad Supangat, 2025-08-07)
+- feat: perbaikan loading widet jurnal dan absensi di dashboard siswa - c7da7a0 (Mohamad Supangat, 2025-08-07)
+- feat: perbaikan loading widet jurnal dan absensi di dashboard siswa - 04b5ad7 (Mohamad Supangat, 2025-08-07)
+- feat: penyesuaian fixing absensi siswa - 5742ddd (Mohamad Supangat, 2025-08-07)
