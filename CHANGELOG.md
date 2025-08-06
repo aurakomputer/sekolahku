@@ -3670,3 +3670,10 @@
 - feat: perbaikan loading widet jurnal dan absensi di dashboard siswa - c7da7a0 (Mohamad Supangat, 2025-08-07)
 - feat: perbaikan loading widet jurnal dan absensi di dashboard siswa - 04b5ad7 (Mohamad Supangat, 2025-08-07)
 - feat: penyesuaian fixing absensi siswa - 5742ddd (Mohamad Supangat, 2025-08-07)
+
+
+### 20250806.22.51
+
+
+#### [aura-erp/Internship]
+- fix: orderBy pada widget - 50c84f5 (Mohamad Supangat, 2025-08-07)
