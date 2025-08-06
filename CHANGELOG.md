@@ -3647,3 +3647,16 @@
 - feat: hapus kegiatan - 52c91c0 (Mohamad Supangat, 2025-08-06)
 - feat: kelola kegiatan - 10fb415 (Mohamad Supangat, 2025-08-06)
 - wip: perijinan table - 6048c05 (Mohamad Supangat, 2025-08-04)
+
+
+### 20250806.21.07
+
+
+#### [aura-erp/aura-erp]
+- feat notifikasi - 51ab16c (Mohamad Supangat, 2025-08-06)
+- feat: menambahkan icon untuk notifikasi - ec76f69 (Mohamad Supangat, 2025-08-06)
+#### [aura-erp/Internship]
+- fix: melakukan pengembalian data ke draft - 60b21a1 (Mohamad Supangat, 2025-08-07)
+- fix: menghapus variable yang tidak di perlukan saat edit jurnal - a64003d (Mohamad Supangat, 2025-08-07)
+#### [aura-erp/Student]
+- feat: penamabhan ikon - 9f00f38 (Mohamad Supangat, 2025-08-06)
