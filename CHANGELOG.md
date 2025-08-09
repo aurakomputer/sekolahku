@@ -3677,3 +3677,32 @@
 
 #### [aura-erp/Internship]
 - fix: orderBy pada widget - 50c84f5 (Mohamad Supangat, 2025-08-07)
+
+
+### 20250809.10.50
+
+
+#### [aura-erp/aura-erp]
+- fix: perbaikan fungsi mapping data - fc11fb6 (Mohamad Supangat, 2025-08-09)
+- feat: style table brodered - 0a2cc78 (Mohamad Supangat, 2025-08-09)
+- feat: fungsi untuk parsing dan mapping tanggal - 3827f09 (Mohamad Supangat, 2025-08-09)
+- fix - 09cdbef (Mohamad Supangat, 2025-08-09)
+- fix: memperbaiki editor plugin agar sesuai dengan kriteria - a304d9c (Mohamad Supangat, 2025-08-08)
+- remove ckeditor as dependencies - 35766b9 (Mohamad Supangat, 2025-08-08)
+- migrating to tinymce - aac3398 (Mohamad Supangat, 2025-08-08)
+- test: testing router - 175e87e (Mohamad Supangat, 2025-08-08)
+- padding bottom pada layout panel - 9978f0c (Mohamad Supangat, 2025-08-08)
+- fix: konfigurasi migrasi table salah - 503277f (Mohamad Supangat, 2025-08-07)
+- Merge remote-tracking branch 'origin/master' - c406384 (Mohamad Supangat, 2025-08-07)
+- feat: dateime picker penambahan opsi dateOptions - bcbea92 (Mohamad Supangat, 2025-08-07)
+#### [aura-erp/PesantrenAsrama]
+- Merge branch 'absensi' - 15bc531 (Mohamad Supangat, 2025-08-09)
+- feat: export data siswa - ace68a9 (Mohamad Supangat, 2025-08-09)
+- feat: enhchement absensi - 2a9a5a0 (Mohamad Supangat, 2025-08-09)
+- Merge branch 'absensi' - 0c45b43 (Mohamad Supangat, 2025-08-09)
+- feat: lihat dan download rekap absensi siswa - e8748f7 (Mohamad Supangat, 2025-08-09)
+- feat: filtering data absensi - 77ec64c (Mohamad Supangat, 2025-08-08)
+- feat: Kelola Absensi Siswa - 5bb1934 (Mohamad Supangat, 2025-08-07)
+- meta - 9848004 (Mohamad Supangat, 2025-08-07)
+#### [aura-erp/Internship]
+- fix: ketika melakukan show data terjadi kemunduran tanggal - 5efbc3a (Mohamad Supangat, 2025-08-09)
