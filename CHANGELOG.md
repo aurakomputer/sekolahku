@@ -3706,3 +3706,17 @@
 - meta - 9848004 (Mohamad Supangat, 2025-08-07)
 #### [aura-erp/Internship]
 - fix: ketika melakukan show data terjadi kemunduran tanggal - 5efbc3a (Mohamad Supangat, 2025-08-09)
+
+
+### 20250810.17.36
+
+
+#### [aura-erp/aura-erp]
+- feat: select tags - 10a19af (Mohamad Supangat, 2025-08-11)
+- fix: trait update and createdBy - fe03e5c (Mohamad Supangat, 2025-08-11)
+- feat: tag: hideSlug props - c6373a4 (Mohamad Supangat, 2025-08-10)
+#### [aura-erp/PesantrenAsrama]
+- feat: module - e347b6d (Mohamad Supangat, 2025-08-10)
+#### [aura-erp/Payment]
+- feat: journal: type label - 2b2bea5 (Mohamad Supangat, 2025-08-10)
+- feat: jurnal - d842606 (Mohamad Supangat, 2025-08-10)

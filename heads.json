@@ -1,12 +1,12 @@
 {
-  "aura-erp/aura-erp": "fc11fb6178075adcce08e88b847bd009a8cc9e33",
+  "aura-erp/aura-erp": "10a19afcc6b9354e72df7558b1828606e9b2e636",
   "aura-whatsapp/WhatsAppViolationPoint": "2f2bb3a37e30b4e2e57fde3a6d91533af775c3d8",
   "aura-whatsapp/WhatsAppStudent": "136df44007ed9ed81b6d01b4fb5fad35c40c4dd3",
   "aura-whatsapp/WhatsApp": "247ed54b85fc7d659616a1cf91089c60448d8dce",
   "aura-erp/Achievement": "793ac6d00e4479d5cafec0bd63716590b6022b43",
   "aura-erp/Information": "5e92a7ec7e795eef92efb914c3aa7c18c01ed14f",
   "aura-erp/Pesantren": "00ed0e1eda19fe2cc33f48ff49db634cbd1766b4",
-  "aura-erp/Payment": "ce61dabbdcc2214a85bad80251dc8760367081fb",
+  "aura-erp/Payment": "2b2bea5539c24cfc414074659fed4a448c998cad",
   "aura-erp/StudentRegistration": "eb439900cf99fbf3fe123fe0ff34ffd419596ae5",
   "aura-erp/WifiShare": "d41b9e9659338e7b2d8127345186dbfd3384efa4",
   "aura-erp/ViolationPoint": "e66b5ac9d87b96fa67ecd1107c895e2b486441e2",
@@ -21,6 +21,6 @@
   "aura-erp/MonitoringShalat": "219258070351ac99aa7d84874cbe06e02400947e",
   "aura-erp/School": "df0bfced359d4119feb35ed92cf711382087cdd9",
   "aura-erp/Document": "d99b56db8ea9caee6fdd49762478fe5fd4b2e482",
-  "aura-erp/PesantrenAsrama": "15bc531249cfae3f27f55ff7849598ae979e0561",
+  "aura-erp/PesantrenAsrama": "e347b6d9bfc861b6c41ea36db5a8a8775824c0a3",
   "aura-erp/RekapPembayaran": "2745426ea6911374a8396e82f4070dabbe53d595"
 }
