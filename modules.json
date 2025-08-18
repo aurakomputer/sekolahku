@@ -168,9 +168,9 @@
   },
   {
     "name": "Absensi Siswa",
-    "path": "StudentAbsence",
-    "path_with_namespace": "aura-erp/StudentAbsence",
-    "repo": "https://gitlab.com/aura-erp/StudentAbsence.git",
+    "path": "StudentAttendance",
+    "path_with_namespace": "aura-erp/StudentAttendance",
+    "repo": "https://gitlab.com/aura-erp/StudentAttendance.git",
     "description": "Aplikasi Absensi Siswa Berdasarkan Jam Pembelajaran",
     "dependencies": ["Course"]
   },
