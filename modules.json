@@ -151,5 +151,34 @@
     "repo": "https://gitlab.com/aura-erp/RekapPembayaran.git",
     "description": "",
     "core": true
+  },
+  {
+    "name": "Buku Tabungan ",
+    "path": "SavingsBook",
+    "path_with_namespace": "aura-erp/SavingsBook",
+    "repo": "https://gitlab.com/aura-erp/SavingsBook.git",
+    "description": "Aplikasi Managemeng Buku Tabungan"
+  },
+  {
+    "name": "Mata Pelajaran dan Jam Pembelajaran",
+    "path": "Course",
+    "path_with_namespace": "aura-erp/Course",
+    "repo": "https://gitlab.com/aura-erp/Course.git",
+    "description": "Database Mata Pelajaran dan Jam Pembelajaran"
+  },
+  {
+    "name": "Absensi Siswa",
+    "path": "StudentAbsence",
+    "path_with_namespace": "aura-erp/StudentAbsence",
+    "repo": "https://gitlab.com/aura-erp/StudentAbsence.git",
+    "description": "Aplikasi Absensi Siswa Berdasarkan Jam Pembelajaran",
+    "dependencies": ["Course"]
+  },
+  {
+    "name": "Pembinaan Siswa dan Kelas",
+    "path": "Guidance",
+    "path_with_namespace": "aura-erp/Guidance",
+    "repo": "https://gitlab.com/aura-erp/Guidance.git",
+    "description": "Aplikasi Pembinaan Siswa dan Kelas"
   }
 ]
