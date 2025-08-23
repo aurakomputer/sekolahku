@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "005884d2dd40e0599be9f49500f6ce440bef135f",
+  "aura-erp/aura-erp": "b9b420696ed18a98d114387e1dc97d9f657c3989",
   "aura-whatsapp/WhatsAppViolationPoint": "2f2bb3a37e30b4e2e57fde3a6d91533af775c3d8",
   "aura-whatsapp/WhatsAppStudent": "136df44007ed9ed81b6d01b4fb5fad35c40c4dd3",
   "aura-whatsapp/WhatsApp": "cdc2a17493a1d08d871be5c7e9fd3fc8a41b8efa",
@@ -23,7 +23,7 @@
   "aura-erp/Document": "c94810a8a0a8a7949453a12f8ba03151dc61d522",
   "aura-erp/PesantrenAsrama": "b28a32c4dd23f0d181389d44d61ca353538cc34d",
   "aura-erp/RekapPembayaran": "584a7ae41afcde7c76201fc9ee3b6615171a01e2",
-  "aura-erp/SavingsBook": "b2b88154f7966db8685bc0548533e20b5685ebcd",
+  "aura-erp/SavingsBook": "1c3bbebc345ce39030877578015ac58414c5f480",
   "aura-erp/StudentAttendance": "de538edcc541f5e3457cc764b3eda595145d44bb",
   "aura-erp/Guidance": "c041eb8bbbf2edba780416c885b8ebd2434e3c28",
   "aura-erp/TeacherAttendance": "bc750b7285d4fe41690910e4256073b71ecb6744"

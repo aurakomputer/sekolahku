@@ -3846,3 +3846,12 @@
 - feat: kelola kategori absensi guru - ac8d53d (Mohamad Supangat, 2025-08-18)
 - perijinan untuk absensi guru - e5d7a51 (Mohamad Supangat, 2025-08-18)
 - inisiasi module - 6254cdd (Mohamad Supangat, 2025-08-18)
+
+
+### 20250823.17.27
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan alpha - b9b4206 (Mohamad Supangat, 2025-08-23)
+#### [aura-erp/SavingsBook]
+- feat: batasi saldo keluar jika melebihi - 1c3bbeb (Mohamad Supangat, 2025-08-23)
