@@ -180,5 +180,13 @@
     "path_with_namespace": "aura-erp/Guidance",
     "repo": "https://gitlab.com/aura-erp/Guidance.git",
     "description": "Aplikasi Pembinaan Siswa dan Kelas"
+  },
+  {
+    "name": "Absensi Guru",
+    "path": "TeacherAttendance",
+    "path_with_namespace": "aura-erp/TeacherAttendance",
+    "repo": "https://gitlab.com/aura-erp/TeacherAttendance.git",
+    "description": "Aplikasi Absensi Aktivitas Guru di Sekolahan",
+    "dependencies": ["Course"]
   }
 ]
