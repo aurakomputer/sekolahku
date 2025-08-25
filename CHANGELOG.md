@@ -3880,3 +3880,10 @@
 
 #### [aura-erp/Administration]
 - fix: halaman download excel - 8a16968 (Mohamad Supangat, 2025-08-26)
+
+
+### 20250825.18.44
+
+
+#### [aura-erp/Administration]
+- fix: halaman download excel - 8a16968 (Mohamad Supangat, 2025-08-26)
