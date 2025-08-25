@@ -3855,3 +3855,10 @@
 - feat: menambahkan alpha - b9b4206 (Mohamad Supangat, 2025-08-23)
 #### [aura-erp/SavingsBook]
 - feat: batasi saldo keluar jika melebihi - 1c3bbeb (Mohamad Supangat, 2025-08-23)
+
+
+### 20250825.17.41
+
+
+#### [aura-erp/Administration]
+- manusa: fixing data split du ust - d05644d (Mohamad Supangat, 2025-08-25)
