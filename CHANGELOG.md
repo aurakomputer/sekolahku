@@ -3862,3 +3862,14 @@
 
 #### [aura-erp/Administration]
 - manusa: fixing data split du ust - d05644d (Mohamad Supangat, 2025-08-25)
+
+
+### 20250825.18.37
+
+
+#### [aura-erp/Administration]
+- feat: melakukan generate recap excel - 42cffde (Mohamad Supangat, 2025-08-26)
+- feat: update administration data pada semua kelas - 31e7529 (Mohamad Supangat, 2025-08-26)
+#### [aura-erp/Student]
+- feat: fungsi untuk mengambil semua level schoolclass - ff32af3 (Mohamad Supangat, 2025-08-26)
+- feat: menambahkan fungsi untuk mengambil semua data tahun ajaran - a512a93 (Mohamad Supangat, 2025-08-26)
