@@ -3873,3 +3873,10 @@
 #### [aura-erp/Student]
 - feat: fungsi untuk mengambil semua level schoolclass - ff32af3 (Mohamad Supangat, 2025-08-26)
 - feat: menambahkan fungsi untuk mengambil semua data tahun ajaran - a512a93 (Mohamad Supangat, 2025-08-26)
+
+
+### 20250825.18.43
+
+
+#### [aura-erp/Administration]
+- fix: halaman download excel - 8a16968 (Mohamad Supangat, 2025-08-26)
