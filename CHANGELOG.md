@@ -3887,3 +3887,47 @@
 
 #### [aura-erp/Administration]
 - fix: halaman download excel - 8a16968 (Mohamad Supangat, 2025-08-26)
+
+
+### 20250827.23.07
+
+
+#### [aura-erp/aura-erp]
+- menambahkan data - 13cd7c6 (Mohamad Supangat, 2025-08-28)
+- dinamisasi inputan tag - 8e93e81 (Mohamad Supangat, 2025-08-28)
+- fix: memperbaiki image select tor ketika di hpaus tidak menampilkan gambar lain - e68137c (Mohamad Supangat, 2025-08-28)
+- feat: jangan tampilkan error ketika parsing taggal - 76b7ec0 (Mohamad Supangat, 2025-08-28)
+- feat: memperbaiki fungsi format tanggal - 90dba5c (Mohamad Supangat, 2025-08-28)
+- feat: component select-role - 3635979 (Mohamad Supangat, 2025-08-27)
+- test: administrasi siswa - 15e9eb9 (Mohamad Supangat, 2025-08-26)
+#### [aura-erp/Document]
+- Merge remote-tracking branch 'origin/roles' into roles - 8367cc0 (Mohamad Supangat, 2025-08-28)
+- integrasi template dan roles - 4ebf172 (Mohamad Supangat, 2025-08-26)
+- integrasi template dan roles - a8dcab3 (Mohamad Supangat, 2025-08-26)
+#### [aura-erp/Administration]
+- fix: export data daftar ulang - 4eda1ad (Mohamad Supangat, 2025-08-27)
+- feat: perbaikan nama folder - 288628e (Mohamad Supangat, 2025-08-27)
+- feat: perbaikan generator excel - 6861122 (Mohamad Supangat, 2025-08-27)
+- feat: fitur untuk melakukan alokasi yang kosong - 26fadaa (Mohamad Supangat, 2025-08-27)
+- feat: perbaikan tanggal yang kosong - 4275833 (Mohamad Supangat, 2025-08-27)
+- fix: database - 525a945 (Mohamad Supangat, 2025-08-26)
+- contoh data konflik - e800ec6 (Mohamad Supangat, 2025-08-26)
+- Merge remote-tracking branch 'origin/master' - 5157e31 (Mohamad Supangat, 2025-08-26)
+- fix: update alokasi - 69773f9 (Mohamad Supangat, 2025-08-26)
+- fix: update alokasi - 8cad4a0 (Mohamad Supangat, 2025-08-26)
+#### [aura-erp/Payment]
+- fix: add some getter - eadfdf7 (Mohamad Supangat, 2025-08-12)
+- Menambahkan view jurnal - 2554f18 (Mohamad Supangat, 2025-08-10)
+#### [aura-erp/Student]
+- Automated commit from script - 7fe6a6c (Mohamad Supangat, 2025-08-28)
+- fix: typo - 87ad424 (Mohamad Supangat, 2025-08-28)
+#### [aura-erp/Teacher]
+- fix: ketika menyimpan role arahkan ke yang lain - 69730a1 (Mohamad Supangat, 2025-08-28)
+#### [aura-erp/RekapPembayaran]
+- feat: menyesuaikan excel - 92b5b84 (Mohamad Supangat, 2025-08-28)
+- feat: daftar halaman index rekap pembayaran - 4dbd64a (Mohamad Supangat, 2025-08-28)
+- feat: pilih petugas bayar - c881fbd (Mohamad Supangat, 2025-08-28)
+- feat: jenis bulanan - 740eb9a (Mohamad Supangat, 2025-08-28)
+- feat: jenis bayar - 5242743 (Mohamad Supangat, 2025-08-28)
+- feat: kategori jenis bayar - 41667b8 (Mohamad Supangat, 2025-08-28)
+- feat: perbaikan kategori - f556ece (Mohamad Supangat, 2025-08-28)
