@@ -3956,3 +3956,15 @@
 - perbaikan tidak bisa menampilkan data - e25409d (Mohamad Supangat, 2025-08-31)
 #### [aura-erp/TeacherAttendance]
 - fix: typo - ccf68b9 (Mohamad Supangat, 2025-08-30)
+
+
+### 20250830.18.13
+
+
+#### [aura-erp/aura-erp]
+- feat: file tree - facdf7d (Mohamad Supangat, 2025-08-31)
+#### [aura-erp/Document]
+- feat: perbaikan form template - 8148f5b (Mohamad Supangat, 2025-08-31)
+- feat: fix: perbaikan attribute canEdit dan canAccess - 49faa4e (Mohamad Supangat, 2025-08-31)
+#### [aura-erp/Administration]
+- feat: menampilkan hasil generate download - 9550b82 (Mohamad Supangat, 2025-08-31)
