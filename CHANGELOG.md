@@ -3931,3 +3931,28 @@
 - feat: jenis bayar - 5242743 (Mohamad Supangat, 2025-08-28)
 - feat: kategori jenis bayar - 41667b8 (Mohamad Supangat, 2025-08-28)
 - feat: perbaikan kategori - f556ece (Mohamad Supangat, 2025-08-28)
+
+
+### 20250830.17.16
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan test - cd852fc (Mohamad Supangat, 2025-08-30)
+- feat: perbaikan notifikasi - 95ee290 (Mohamad Supangat, 2025-08-30)
+#### [aura-erp/Document]
+- feat: template di edit menggunakan kode editor - 85fc721 (Mohamad Supangat, 2025-08-30)
+#### [aura-erp/PesantrenAsrama]
+- feat: perbaikan drop table asrama - 7e83a72 (Mohamad Supangat, 2025-08-30)
+#### [aura-erp/Internship]
+- feat: perbaikan printout absensi prakerin - 4459ad6 (Mohamad Supangat, 2025-08-31)
+- Merge remote-tracking branch 'origin/master' - 4238d5b (Mohamad Supangat, 2025-08-30)
+- menambahkan pengaturan template whatsapp - 6926e5f (Mohamad Supangat, 2025-08-30)
+- menambahkan pengaturan template whatsapp - f6cff0d (Mohamad Supangat, 2025-08-30)
+#### [aura-erp/Student]
+- fix: nama siswa tidak muncul di kelola berkas dokumen siswa - 710e10d (Mohamad Supangat, 2025-08-30)
+#### [aura-erp/RekapPembayaran]
+- fix: excel tidak bisa di tampilkan karna merge tidak sesuai - a438c9f (Mohamad Supangat, 2025-08-31)
+#### [aura-erp/StudentAttendance]
+- perbaikan tidak bisa menampilkan data - e25409d (Mohamad Supangat, 2025-08-31)
+#### [aura-erp/TeacherAttendance]
+- fix: typo - ccf68b9 (Mohamad Supangat, 2025-08-30)
