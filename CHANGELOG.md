@@ -3968,3 +3968,10 @@
 - feat: fix: perbaikan attribute canEdit dan canAccess - 49faa4e (Mohamad Supangat, 2025-08-31)
 #### [aura-erp/Administration]
 - feat: menampilkan hasil generate download - 9550b82 (Mohamad Supangat, 2025-08-31)
+
+
+### 20250901.09.58
+
+
+#### [aura-erp/Administration]
+- fix: command generate report tidak tereksekusi - 2931a0f (Mohamad Supangat, 2025-09-01)
