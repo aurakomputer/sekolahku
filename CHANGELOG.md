@@ -3975,3 +3975,20 @@
 
 #### [aura-erp/Administration]
 - fix: command generate report tidak tereksekusi - 2931a0f (Mohamad Supangat, 2025-09-01)
+
+
+### 20250902.02.11
+
+
+#### [aura-erp/PesantrenAsrama]
+- auto commit from neovim: 2025-09-02 08:28:02 - 06bd194 (Mohamad Supangat, 2025-09-02)
+#### [aura-erp/RekapPembayaran]
+- license - 5d07e25 (Mohamad Supangat, 2025-09-02)
+#### [aura-erp/SavingsBook]
+- savings - 08c6283 (Mohamad Supangat, 2025-09-02)
+#### [aura-erp/StudentAttendance]
+- auto commit from neovim: 2025-09-02 08:27:23 - 400e90a (Mohamad Supangat, 2025-09-02)
+#### [aura-erp/Guidance]
+- license - 6fce6e1 (Mohamad Supangat, 2025-09-02)
+#### [aura-erp/TeacherAttendance]
+- auto commit from neovim: 2025-09-02 08:15:57 - 115b171 (Mohamad Supangat, 2025-09-02)
