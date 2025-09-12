@@ -3992,3 +3992,40 @@
 - license - 6fce6e1 (Mohamad Supangat, 2025-09-02)
 #### [aura-erp/TeacherAttendance]
 - auto commit from neovim: 2025-09-02 08:15:57 - 115b171 (Mohamad Supangat, 2025-09-02)
+
+
+### 20250912.03.31
+
+
+#### [aura-erp/aura-erp]
+- update package - eb1f040 (Mohamad Supangat, 2025-09-12)
+- feat: pesan error di karenakan message - d392927 (Mohamad Supangat, 2025-09-12)
+- feat: memperbaiki status enkripsi data - 692b235 (Mohamad Supangat, 2025-09-12)
+- fix: memperbaiki inertia jangan di enkripsi - 3beedba (Mohamad Supangat, 2025-09-12)
+- feat: melakukan enkripsi data yang mengandung API - 9129b9e (Mohamad Supangat, 2025-09-12)
+- upgrade dependensi - f347818 (Mohamad Supangat, 2025-09-12)
+- Revert "melakukan enkripsi data response" - be76179 (Mohamad Supangat, 2025-09-12)
+- Revert "asdasd" - 3adb359 (Mohamad Supangat, 2025-09-12)
+- asdasd - ce3b8f7 (Mohamad Supangat, 2025-09-12)
+- melakukan enkripsi data response - 6182c1e (Mohamad Supangat, 2025-09-12)
+- default sort - 8231fa5 (Mohamad Supangat, 2025-09-10)
+- feat: penambahan logic pengambilan meta - 68b1d6f (Mohamad Supangat, 2025-09-08)
+- feat: perbaikan master layout excel tidak center pada index number - 3252756 (Mohamad Supangat, 2025-09-08)
+- fix: tidak bisa simpanpengatuan ketika guidebooks di kosongkan - f7bfc4a (Mohamad Supangat, 2025-09-06)
+#### [aura-erp/Document]
+- Merge remote-tracking branch 'origin/master' - 4c49b8c (Mohamad Supangat, 2025-09-08)
+- feat: gunakan codeeditor untuk mengedit template surat - 46b53d3 (Mohamad Supangat, 2025-08-29)
+#### [aura-erp/Achievement]
+- fix: prestasi - b7e4cbe (Mohamad Supangat, 2025-09-10)
+- udu - 1ecef9f (Mohamad Supangat, 2025-09-10)
+- memperbiaki jenis prestasi - 56961ee (Mohamad Supangat, 2025-09-10)
+#### [aura-erp/Student]
+- feat: melakukan hidden field password - 4e70320 (Mohamad Supangat, 2025-09-12)
+- feat: menambahkan relasi ke class - dab4587 (Mohamad Supangat, 2025-09-07)
+#### [aura-erp/Course]
+- feat: course settings - 2445009 (Mohamad Supangat, 2025-09-08)
+#### [aura-erp/StudentAttendance]
+- simple jam pembelajaran - 9dca9cb (Mohamad Supangat, 2025-09-10)
+- mengganti tahun ajaran pada presensi menggungkan class_id - e10ff37 (Mohamad Supangat, 2025-09-10)
+- menambahkan meta - 5a6db1c (Mohamad Supangat, 2025-09-08)
+- wip: module presensi - e2bcad7 (Mohamad Supangat, 2025-09-06)
