@@ -4029,3 +4029,40 @@
 - mengganti tahun ajaran pada presensi menggungkan class_id - e10ff37 (Mohamad Supangat, 2025-09-10)
 - menambahkan meta - 5a6db1c (Mohamad Supangat, 2025-09-08)
 - wip: module presensi - e2bcad7 (Mohamad Supangat, 2025-09-06)
+
+
+### 20250914.20.15
+
+
+#### [aura-erp/aura-erp]
+- revert login metode - b8feeb1 (Mohamad Supangat, 2025-09-15)
+- feat: perbaikan component - da010f1 (Mohamad Supangat, 2025-09-14)
+- feat: menambahkan perbaikan - 422e480 (Mohamad Supangat, 2025-09-13)
+- feat: config untuk disable enkrips response - fedcd1d (Mohamad Supangat, 2025-09-12)
+#### [aura-erp/Document]
+- Penambahan custom fields - 95d1a42 (Mohamad Supangat, 2025-09-15)
+- tambah margin top - 50dd87a (Mohamad Supangat, 2025-09-12)
+#### [aura-erp/PesantrenAsrama]
+- feat: dashboard siswa - 64b1fbc (Mohamad Supangat, 2025-09-15)
+#### [aura-erp/Student]
+- jurnal kelas baru - b869c07 (Mohamad Supangat, 2025-09-14)
+- Merge remote-tracking branch 'origin/master' - 026f9d7 (Mohamad Supangat, 2025-09-14)
+- feat: penambahan kenaikan kelas secara masal - aaafaaa (Mohamad Supangat, 2025-09-14)
+#### [aura-erp/Teacher]
+- feat: penyesuaian tambahan form - d97bdfd (Mohamad Supangat, 2025-09-15)
+#### [aura-erp/SavingsBook]
+- fix: integrasi nilai minus pada tabungan - cf6b053 (Mohamad Supangat, 2025-09-13)
+- integrasi dengan pesantren asrama - da5720c (Mohamad Supangat, 2025-09-13)
+#### [aura-erp/Course]
+- fix: perbaikan - 829a330 (Mohamad Supangat, 2025-09-15)
+- fix: seeder jam pembelajaran - 0bd1cfa (Mohamad Supangat, 2025-09-12)
+#### [aura-erp/StudentAttendance]
+- fix: dashboard guru - 75d3f19 (Mohamad Supangat, 2025-09-13)
+- dashboard orang tua - 230b4d6 (Mohamad Supangat, 2025-09-13)
+- dashboard siswa - e30bf1f (Mohamad Supangat, 2025-09-13)
+- perbaikan preview dan print - d62d07a (Mohamad Supangat, 2025-09-13)
+- halaman riwayat materi pembelajaran - 194e4f7 (Mohamad Supangat, 2025-09-13)
+- Perbaikan inputan absensi - b6c26d4 (Mohamad Supangat, 2025-09-13)
+- simple input attendance - fd2add1 (Mohamad Supangat, 2025-09-11)
+#### [aura-erp/TeacherAttendance]
+- feat: menyimpan tanggal - 846256a (Mohamad Supangat, 2025-09-15)
