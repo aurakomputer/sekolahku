@@ -4103,3 +4103,8 @@
 - simple input attendance - fd2add1 (Mohamad Supangat, 2025-09-11)
 #### [aura-erp/TeacherAttendance]
 - feat: menyimpan tanggal - 846256a (Mohamad Supangat, 2025-09-15)
+
+
+### 20250916.16.28
+
+
