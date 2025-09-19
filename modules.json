@@ -188,5 +188,13 @@
     "repo": "https://gitlab.com/aura-erp/TeacherAttendance.git",
     "description": "Aplikasi Absensi Aktivitas Guru di Sekolahan",
     "dependencies": ["Course"]
+  },
+  {
+    "name": "Kelas Muadalah",
+    "path": "KelasMuadalah",
+    "path_with_namespace": "aura-erp/KelasMuadalah",
+    "repo": "https://gitlab.com/aura-erp/KelasMuadalah.git",
+    "description": "Kelola Kelas Muadalah",
+    "dependencies": ["Student"]
   }
 ]
