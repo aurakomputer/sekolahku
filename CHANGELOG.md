@@ -4108,3 +4108,26 @@
 ### 20250916.16.28
 
 
+
+
+### 20250919.07.39
+
+
+#### [aura-erp/aura-erp]
+- upgrade package - 37dc2a6 (Mohamad Supangat, 2025-09-19)
+- feat: migrasi ke spHelper - 830f461 (Mohamad Supangat, 2025-09-19)
+- feat: auto generate slug ketika tidak di inputkan / empty - 8b72777 (Mohamad Supangat, 2025-09-19)
+- fix: hideSlug tidak menampilkan slug - 59a499a (Mohamad Supangat, 2025-09-19)
+#### [aura-erp/Student]
+- Melakukan submit data kelas - efc5e05 (Mohamad Supangat, 2025-09-19)
+- feat: filter duplikasi data - 1e50722 (Mohamad Supangat, 2025-09-19)
+#### [aura-erp/Teacher]
+- feat:pencarian kode guru - f506934 (Mohamad Supangat, 2025-09-19)
+- feat: penambahan kode guru - 6f9e8aa (Mohamad Supangat, 2025-09-19)
+- feat: berkas document guru - 7d92a48 (Mohamad Supangat, 2025-09-19)
+- feat: perbaikan import export excel - f53243b (Mohamad Supangat, 2025-09-19)
+#### [aura-erp/KelasMuadalah]
+- Tambah dan hapus siswa dari kelas - 64f550c (Mohamad Supangat, 2025-09-19)
+- Tambah edit dan hapus kelas muadalah - 9a2e24a (Mohamad Supangat, 2025-09-19)
+- daftar kelas muadalah - 411f9c9 (Mohamad Supangat, 2025-09-19)
+- inisiasi kelas muadalah - 359484b (Mohamad Supangat, 2025-09-19)
