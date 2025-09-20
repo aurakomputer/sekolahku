@@ -4131,3 +4131,24 @@
 - Tambah edit dan hapus kelas muadalah - 9a2e24a (Mohamad Supangat, 2025-09-19)
 - daftar kelas muadalah - 411f9c9 (Mohamad Supangat, 2025-09-19)
 - inisiasi kelas muadalah - 359484b (Mohamad Supangat, 2025-09-19)
+
+
+### 20250920.17.28
+
+
+#### [aura-erp/aura-erp]
+- feat: ux - 655ca49 (Mohamad Supangat, 2025-09-20)
+- feat: install sanctum with API - e4b1eeb (Mohamad Supangat, 2025-09-20)
+#### [aura-erp/Administration]
+- fix: gunakan data di databse untuk dashboard dan excel - 91e2233 (Mohamad Supangat, 2025-09-21)
+- feat: menambahkan table untuk menyimpan rekap tahunan - f3e548e (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/PesantrenAsrama]
+- feat: tanggal dan waktu absensi - bfe4477 (Mohamad Supangat, 2025-09-20)
+- feat: validasitanggal - f780177 (Mohamad Supangat, 2025-09-20)
+- feat: menyimpan jam absensi - 04832ca (Mohamad Supangat, 2025-09-20)
+#### [aura-erp/Student]
+- fix: duplikasi data - 927c1f9 (Mohamad Supangat, 2025-09-20)
+#### [aura-erp/RekapPembayaran]
+- perizinan untuk memilih jenis bayar - 7d47f7b (Mohamad Supangat, 2025-09-20)
+#### [aura-erp/StudentAttendance]
+- menggunakan icon check - bcc876d (Mohamad Supangat, 2025-09-20)
