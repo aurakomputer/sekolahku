@@ -4152,3 +4152,65 @@
 - perizinan untuk memilih jenis bayar - 7d47f7b (Mohamad Supangat, 2025-09-20)
 #### [aura-erp/StudentAttendance]
 - menggunakan icon check - bcc876d (Mohamad Supangat, 2025-09-20)
+
+
+### 20250922.19.07
+
+
+#### [aura-erp/aura-erp]
+- feat: gunakan random key berdasarkan tanggal untuk mempermuda - a4824d7 (Mohamad Supangat, 2025-09-23)
+- feat: login superadmin - 6cc402b (Mohamad Supangat, 2025-09-23)
+- update - fca519c (Mohamad Supangat, 2025-09-22)
+- update semua email dari hantamkoding@gmail.com ke moha.supangat@gmail.com - f180331 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Document]
+- Automated commit from script - 798e147 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/School]
+- Automated commit from script - e3cf55d (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/MonitoringShalat]
+- Automated commit from script - 9de5893 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Administration]
+- Automated commit from script - 81b6273 (Mohamad Supangat, 2025-09-21)
+#### [aura-whatsapp/WhatsAppViolationPoint]
+- Automated commit from script - f328a26 (Mohamad Supangat, 2025-09-21)
+#### [aura-whatsapp/WhatsAppStudent]
+- Automated commit from script - 146bc17 (Mohamad Supangat, 2025-09-21)
+#### [aura-whatsapp/WhatsApp]
+- Automated commit from script - c12c312 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Information]
+- Automated commit from script - 8a170ab (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Pesantren]
+- Automated commit from script - 64fa3f0 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/PesantrenAsrama]
+- Automated commit from script - 4faed01 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/StudentRegistration]
+- Automated commit from script - 2c00de5 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/WifiShare]
+- Automated commit from script - 534cb6f (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/ViolationPoint]
+- Automated commit from script - 3a54f95 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/AlQuran]
+- Automated commit from script - 40a4480 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Internship]
+- Automated commit from script - b7aa8b0 (Mohamad Supangat, 2025-09-22)
+- Automated commit from script - d0722c6 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Industry]
+- Automated commit from script - 5dc7931 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Student]
+- Automated commit from script - bc96591 (Mohamad Supangat, 2025-09-23)
+- Automated commit from script - 674df0f (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Teacher]
+- Automated commit from script - 13e77cc (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/RekapPembayaran]
+- Automated commit from script - 35f393b (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/SavingsBook]
+- Automated commit from script - a9f26d3 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Course]
+- Automated commit from script - 4096a43 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/StudentAttendance]
+- Automated commit from script - a63f1e8 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Guidance]
+- Automated commit from script - ac9c910 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/TeacherAttendance]
+- Automated commit from script - 4bba023 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/KelasMuadalah]
+- Automated commit from script - 30164f4 (Mohamad Supangat, 2025-09-21)
