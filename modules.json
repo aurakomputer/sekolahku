@@ -196,5 +196,13 @@
     "repo": "https://gitlab.com/aura-erp/KelasMuadalah.git",
     "description": "Kelola Kelas Muadalah",
     "dependencies": ["Student"]
+  },
+  {
+    "name": "Riwayat Nilai Siswa",
+    "path": "StudentAcademicRecords",
+    "path_with_namespace": "aura-erp/StudentAcademicRecords",
+    "repo": "https://gitlab.com/aura-erp/StudentAcademicRecords.git",
+    "description": "Kelola Kelas Muadalah",
+    "dependencies": ["Student", "Student"]
   }
 ]
