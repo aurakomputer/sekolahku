@@ -4214,3 +4214,18 @@
 - Automated commit from script - 4bba023 (Mohamad Supangat, 2025-09-21)
 #### [aura-erp/KelasMuadalah]
 - Automated commit from script - 30164f4 (Mohamad Supangat, 2025-09-21)
+
+
+### 20250923.06.36
+
+
+#### [aura-erp/Student]
+- fix: perbaikan pengambildan database siswa - 343137f (Mohamad Supangat, 2025-09-23)
+#### [aura-erp/StudentAcademicRecords]
+- feat: dashboard siswa - 8cf07e3 (Mohamad Supangat, 2025-09-23)
+- menambahkan meta - 815ef30 (Mohamad Supangat, 2025-09-23)
+- melakukan export dan import data nilai siswa - c734ab3 (Mohamad Supangat, 2025-09-23)
+- menginput riwayat nilai siswa - 6cb91ef (Mohamad Supangat, 2025-09-22)
+- kella type - 651e207 (Mohamad Supangat, 2025-09-21)
+- menambakan lisensi middleware - a818b2a (Mohamad Supangat, 2025-09-21)
+- inisiasi project - c4e3a8d (Mohamad Supangat, 2025-09-21)

@@ -13,7 +13,7 @@
   "aura-erp/AlQuran": "40a44800823ae6780213faf8c52b4127bb6c3a4c",
   "aura-erp/Internship": "b7aa8b08856f734b963c892002dbfd0d6c0bd3a6",
   "aura-erp/Industry": "5dc793106606981b4c21308f8d19bf7e56904b19",
-  "aura-erp/Student": "bc965913645e1dcb45abc339d1d2941773650e3b",
+  "aura-erp/Student": "343137ffa21576858fc6cf4e99e11d8dd61ae6bc",
   "aura-erp/Teacher": "13e77cca9f130a8676096b6b68782e70804fb63b",
   "aura-erp/Administration": "81b627357b76c1c98a1b86b73d2425933cbed27a",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
@@ -27,5 +27,6 @@
   "aura-erp/StudentAttendance": "a63f1e856636d2f8302642738ff0d9e9242e2796",
   "aura-erp/Guidance": "ac9c91041bd2082bad41a633f4b08c833df51a0b",
   "aura-erp/TeacherAttendance": "4bba0235d8555e0326af876cad83bf2114f05e01",
-  "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c"
+  "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
+  "aura-erp/StudentAcademicRecords": "8cf07e34b1a74246899daf62bcbde3f14b2db11d"
 }
