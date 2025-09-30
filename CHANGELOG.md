@@ -4236,3 +4236,18 @@
 
 #### [aura-erp/StudentAcademicRecords]
 - fix: perbaikan - 1d25e1b (Mohamad Supangat, 2025-09-23)
+
+
+### 20250930.10.14
+
+
+#### [aura-erp/aura-erp]
+- wip: api login - 0967789 (Mohamad Supangat, 2025-09-25)
+#### [aura-erp/Student]
+- fix - b7d0512 (Mohamad Supangat, 2025-09-28)
+- Merge remote-tracking branch 'origin/master' - c571300 (Mohamad Supangat, 2025-09-28)
+- api untuk mengambil data semua kelas - 3957938 (Mohamad Supangat, 2025-09-28)
+#### [aura-erp/Course]
+- api learning hours - e1ed216 (Mohamad Supangat, 2025-09-28)
+#### [aura-erp/StudentAttendance]
+- feat: sukses melakukan sinkronasi absensi - aa75309 (Mohamad Supangat, 2025-09-30)
