@@ -14,7 +14,7 @@
   "aura-erp/Internship": "b7aa8b08856f734b963c892002dbfd0d6c0bd3a6",
   "aura-erp/Industry": "5dc793106606981b4c21308f8d19bf7e56904b19",
   "aura-erp/Student": "b7d051252901d509641e4e4a65d6266e90c10390",
-  "aura-erp/Teacher": "13e77cca9f130a8676096b6b68782e70804fb63b",
+  "aura-erp/Teacher": "36ea30fd1e7cbef8194c4d09c8d7979c4911a74d",
   "aura-erp/Administration": "81b627357b76c1c98a1b86b73d2425933cbed27a",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
   "aura-erp/Course": "e1ed2168b5e773a03ce817052b51c498c9a73184",
@@ -26,7 +26,7 @@
   "aura-erp/SavingsBook": "a9f26d3ee28ae40909b4e8c18245a0e117e8de18",
   "aura-erp/StudentAttendance": "8e39db75e52f2a577e7da91a7db86a898b504c51",
   "aura-erp/Guidance": "ac9c91041bd2082bad41a633f4b08c833df51a0b",
-  "aura-erp/TeacherAttendance": "4bba0235d8555e0326af876cad83bf2114f05e01",
+  "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
   "aura-erp/StudentAcademicRecords": "1d25e1ba9f58c35d7eff56a4075676fc94fbefb2"
 }

@@ -4259,3 +4259,12 @@
 #### [aura-erp/StudentAttendance]
 - feat: api - 8e39db7 (Mohamad Supangat, 2025-10-01)
 - feat: sinkronasi materi pelajaran - 257df78 (Mohamad Supangat, 2025-10-01)
+
+
+### 20250930.20.11
+
+
+#### [aura-erp/Teacher]
+- feat: integrasi api - 36ea30f (Mohamad Supangat, 2025-10-01)
+#### [aura-erp/TeacherAttendance]
+- Automated commit from script - b650cb5 (Mohamad Supangat, 2025-10-01)
