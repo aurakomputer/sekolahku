@@ -4251,3 +4251,11 @@
 - api learning hours - e1ed216 (Mohamad Supangat, 2025-09-28)
 #### [aura-erp/StudentAttendance]
 - feat: sukses melakukan sinkronasi absensi - aa75309 (Mohamad Supangat, 2025-09-30)
+
+
+### 20250930.19.35
+
+
+#### [aura-erp/StudentAttendance]
+- feat: api - 8e39db7 (Mohamad Supangat, 2025-10-01)
+- feat: sinkronasi materi pelajaran - 257df78 (Mohamad Supangat, 2025-10-01)
