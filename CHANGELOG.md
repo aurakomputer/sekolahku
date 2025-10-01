@@ -4268,3 +4268,10 @@
 - feat: integrasi api - 36ea30f (Mohamad Supangat, 2025-10-01)
 #### [aura-erp/TeacherAttendance]
 - Automated commit from script - b650cb5 (Mohamad Supangat, 2025-10-01)
+
+
+### 20251001.05.59
+
+
+#### [aura-erp/Internship]
+- feat: filter print absensi dan kegiatan berdasarkan bulan - b293e90 (Mohamad Supangat, 2025-10-01)
