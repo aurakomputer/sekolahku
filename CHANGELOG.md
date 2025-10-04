@@ -4275,3 +4275,14 @@
 
 #### [aura-erp/Internship]
 - feat: filter print absensi dan kegiatan berdasarkan bulan - b293e90 (Mohamad Supangat, 2025-10-01)
+
+
+### 20251004.16.42
+
+
+#### [aura-erp/aura-erp]
+- Penyesuaian notifikasi aplikasi - a199d68 (Mohamad Supangat, 2025-10-04)
+- Penambahan pwa Installer - f12156d (Mohamad Supangat, 2025-10-04)
+- penyesuaian offline.html agar lebih menarik - c00760a (Mohamad Supangat, 2025-10-04)
+#### [aura-erp/Teacher]
+- feat perbaikan tidak bisa membuat data guru baru - 53e78f4 (Mohamad Supangat, 2025-10-04)
