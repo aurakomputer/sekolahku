@@ -4286,3 +4286,10 @@
 - penyesuaian offline.html agar lebih menarik - c00760a (Mohamad Supangat, 2025-10-04)
 #### [aura-erp/Teacher]
 - feat perbaikan tidak bisa membuat data guru baru - 53e78f4 (Mohamad Supangat, 2025-10-04)
+
+
+### 20251004.17.14
+
+
+#### [aura-erp/Guidance]
+- fix tidak ada menu - 64027f5 (Mohamad Supangat, 2025-10-05)
