@@ -4293,3 +4293,30 @@
 
 #### [aura-erp/Guidance]
 - fix tidak ada menu - 64027f5 (Mohamad Supangat, 2025-10-05)
+
+
+### 20251016.18.05
+
+
+#### [aura-erp/aura-erp]
+- feat: datatable: mengirimkan slot row ke child - 69a4c65 (Mohamad Supangat, 2025-10-17)
+- Automated commit from script - dd8d30f (Mohamad Supangat, 2025-10-17)
+- Merge remote-tracking branch 'origin/master' - daca4fa (Mohamad Supangat, 2025-10-16)
+- manifest: menjadi standalone - e64aaa6 (Mohamad Supangat, 2025-10-16)
+- disabe update manifes.json - 3f716ee (Mohamad Supangat, 2025-10-05)
+#### [aura-erp/PesantrenAsrama]
+- Automated commit from script - a712fae (Mohamad Supangat, 2025-10-17)
+#### [aura-erp/Internship]
+- Automated commit from script - a58df97 (Mohamad Supangat, 2025-10-17)
+#### [aura-erp/Industry]
+- Automated commit from script - 0a08632 (Mohamad Supangat, 2025-10-17)
+#### [aura-erp/Student]
+- feat: menu untuk upload siswa - 2f60e4d (Mohamad Supangat, 2025-10-17)
+- feat: menyesuaikan upload dokumen pendukung siswa - dbd9559 (Mohamad Supangat, 2025-10-17)
+- feat: menampilkan chip status aktif pada list data siswa - e48bd5a (Mohamad Supangat, 2025-10-17)
+- Automated commit from script - cb9b2a0 (Mohamad Supangat, 2025-10-17)
+- feat; menampilkan status siswa - 62a53f2 (Mohamad Supangat, 2025-10-17)
+- feat: global scope untuk siswa yang aktif - 38d0e9e (Mohamad Supangat, 2025-10-16)
+- feat: menmabahkan relasi dengan category / tag - 124c6ea (Mohamad Supangat, 2025-10-16)
+#### [aura-erp/Teacher]
+- Automated commit from script - 83bf574 (Mohamad Supangat, 2025-10-17)
