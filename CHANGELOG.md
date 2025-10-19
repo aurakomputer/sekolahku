@@ -4320,3 +4320,23 @@
 - feat: menmabahkan relasi dengan category / tag - 124c6ea (Mohamad Supangat, 2025-10-16)
 #### [aura-erp/Teacher]
 - Automated commit from script - 83bf574 (Mohamad Supangat, 2025-10-17)
+
+
+### 20251019.17.57
+
+
+#### [aura-erp/aura-erp]
+- Merge remote-tracking branch 'origin/master' - 1b7bcb4 (Mohamad Supangat, 2025-10-20)
+- feat: temlate notifikasi - 171a3f8 (Mohamad Supangat, 2025-10-19)
+- feat: temlate notifikasi - dc2e516 (Mohamad Supangat, 2025-10-19)
+- feat: notifikasi - b385a56 (Mohamad Supangat, 2025-10-19)
+- feat; document-selector: drag and drop - 287eb45 (Mohamad Supangat, 2025-10-19)
+- feat; component document -selector - 97fffd1 (Mohamad Supangat, 2025-10-18)
+#### [aura-erp/Student]
+- penamabahan notifikasi - 397fffe (Mohamad Supangat, 2025-10-20)
+- feat: notifikasi - 355b779 (Mohamad Supangat, 2025-10-19)
+- feat: new - 2df29e0 (Mohamad Supangat, 2025-10-19)
+- feat: menyesuaikan filter dokmen siswa - 6b66104 (Mohamad Supangat, 2025-10-19)
+- Menambahkan form dokumen akhir siswa - f8495f7 (Mohamad Supangat, 2025-10-18)
+- wip: memperbaiki routing untuk berkas dokumen final - e77ce28 (Mohamad Supangat, 2025-10-18)
+- wip - 770098a (Mohamad Supangat, 2025-10-17)
