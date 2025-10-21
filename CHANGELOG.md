@@ -4340,3 +4340,20 @@
 - Menambahkan form dokumen akhir siswa - f8495f7 (Mohamad Supangat, 2025-10-18)
 - wip: memperbaiki routing untuk berkas dokumen final - e77ce28 (Mohamad Supangat, 2025-10-18)
 - wip - 770098a (Mohamad Supangat, 2025-10-17)
+
+
+### 20251021.19.11
+
+
+#### [aura-erp/aura-erp]
+- Automated commit from script - c782203 (Mohamad Supangat, 2025-10-22)
+#### [aura-erp/Document]
+- feat: template helpers dan selecttag - c4e6606 (Mohamad Supangat, 2025-10-22)
+#### [aura-erp/StudentRegistration]
+- hotfix: tidak bisa menghapus komite - 093ad30 (Mohamad Supangat, 2025-10-20)
+#### [aura-erp/Student]
+- wip: add migration - c19062f (Mohamad Supangat, 2025-10-22)
+#### [aura-erp/Teacher]
+- Automated commit from script - 3823c46 (Mohamad Supangat, 2025-10-22)
+#### [aura-erp/StudentAcademicRecords]
+- WIP: cetak riwayat nilai siswa - 4b2a56a (Mohamad Supangat, 2025-10-19)

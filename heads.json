@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "1b7bcb44b76721c48544965cf4f426dd929dfcb3",
+  "aura-erp/aura-erp": "c782203fe8f771bafac4742f2d298913b2bfc6a9",
   "aura-whatsapp/WhatsAppViolationPoint": "f328a26e2f1b059f7c413c0dae43bc88a603d602",
   "aura-whatsapp/WhatsAppStudent": "146bc172d1c6b270cf8efa7cfb23ab8336fc6c3e",
   "aura-whatsapp/WhatsApp": "c12c3125d1320e5bcf278442472abc21a07b1329",
@@ -7,20 +7,20 @@
   "aura-erp/Information": "8a170ab98c3856e9a6b233954bf9f68aa21d8f1b",
   "aura-erp/Pesantren": "64fa3f0f8108ae0d1ec3837213e5c197e2fadef6",
   "aura-erp/Payment": "eadfdf7e049eacd345182d4b00c4c782c559a5db",
-  "aura-erp/StudentRegistration": "2c00de58ecca5c80d4aa0cdb3c926c9dd6bc5b3a",
+  "aura-erp/StudentRegistration": "093ad3064c918d22e8d105e1dd36664ef641c70a",
   "aura-erp/WifiShare": "534cb6f7d8d280542f9e63edb9fea50ed836f4c2",
   "aura-erp/ViolationPoint": "3a54f95149258af21fb4961526eaeabb547bf201",
   "aura-erp/AlQuran": "40a44800823ae6780213faf8c52b4127bb6c3a4c",
   "aura-erp/Internship": "a58df97d4b245ffd6f0d13e105ad96dbcf8a721e",
   "aura-erp/Industry": "0a08632fd0867678549222d3d62d76f370cddc30",
-  "aura-erp/Student": "397fffefb059c0d162574fab419397d20ad0f5ae",
-  "aura-erp/Teacher": "83bf574f4a2ae24bd5a279e2f32db9aaca78ac6b",
+  "aura-erp/Student": "c19062f3b81c01522f1ae40640e7543225c95a6f",
+  "aura-erp/Teacher": "3823c46b82d18803ed4377e557386759f830ac2d",
   "aura-erp/Administration": "81b627357b76c1c98a1b86b73d2425933cbed27a",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
   "aura-erp/Course": "e1ed2168b5e773a03ce817052b51c498c9a73184",
   "aura-erp/MonitoringShalat": "9de5893072d8bfdec5440e616306eccb4ce26801",
   "aura-erp/School": "e3cf55d1e5982e42518a49e8d4a5c953ef959704",
-  "aura-erp/Document": "798e147af4c3e1bd4309623b1415fb1c960fb7a2",
+  "aura-erp/Document": "c4e6606b057337ae03fa2de868f2287ea1d00b10",
   "aura-erp/PesantrenAsrama": "a712fae5ede5a0414fc9fd0a1d67cbb5919a4c7e",
   "aura-erp/RekapPembayaran": "35f393b3e3931d71a5badbe6e282a8aefc6980ea",
   "aura-erp/SavingsBook": "a9f26d3ee28ae40909b4e8c18245a0e117e8de18",
@@ -28,5 +28,5 @@
   "aura-erp/Guidance": "64027f5aa76f8a204f7c07fff805b0ef27868380",
   "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
-  "aura-erp/StudentAcademicRecords": "1d25e1ba9f58c35d7eff56a4075676fc94fbefb2"
+  "aura-erp/StudentAcademicRecords": "4b2a56adfb3ce261040ef61b4ecc8d942194f206"
 }
