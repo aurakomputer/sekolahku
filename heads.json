@@ -20,7 +20,7 @@
   "aura-erp/Course": "e1ed2168b5e773a03ce817052b51c498c9a73184",
   "aura-erp/MonitoringShalat": "9de5893072d8bfdec5440e616306eccb4ce26801",
   "aura-erp/School": "e3cf55d1e5982e42518a49e8d4a5c953ef959704",
-  "aura-erp/Document": "c4e6606b057337ae03fa2de868f2287ea1d00b10",
+  "aura-erp/Document": "97cbf3b9d4da4ffce99f4721289d2233a2e3265c",
   "aura-erp/PesantrenAsrama": "a712fae5ede5a0414fc9fd0a1d67cbb5919a4c7e",
   "aura-erp/RekapPembayaran": "35f393b3e3931d71a5badbe6e282a8aefc6980ea",
   "aura-erp/SavingsBook": "a9f26d3ee28ae40909b4e8c18245a0e117e8de18",
@@ -28,5 +28,5 @@
   "aura-erp/Guidance": "64027f5aa76f8a204f7c07fff805b0ef27868380",
   "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
-  "aura-erp/StudentAcademicRecords": "4b2a56adfb3ce261040ef61b4ecc8d942194f206"
+  "aura-erp/StudentAcademicRecords": "b0f0c6d1c3cc25dcf32692d1408350355a3fd96f"
 }

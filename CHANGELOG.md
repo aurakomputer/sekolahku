@@ -4357,3 +4357,13 @@
 - Automated commit from script - 3823c46 (Mohamad Supangat, 2025-10-22)
 #### [aura-erp/StudentAcademicRecords]
 - WIP: cetak riwayat nilai siswa - 4b2a56a (Mohamad Supangat, 2025-10-19)
+
+
+### 20251024.19.57
+
+
+#### [aura-erp/Document]
+- feat: menambahkan opsi debug - 97cbf3b (Mohamad Supangat, 2025-10-25)
+- menambahkan custom field siswa - f7c286b (Mohamad Supangat, 2025-10-25)
+#### [aura-erp/StudentAcademicRecords]
+- menambahkan cetak dokumen - b0f0c6d (Mohamad Supangat, 2025-10-25)
