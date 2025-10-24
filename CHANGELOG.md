@@ -4367,3 +4367,15 @@
 - menambahkan custom field siswa - f7c286b (Mohamad Supangat, 2025-10-25)
 #### [aura-erp/StudentAcademicRecords]
 - menambahkan cetak dokumen - b0f0c6d (Mohamad Supangat, 2025-10-25)
+
+
+### 20251024.20.01
+
+
+#### [aura-erp/aura-erp]
+- hotfix: seeder notifikasi menghilangkan permision - b4b107b (Mohamad Supangat, 2025-10-25)
+#### [aura-erp/Document]
+- feat: menambahkan opsi debug - 97cbf3b (Mohamad Supangat, 2025-10-25)
+- menambahkan custom field siswa - f7c286b (Mohamad Supangat, 2025-10-25)
+#### [aura-erp/StudentAcademicRecords]
+- menambahkan cetak dokumen - b0f0c6d (Mohamad Supangat, 2025-10-25)
