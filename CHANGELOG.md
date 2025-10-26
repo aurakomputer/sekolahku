@@ -4379,3 +4379,28 @@
 - menambahkan custom field siswa - f7c286b (Mohamad Supangat, 2025-10-25)
 #### [aura-erp/StudentAcademicRecords]
 - menambahkan cetak dokumen - b0f0c6d (Mohamad Supangat, 2025-10-25)
+
+
+### 20251026.11.10
+
+
+#### [aura-erp/aura-erp]
+- Automated commit from script - 69a08bc (Mohamad Supangat, 2025-10-26)
+- hotfix: lakukan debounce pada refresh data datatable - 3dd9d20 (Mohamad Supangat, 2025-10-26)
+- fix; jangan tampilkan password sediakan hash saja - c67daf8 (Mohamad Supangat, 2025-10-26)
+- fix: logo aplikasi - 0f565a4 (Mohamad Supangat, 2025-10-26)
+#### [aura-erp/Document]
+- fixing - 5eff0b3 (Mohamad Supangat, 2025-10-25)
+#### [aura-erp/Achievement]
+- perbaikan permission dan format datatable - dd7655b (Mohamad Supangat, 2025-10-26)
+- Automated commit from script - 646da37 (Mohamad Supangat, 2025-09-21)
+#### [aura-erp/Student]
+- feat: gunakan akun siswa - 514177c (Mohamad Supangat, 2025-10-26)
+- feat: gunkaan hanya beberapa dtaa sja untuk membuat dummy akun siswa - 4e34898 (Mohamad Supangat, 2025-10-26)
+#### [aura-erp/Teacher]
+- Automated commit from script - 1f4f333 (Mohamad Supangat, 2025-10-26)
+#### [aura-erp/StudentAttendance]
+- fix: typo - 3027257 (Mohamad Supangat, 2025-10-26)
+#### [aura-erp/StudentAcademicRecords]
+- menambahkan tombol cetak - f5d9b1f (Mohamad Supangat, 2025-10-26)
+- wip: fix perijinan aplikasi - f6cc759 (Mohamad Supangat, 2025-10-26)
