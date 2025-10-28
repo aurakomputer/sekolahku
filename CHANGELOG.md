@@ -4404,3 +4404,13 @@
 #### [aura-erp/StudentAcademicRecords]
 - menambahkan tombol cetak - f5d9b1f (Mohamad Supangat, 2025-10-26)
 - wip: fix perijinan aplikasi - f6cc759 (Mohamad Supangat, 2025-10-26)
+
+
+### 20251028.07.43
+
+
+#### [aura-erp/aura-erp]
+- update template - 59e307d (Mohamad Supangat, 2025-10-28)
+- fix: perbaikan - 25e7dd6 (Mohamad Supangat, 2025-10-28)
+#### [aura-erp/Student]
+- update - 9406161 (Mohamad Supangat, 2025-10-28)
