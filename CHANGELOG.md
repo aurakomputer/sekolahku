@@ -4426,3 +4426,10 @@
 - feat: simpan nilai siswa - 22f24af (Mohamad Supangat, 2025-10-29)
 - feat: menampilkan semua data siswa pada datatable - 9dfa945 (Mohamad Supangat, 2025-10-29)
 - wip: halaman kusus - 4390c7d (Mohamad Supangat, 2025-10-29)
+
+
+### 20251029.16.31
+
+
+#### [aura-erp/StudentRegistration]
+- hotfix: perbaikan tidak bisa cetak invoice pembayaran - 43745d4 (Mohamad Supangat, 2025-10-29)
