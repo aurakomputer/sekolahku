@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "59e307d2180be53a771f301b7abfc098027dbc03",
+  "aura-erp/aura-erp": "690ab57fa12683576a17b024ae5b0755868c7a7a",
   "aura-whatsapp/WhatsAppViolationPoint": "f328a26e2f1b059f7c413c0dae43bc88a603d602",
   "aura-whatsapp/WhatsAppStudent": "146bc172d1c6b270cf8efa7cfb23ab8336fc6c3e",
   "aura-whatsapp/WhatsApp": "c12c3125d1320e5bcf278442472abc21a07b1329",
@@ -28,5 +28,5 @@
   "aura-erp/Guidance": "64027f5aa76f8a204f7c07fff805b0ef27868380",
   "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
-  "aura-erp/StudentAcademicRecords": "f5d9b1fbdf3fa7a283c20dee94e001ba876b5e26"
+  "aura-erp/StudentAcademicRecords": "22f24af2a633c87214b41fbaea7be076673a5758"
 }

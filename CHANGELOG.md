@@ -4414,3 +4414,15 @@
 - fix: perbaikan - 25e7dd6 (Mohamad Supangat, 2025-10-28)
 #### [aura-erp/Student]
 - update - 9406161 (Mohamad Supangat, 2025-10-28)
+
+
+### 20251029.16.12
+
+
+#### [aura-erp/aura-erp]
+- feat: laravel queue stop jika empty - 690ab57 (Mohamad Supangat, 2025-10-29)
+- feat: table untuk menyimpan cache - e1b3928 (Mohamad Supangat, 2025-10-29)
+#### [aura-erp/StudentAcademicRecords]
+- feat: simpan nilai siswa - 22f24af (Mohamad Supangat, 2025-10-29)
+- feat: menampilkan semua data siswa pada datatable - 9dfa945 (Mohamad Supangat, 2025-10-29)
+- wip: halaman kusus - 4390c7d (Mohamad Supangat, 2025-10-29)
