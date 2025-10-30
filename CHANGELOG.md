@@ -4433,3 +4433,10 @@
 
 #### [aura-erp/StudentRegistration]
 - hotfix: perbaikan tidak bisa cetak invoice pembayaran - 43745d4 (Mohamad Supangat, 2025-10-29)
+
+
+### 20251030.01.23
+
+
+#### [aura-erp/aura-erp]
+- fix: perbaikan refresh pada datatable - 5a8e1c7 (Mohamad Supangat, 2025-10-30)
