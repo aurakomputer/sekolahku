@@ -4445,3 +4445,25 @@
 ### 20251030.22.21
 
 
+
+
+### 20251031.17.24
+
+
+#### [aura-erp/aura-erp]
+- Merge remote-tracking branch 'origin/master' - fd1e4e0 (Mohamad Supangat, 2025-11-01)
+- Automated commit from script - 33948a5 (Mohamad Supangat, 2025-11-01)
+- fix: update datatable filter - 1a0bf1c (Mohamad Supangat, 2025-10-30)
+#### [aura-erp/Document]
+- fix: perbaikan filter dan print master - bac4a88 (Mohamad Supangat, 2025-11-01)
+#### [aura-erp/Student]
+- menambahkan default option value ke id - 7cbcb2e (Mohamad Supangat, 2025-11-01)
+- feat: ketika tidak ada data guru maka jangan di tampilkan - b9c5dbf (Mohamad Supangat, 2025-10-31)
+#### [aura-erp/RekapPembayaran]
+- feat: dapat membatalkan konfirmasi pada rekap pembayaran - 73b66a9 (Mohamad Supangat, 2025-10-31)
+- memperbaiki filter downloasd rekap pembayaran tidak bisa - 3f131c7 (Mohamad Supangat, 2025-10-31)
+#### [aura-erp/StudentAcademicRecords]
+- perbiakan tombol print riwayat nilai siswa - 583b841 (Mohamad Supangat, 2025-11-01)
+- feat: cetak / print data siswa - 3257491 (Mohamad Supangat, 2025-10-31)
+- fix: typo - b84a66a (Mohamad Supangat, 2025-10-31)
+- feat; menyesuaikan rekap total ketika login dengan akun wali kelas - 7edca90 (Mohamad Supangat, 2025-10-31)

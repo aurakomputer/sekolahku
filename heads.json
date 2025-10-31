@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "5a8e1c7fe1727964d2fdd34bd6fd34c886ecaeaf",
+  "aura-erp/aura-erp": "fd1e4e0dff96c49704212ea278c5900805c24046",
   "aura-whatsapp/WhatsAppViolationPoint": "f328a26e2f1b059f7c413c0dae43bc88a603d602",
   "aura-whatsapp/WhatsAppStudent": "146bc172d1c6b270cf8efa7cfb23ab8336fc6c3e",
   "aura-whatsapp/WhatsApp": "c12c3125d1320e5bcf278442472abc21a07b1329",
@@ -13,20 +13,20 @@
   "aura-erp/AlQuran": "40a44800823ae6780213faf8c52b4127bb6c3a4c",
   "aura-erp/Internship": "a58df97d4b245ffd6f0d13e105ad96dbcf8a721e",
   "aura-erp/Industry": "0a08632fd0867678549222d3d62d76f370cddc30",
-  "aura-erp/Student": "9406161bd4258c1ba6615b02323cefef386c9edc",
+  "aura-erp/Student": "7cbcb2e69814cdf0d6151bdb209b5b28271f287e",
   "aura-erp/Teacher": "1f4f33310ecd0d82a93e992052e636367d587d60",
   "aura-erp/Administration": "81b627357b76c1c98a1b86b73d2425933cbed27a",
   "aura-erp/ELearning": "888c0a51d4c7d65743b583d136c56f8eee54f097",
   "aura-erp/Course": "e1ed2168b5e773a03ce817052b51c498c9a73184",
   "aura-erp/MonitoringShalat": "9de5893072d8bfdec5440e616306eccb4ce26801",
   "aura-erp/School": "e3cf55d1e5982e42518a49e8d4a5c953ef959704",
-  "aura-erp/Document": "5eff0b32ac89badceaa6dcd4d2686dbf9175a943",
+  "aura-erp/Document": "bac4a8896105dd3efd3d42607ff8000c6e6bb36a",
   "aura-erp/PesantrenAsrama": "a712fae5ede5a0414fc9fd0a1d67cbb5919a4c7e",
-  "aura-erp/RekapPembayaran": "35f393b3e3931d71a5badbe6e282a8aefc6980ea",
+  "aura-erp/RekapPembayaran": "73b66a937f5a911aaf25ffc049888ff88d6a0aa6",
   "aura-erp/SavingsBook": "a9f26d3ee28ae40909b4e8c18245a0e117e8de18",
   "aura-erp/StudentAttendance": "30272579cf1eca972d9ba33d54b1dae775dbcc0a",
   "aura-erp/Guidance": "64027f5aa76f8a204f7c07fff805b0ef27868380",
   "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
-  "aura-erp/StudentAcademicRecords": "22f24af2a633c87214b41fbaea7be076673a5758"
+  "aura-erp/StudentAcademicRecords": "583b841cbefc439288e49dba410cfa6d8b612072"
 }
