@@ -4467,3 +4467,12 @@
 - feat: cetak / print data siswa - 3257491 (Mohamad Supangat, 2025-10-31)
 - fix: typo - b84a66a (Mohamad Supangat, 2025-10-31)
 - feat; menyesuaikan rekap total ketika login dengan akun wali kelas - 7edca90 (Mohamad Supangat, 2025-10-31)
+
+
+### 20251031.17.54
+
+
+#### [aura-erp/Student]
+- hotfix: konfirmasi tidakmasuk - 7bf60fe (Mohamad Supangat, 2025-11-01)
+#### [aura-erp/RekapPembayaran]
+- hotfix: routing untuk konfirmasi terduplikasi - ef6cffd (Mohamad Supangat, 2025-11-01)
