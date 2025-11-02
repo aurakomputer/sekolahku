@@ -4476,3 +4476,34 @@
 - hotfix: konfirmasi tidakmasuk - 7bf60fe (Mohamad Supangat, 2025-11-01)
 #### [aura-erp/RekapPembayaran]
 - hotfix: routing untuk konfirmasi terduplikasi - ef6cffd (Mohamad Supangat, 2025-11-01)
+
+
+### 20251102.17.35
+
+
+#### [aura-erp/aura-erp]
+- Automated commit from script - 2fa3bd1 (Mohamad Supangat, 2025-11-03)
+- feat: simple edior - c9d73f9 (Mohamad Supangat, 2025-11-02)
+- cache: default to database - d331ced (Mohamad Supangat, 2025-11-02)
+- expose data pencarian - 8a98375 (Mohamad Supangat, 2025-11-02)
+- feat: integrasi whatsapp - 12e424d (Mohamad Supangat, 2025-11-02)
+#### [aura-erp/Administration]
+- update payment controller - a806208 (Mohamad Supangat, 2025-11-02)
+#### [aura-whatsapp/WhatsApp]
+- Automated commit from script - aa31cf3 (Mohamad Supangat, 2025-11-03)
+- fix: pengiriman pesan - e3c3a12 (Mohamad Supangat, 2025-11-02)
+- fix - f9bea1a (Mohamad Supangat, 2025-11-02)
+- kirim pesan - bfbdaa2 (Mohamad Supangat, 2025-11-02)
+- Pesan - 87e9f4f (Mohamad Supangat, 2025-11-02)
+- feat: paksakan untuk validasi - f4f36db (Mohamad Supangat, 2025-11-02)
+- feat: dinamisasi menu whatsapp - a5121bc (Mohamad Supangat, 2025-11-02)
+- Fitur test mode - db925f3 (Mohamad Supangat, 2025-11-01)
+- sukses scan whatsapp - b5aa5e7 (Mohamad Supangat, 2025-11-01)
+#### [aura-erp/Student]
+- feat: implementasi quque - ce3a05f (Mohamad Supangat, 2025-11-03)
+- feat: schedule otomatis pengiriman pesan whatsapp - 9b9cd9d (Mohamad Supangat, 2025-11-03)
+- feat: pengiriman whatsapp - 176d747 (Mohamad Supangat, 2025-11-03)
+- feat: pengaturan ulang tahun - dad02ae (Mohamad Supangat, 2025-11-02)
+- feat: rendering data - 0f0981f (Mohamad Supangat, 2025-11-02)
+- feat: pengiriman pesan masal ke siswa dna orang tua - a781b23 (Mohamad Supangat, 2025-11-02)
+- feat: integrasi dengan whatsapp - ba0e7c1 (Mohamad Supangat, 2025-11-02)
