@@ -4507,3 +4507,20 @@
 - feat: rendering data - 0f0981f (Mohamad Supangat, 2025-11-02)
 - feat: pengiriman pesan masal ke siswa dna orang tua - a781b23 (Mohamad Supangat, 2025-11-02)
 - feat: integrasi dengan whatsapp - ba0e7c1 (Mohamad Supangat, 2025-11-02)
+
+
+### 20251103.18.02
+
+
+#### [aura-erp/aura-erp]
+- Automated commit from script - 58630b2 (Mohamad Supangat, 2025-11-04)
+- Automated commit from script - 6347137 (Mohamad Supangat, 2025-11-03)
+#### [aura-erp/Document]
+- Automated commit from script - 7bc37f6 (Mohamad Supangat, 2025-11-04)
+#### [aura-erp/Administration]
+- Notifikasi pembayaran masuk lewat whatsapp - 0c3b497 (Mohamad Supangat, 2025-11-04)
+- Automated commit from script - d8148f4 (Mohamad Supangat, 2025-11-03)
+#### [aura-whatsapp/WhatsApp]
+- feat: dashboard whatsap - 79b11ff (Mohamad Supangat, 2025-11-04)
+- generator whatsapp template - 334ae3e (Mohamad Supangat, 2025-11-04)
+- whatsapp template - c99407a (Mohamad Supangat, 2025-11-03)
