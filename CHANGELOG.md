@@ -4524,3 +4524,29 @@
 - feat: dashboard whatsap - 79b11ff (Mohamad Supangat, 2025-11-04)
 - generator whatsapp template - 334ae3e (Mohamad Supangat, 2025-11-04)
 - whatsapp template - c99407a (Mohamad Supangat, 2025-11-03)
+
+
+### 20251107.17.33
+
+
+#### [aura-erp/aura-erp]
+- feat: gunakan try catch untuk notifikasi - 51da498 (Mohamad Supangat, 2025-11-07)
+#### [aura-whatsapp/WhatsApp]
+- feat: penggunaan try catch - f24f66a (Mohamad Supangat, 2025-11-07)
+- Automated commit from script - c27ec12 (Mohamad Supangat, 2025-11-07)
+#### [aura-erp/Student]
+- feat: migrasikan only home room - 062a7cc (Mohamad Supangat, 2025-11-08)
+- feat; perbaikan pengambilan data homeroom - e156771 (Mohamad Supangat, 2025-11-08)
+- feat: menambahkanfilter untuk menampilkan hanya data wali kelas - 7bb1223 (Mohamad Supangat, 2025-11-07)
+- feat: migrasikan pengaturan pesan whatsapp ulang tahu ke whatsapp template - 2902801 (Mohamad Supangat, 2025-11-07)
+#### [aura-erp/Teacher]
+- feat: menambahkan perijinan pada menu panel guru - 09afe1e (Mohamad Supangat, 2025-11-07)
+#### [aura-erp/StudentAttendance]
+- Merge remote-tracking branch 'origin/master' - d67854a (Mohamad Supangat, 2025-11-08)
+- feat: perbaikan perijinan aplikasi - 0891fca (Mohamad Supangat, 2025-11-08)
+- feat: perbaikan perijinan aplikasi - bf22d4e (Mohamad Supangat, 2025-11-08)
+#### [aura-erp/StudentAcademicRecords]
+- Automated commit from script - 42fe159 (Mohamad Supangat, 2025-11-08)
+- feat: menambahkan catatan pada print - cd853a6 (Mohamad Supangat, 2025-11-07)
+- feat: menampilkan catatan pada export excel - bed0f5a (Mohamad Supangat, 2025-11-07)
+- feat: mynimpan catatan pada nilai - 169a9f4 (Mohamad Supangat, 2025-11-07)
