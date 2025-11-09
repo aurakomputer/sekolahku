@@ -4550,3 +4550,15 @@
 - feat: menambahkan catatan pada print - cd853a6 (Mohamad Supangat, 2025-11-07)
 - feat: menampilkan catatan pada export excel - bed0f5a (Mohamad Supangat, 2025-11-07)
 - feat: mynimpan catatan pada nilai - 169a9f4 (Mohamad Supangat, 2025-11-07)
+
+
+### 20251109.17.36
+
+
+#### [aura-whatsapp/WhatsApp]
+- feat: whatsapp enabled - 48f24be (Mohamad Supangat, 2025-11-10)
+#### [aura-erp/Student]
+- feat: menyesuaikan template - 50a9a2b (Mohamad Supangat, 2025-11-10)
+- feat: perbaikan notifikasi ulang tahun - 738e3c1 (Mohamad Supangat, 2025-11-10)
+- feat: menampilkan status pada halaman detail siswa - 1751ba3 (Mohamad Supangat, 2025-11-09)
+- fix: memperbaiki error - 23bc2d5 (Mohamad Supangat, 2025-11-09)
