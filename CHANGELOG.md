@@ -4578,3 +4578,18 @@
 - feat: melakukan validasi - 3ac581e (Mohamad Supangat, 2025-11-10)
 - Merge branch 'master' of https://gitlab.com/aura-erp/Student - 89b0474 (Mohamad Supangat, 2025-11-10)
 - feat: filter active schoolYear - ce6a0ab (Mohamad Supangat, 2025-11-10)
+
+
+### 20251110.18.21
+
+
+#### [aura-erp/aura-erp]
+- feat: with emoji picker - ff1d0b5 (Mohamad Supangat, 2025-11-11)
+#### [aura-whatsapp/WhatsApp]
+- default disable template - 4c0ac69 (Mohamad Supangat, 2025-11-11)
+#### [aura-erp/Student]
+- fix: typo - d422bab (Mohamad Supangat, 2025-11-11)
+#### [aura-erp/Teacher]
+- feat: kirim pesan ulang tahun otomatis ke guru - 6e70308 (Mohamad Supangat, 2025-11-11)
+- feat: kirim pesan ulang tahun guru - 45394c4 (Mohamad Supangat, 2025-11-11)
+- feat: kirim pesan masal whatsapp - 6b7efb8 (Mohamad Supangat, 2025-11-11)
