@@ -4593,3 +4593,10 @@
 - feat: kirim pesan ulang tahun otomatis ke guru - 6e70308 (Mohamad Supangat, 2025-11-11)
 - feat: kirim pesan ulang tahun guru - 45394c4 (Mohamad Supangat, 2025-11-11)
 - feat: kirim pesan masal whatsapp - 6b7efb8 (Mohamad Supangat, 2025-11-11)
+
+
+### 20251110.18.40
+
+
+#### [aura-erp/aura-erp]
+- fix: queue tidak berjalan semestinya - 169d7b4 (Mohamad Supangat, 2025-11-11)
