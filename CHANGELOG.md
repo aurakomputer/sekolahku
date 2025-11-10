@@ -4562,3 +4562,19 @@
 - feat: perbaikan notifikasi ulang tahun - 738e3c1 (Mohamad Supangat, 2025-11-10)
 - feat: menampilkan status pada halaman detail siswa - 1751ba3 (Mohamad Supangat, 2025-11-09)
 - fix: memperbaiki error - 23bc2d5 (Mohamad Supangat, 2025-11-09)
+
+
+### 20251110.02.14
+
+
+#### [aura-erp/aura-erp]
+- fix: typo penulisan nama fungsi - ce2ea8e (Mohamad Supangat, 2025-11-10)
+#### [aura-erp/Administration]
+- fix: typo pemanggilan fungsi - 8f49c6c (Mohamad Supangat, 2025-11-10)
+- feat: sederhanakan fungsi send email - dba6d8a (Mohamad Supangat, 2025-11-10)
+#### [aura-whatsapp/WhatsApp]
+- feat: senderhanakan fungsi send - c003638 (Mohamad Supangat, 2025-11-10)
+#### [aura-erp/Student]
+- feat: melakukan validasi - 3ac581e (Mohamad Supangat, 2025-11-10)
+- Merge branch 'master' of https://gitlab.com/aura-erp/Student - 89b0474 (Mohamad Supangat, 2025-11-10)
+- feat: filter active schoolYear - ce6a0ab (Mohamad Supangat, 2025-11-10)
