@@ -4600,3 +4600,12 @@
 
 #### [aura-erp/aura-erp]
 - fix: queue tidak berjalan semestinya - 169d7b4 (Mohamad Supangat, 2025-11-11)
+
+
+### 20251112.06.56
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan log schedules - ecbf6c4 (Mohamad Supangat, 2025-11-11)
+#### [aura-erp/Student]
+- fix: error dan typo penulisan template action - 00e74c3 (Mohamad Supangat, 2025-11-12)
