@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "ecbf6c4c526a33ad62f6eea58fb7d9919a784931",
+  "aura-erp/aura-erp": "18c12114945bb5503f0650968677b27b628d7acf",
   "aura-whatsapp/WhatsAppViolationPoint": "f328a26e2f1b059f7c413c0dae43bc88a603d602",
   "aura-whatsapp/WhatsAppStudent": "146bc172d1c6b270cf8efa7cfb23ab8336fc6c3e",
   "aura-whatsapp/WhatsApp": "4c0ac69446f7b0fed8bf503e35cd503f8dfbed96",
@@ -7,7 +7,7 @@
   "aura-erp/Information": "8a170ab98c3856e9a6b233954bf9f68aa21d8f1b",
   "aura-erp/Pesantren": "64fa3f0f8108ae0d1ec3837213e5c197e2fadef6",
   "aura-erp/Payment": "eadfdf7e049eacd345182d4b00c4c782c559a5db",
-  "aura-erp/StudentRegistration": "43745d4640bc36024a35fa8e7077088b1aa80cec",
+  "aura-erp/StudentRegistration": "16192a01bc68d9804e499ed329f8ab2b6de3105e",
   "aura-erp/WifiShare": "534cb6f7d8d280542f9e63edb9fea50ed836f4c2",
   "aura-erp/ViolationPoint": "3a54f95149258af21fb4961526eaeabb547bf201",
   "aura-erp/AlQuran": "40a44800823ae6780213faf8c52b4127bb6c3a4c",
@@ -25,7 +25,7 @@
   "aura-erp/RekapPembayaran": "ef6cffde57d2ba44ca38a7d675c2f26c0c86ee8e",
   "aura-erp/SavingsBook": "a9f26d3ee28ae40909b4e8c18245a0e117e8de18",
   "aura-erp/StudentAttendance": "d67854a69aafb772a15d5539d0fd66eba3581ea0",
-  "aura-erp/Guidance": "64027f5aa76f8a204f7c07fff805b0ef27868380",
+  "aura-erp/Guidance": "0904786ec78b7d97ade082cb1991cc1f476a7b2b",
   "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
   "aura-erp/StudentAcademicRecords": "42fe159b9e39c8ab33a8b77243e82ae6419c97c9"

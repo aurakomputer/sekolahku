@@ -4616,3 +4616,18 @@
 
 #### [aura-erp/Student]
 - hmm: commit fix - e1f5e5c (Mohamad Supangat, 2025-11-12)
+
+
+### 20251114.03.28
+
+
+#### [aura-erp/aura-erp]
+- feat: fungsi seed reference_class notification - 18c1211 (Mohamad Supangat, 2025-11-13)
+- feat: menambahkan reference_class pada notifikasi template - 8a02935 (Mohamad Supangat, 2025-11-13)
+#### [aura-erp/StudentRegistration]
+- feat: menambahkan nomor pendaftaran pada riwayat du - 16192a0 (Mohamad Supangat, 2025-11-12)
+#### [aura-erp/Guidance]
+- feat: perbaikan dashboard siswa - 0904786 (Mohamad Supangat, 2025-11-14)
+- feat: menambahkan kelas - 2e5d563 (Mohamad Supangat, 2025-11-14)
+- hotfix: penambahan middleware untuk duidance - a37c519 (Mohamad Supangat, 2025-11-14)
+- feat: menambahkan relasi ke banyak data kelas dan siswa sekaligus - 92b48e4 (Mohamad Supangat, 2025-11-13)
