@@ -4631,3 +4631,26 @@
 - feat: menambahkan kelas - 2e5d563 (Mohamad Supangat, 2025-11-14)
 - hotfix: penambahan middleware untuk duidance - a37c519 (Mohamad Supangat, 2025-11-14)
 - feat: menambahkan relasi ke banyak data kelas dan siswa sekaligus - 92b48e4 (Mohamad Supangat, 2025-11-13)
+
+
+### 20251115.18.41
+
+
+#### [aura-erp/aura-erp]
+- Squash merge qrcode into master - c2ab391 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Achievement]
+- Automated commit from script - 25481d3 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Pesantren]
+- Automated commit from script - c711a55 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/PesantrenAsrama]
+- Automated commit from script - bfd7a81 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/StudentRegistration]
+- Automated commit from script - 0b43862 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/ViolationPoint]
+- Automated commit from script - 3a4b2c6 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Teacher]
+- Automated commit from script - 51d8c25 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Guidance]
+- fix ;module untuk tambah - cd8394a (Mohamad Supangat, 2025-11-16)
+- fix: menyimpan multi kelas - b30155b (Mohamad Supangat, 2025-11-14)
+- fix: download excell riwayat - 08489d1 (Mohamad Supangat, 2025-11-14)
