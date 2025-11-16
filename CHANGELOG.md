@@ -4654,3 +4654,14 @@
 - fix ;module untuk tambah - cd8394a (Mohamad Supangat, 2025-11-16)
 - fix: menyimpan multi kelas - b30155b (Mohamad Supangat, 2025-11-14)
 - fix: download excell riwayat - 08489d1 (Mohamad Supangat, 2025-11-14)
+
+
+### 20251116.04.47
+
+
+#### [aura-erp/aura-erp]
+- feat: fungsi untuk daftar list - 5ec5d58 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Administration]
+- fix - d4b9e93 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Student]
+- fix: error - 4aa1af3 (Mohamad Supangat, 2025-11-16)
