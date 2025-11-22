@@ -4665,3 +4665,41 @@
 - fix - d4b9e93 (Mohamad Supangat, 2025-11-16)
 #### [aura-erp/Student]
 - fix: error - 4aa1af3 (Mohamad Supangat, 2025-11-16)
+
+
+### 20251122.17.57
+
+
+#### [aura-erp/aura-erp]
+- hotfix; fungsi monthSchoolYears - a3613b6 (Mohamad Supangat, 2025-11-22)
+- update composer - c1e1c54 (Mohamad Supangat, 2025-11-21)
+- Merge branch 'pdf' - 02085d2 (Mohamad Supangat, 2025-11-20)
+- feat: perbaikan unit test - 6f44354 (Mohamad Supangat, 2025-11-20)
+- Menyesuaikan integrasi scss - d114be0 (Mohamad Supangat, 2025-11-20)
+- stag new - 6e8d522 (Mohamad Supangat, 2025-11-20)
+- wip: merapikan PDF - 24b9041 (Mohamad Supangat, 2025-11-19)
+- wip: merapikan layout pdf - a3c0081 (Mohamad Supangat, 2025-11-18)
+- feat; verify: perbaikan icon - 394ec23 (Mohamad Supangat, 2025-11-17)
+- feat: verify: menambahkan icon untuk data yang tidak di temukan - c3b5cd1 (Mohamad Supangat, 2025-11-17)
+- feat: page verifikasi data - 31b774d (Mohamad Supangat, 2025-11-17)
+- fungsi untuk memfilter data bulan yang tersedia - 1e06c48 (Mohamad Supangat, 2025-11-16)
+#### [aura-erp/Administration]
+- feat: menampilkan rincian bulan berjalan - a3d9c30 (Mohamad Supangat, 2025-11-23)
+- feat: summary rekap bulan berjalan - 49092fe (Mohamad Supangat, 2025-11-23)
+- feat: menampilkan rincian tunggakan tahun berjalan - 0e6791c (Mohamad Supangat, 2025-11-23)
+- feat; menambahkan perhitungan nyata untuk data tunggakan - 6401f45 (Mohamad Supangat, 2025-11-22)
+- feat: perbaikan template pengiriman dokumen whatsapp - 8540ef1 (Mohamad Supangat, 2025-11-22)
+- feat: perbaikan pengiriman riwayat pembayaran - 9c60a07 (Mohamad Supangat, 2025-11-20)
+- Merge remote-tracking branch 'origin/master' - 3c80d20 (Mohamad Supangat, 2025-11-19)
+- wip: merapikan pdf - fb5f157 (Mohamad Supangat, 2025-11-18)
+- wip: merapikan pdf - 3a3ec45 (Mohamad Supangat, 2025-11-18)
+- wip: merapikan pdf - 044e1f6 (Mohamad Supangat, 2025-11-18)
+- wip: menambahkan verifikasi data - 6fb13e0 (Mohamad Supangat, 2025-11-17)
+- wip: menghitung total tagihan berjalan - c1f2c81 (Mohamad Supangat, 2025-11-16)
+- wip: custom be paid - f84c723 (Mohamad Supangat, 2025-11-16)
+#### [aura-whatsapp/WhatsApp]
+- feat: pengiriman testing - 02331d6 (Mohamad Supangat, 2025-11-22)
+- feat: penyelesaian fitur update template notifikasi - 25b63df (Mohamad Supangat, 2025-11-21)
+- migrasi ke pdf helper baru - 7aec7e3 (Mohamad Supangat, 2025-11-20)
+- feat pdf - 98d8e95 (Mohamad Supangat, 2025-11-18)
+- feat: pengaturan template - b9778d7 (Mohamad Supangat, 2025-11-17)
