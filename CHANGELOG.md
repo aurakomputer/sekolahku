@@ -4703,3 +4703,47 @@
 - migrasi ke pdf helper baru - 7aec7e3 (Mohamad Supangat, 2025-11-20)
 - feat pdf - 98d8e95 (Mohamad Supangat, 2025-11-18)
 - feat: pengaturan template - b9778d7 (Mohamad Supangat, 2025-11-17)
+
+
+### 20251130.16.13
+
+
+#### [aura-erp/aura-erp]
+- Automated commit from script - a76f847 (Mohamad Supangat, 2025-11-30)
+- feat(core): menambahkan footer section untuk penggunaan column span - 323eada (Mohamad Supangat, 2025-11-30)
+- feat(core): migrasi aplikasi - ae49e9c (Mohamad Supangat, 2025-11-29)
+- feat(core): configurasi untuk comittizen - f637f9a (Mohamad Supangat, 2025-11-29)
+- ubah font judul pada QRCOde - 2d4314e (Mohamad Supangat, 2025-11-29)
+- feat(core): Melakukan generator logo circle mask setelah upload logo di pengaturan - 4a5f1fb (Mohamad Supangat, 2025-11-29)
+- fix - 3c3e9ec (Mohamad Supangat, 2025-11-27)
+- persist database statse - e2b1e67 (Mohamad Supangat, 2025-11-27)
+#### [aura-erp/Document]
+- disable image error - 3540e07 (Mohamad Supangat, 2025-11-29)
+#### [aura-erp/Administration]
+- feat: pengiriman ucapan terimakasih sudah membayar - 91c4676 (Mohamad Supangat, 2025-11-30)
+- feat: melakukan pengiriman pesan whatsapp - 258ce07 (Mohamad Supangat, 2025-11-30)
+- feat: melakukan split riwayat pembayaran daftar ulang - 9e2119c (Mohamad Supangat, 2025-11-30)
+- update jenis dokumen - 88cdd89 (Mohamad Supangat, 2025-11-29)
+- fix: tanggal alokasi harus selalu mengikuti tanggal pembayaran - 3c34944 (Mohamad Supangat, 2025-11-27)
+#### [aura-whatsapp/WhatsApp]
+- feat: perbaikan random ordering data - 8f6bd84 (Mohamad Supangat, 2025-11-30)
+- fix: perbaikan error ketika migrasi belum di jalankan - 1ef7907 (Mohamad Supangat, 2025-11-30)
+- feat: render template pesan whatsapp menggunakan renderplaceholders - 818c979 (Mohamad Supangat, 2025-11-29)
+- feat: sukses melakukan aktifitas schedule dari cron whatsapp template - 374c47a (Mohamad Supangat, 2025-11-29)
+- feat: pengaturan whatsapp - 264290e (Mohamad Supangat, 2025-11-29)
+- perf: revert kembali json code editor ui - c66a1a0 (Mohamad Supangat, 2025-11-29)
+- menambahkan fungsi untuk mengambil data participant - 011ecc0 (Mohamad Supangat, 2025-11-27)
+- feat: migrasi pengugnaan repeat - 101124f (Mohamad Supangat, 2025-11-27)
+#### [aura-erp/Payment]
+- Automated commit from script - f082fbe (Mohamad Supangat, 2025-11-29)
+#### [aura-erp/Student]
+- feat: migrasi whatsapp event ke whatsapp module - 7f7d5ea (Mohamad Supangat, 2025-11-29)
+- feat: update - a21d6d3 (Mohamad Supangat, 2025-11-27)
+- feat: penamabhaan reference class - 93f1da7 (Mohamad Supangat, 2025-11-27)
+- feat: penambahan options - eff5f44 (Mohamad Supangat, 2025-11-27)
+- feat: notifikasi send bulk - 81713de (Mohamad Supangat, 2025-11-27)
+- fix: import data siswa errror - b733be1 (Mohamad Supangat, 2025-11-27)
+#### [aura-erp/Teacher]
+- feat: migrating whatsapp event to whstapp module - 1b69247 (Mohamad Supangat, 2025-11-29)
+- feat: penambaahan options - fcb14f6 (Mohamad Supangat, 2025-11-27)
+- feat: permission jika tidak bisa melihat data guru - 7d68868 (Mohamad Supangat, 2025-11-27)
