@@ -4758,3 +4758,10 @@
 - fix: memperbaiki error pada pengambilan sample test dan random - 377a1ff (Mohamad Supangat, 2025-12-02)
 - feat: menampilkan configurasi dengan json editor - 261e7b2 (Mohamad Supangat, 2025-12-02)
 - fix: perbaikan metode pengambilan - 3b978c2 (Mohamad Supangat, 2025-12-02)
+
+
+### 20251201.19.31
+
+
+#### [aura-erp/aura-erp]
+- Menambahkan fonts poppins - 6d79c7a (Mohamad Supangat, 2025-12-02)
