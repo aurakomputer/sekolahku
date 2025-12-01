@@ -4765,3 +4765,11 @@
 
 #### [aura-erp/aura-erp]
 - Menambahkan fonts poppins - 6d79c7a (Mohamad Supangat, 2025-12-02)
+
+
+### 20251201.19.50
+
+
+#### [aura-erp/aura-erp]
+- fix: fungsi generate qr tidak valid - 9b22f57 (Mohamad Supangat, 2025-12-02)
+- fix: watter mark menggunakan url bukan path - 6b21d8a (Mohamad Supangat, 2025-12-02)
