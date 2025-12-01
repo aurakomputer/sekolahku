@@ -4747,3 +4747,14 @@
 - feat: migrating whatsapp event to whstapp module - 1b69247 (Mohamad Supangat, 2025-11-29)
 - feat: penambaahan options - fcb14f6 (Mohamad Supangat, 2025-11-27)
 - feat: permission jika tidak bisa melihat data guru - 7d68868 (Mohamad Supangat, 2025-11-27)
+
+
+### 20251201.19.02
+
+
+#### [aura-erp/aura-erp]
+- feat: menambahkan json ui editor - 4bd1e21 (Mohamad Supangat, 2025-12-02)
+#### [aura-whatsapp/WhatsApp]
+- fix: memperbaiki error pada pengambilan sample test dan random - 377a1ff (Mohamad Supangat, 2025-12-02)
+- feat: menampilkan configurasi dengan json editor - 261e7b2 (Mohamad Supangat, 2025-12-02)
+- fix: perbaikan metode pengambilan - 3b978c2 (Mohamad Supangat, 2025-12-02)
