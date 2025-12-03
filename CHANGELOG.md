@@ -4773,3 +4773,24 @@
 #### [aura-erp/aura-erp]
 - fix: fungsi generate qr tidak valid - 9b22f57 (Mohamad Supangat, 2025-12-02)
 - fix: watter mark menggunakan url bukan path - 6b21d8a (Mohamad Supangat, 2025-12-02)
+
+
+### 20251203.19.17
+
+
+#### [aura-erp/Administration]
+- Automated commit from script - ef138f4 (Mohamad Supangat, 2025-12-04)
+#### [aura-whatsapp/WhatsApp]
+- Automated commit from script - 01582a0 (Mohamad Supangat, 2025-12-04)
+#### [aura-erp/Student]
+- Automated commit from script - 0b1763a (Mohamad Supangat, 2025-12-04)
+#### [aura-erp/Guidance]
+- feat: riwayat pendampingan siswa - 1ee8cbc (Mohamad Supangat, 2025-12-04)
+- export data pendampingan - 8aba299 (Mohamad Supangat, 2025-12-04)
+- hapus data - c44918f (Mohamad Supangat, 2025-12-04)
+- memperbaiki halaman index - 8384287 (Mohamad Supangat, 2025-12-04)
+- menambhakan select student dari module asrama - 8a26fcf (Mohamad Supangat, 2025-12-04)
+- Merge branch 'pendampingan_siswa' - c838517 (Mohamad Supangat, 2025-12-04)
+- wip pendampingan siswa - 8d5ccfa (Mohamad Supangat, 2025-12-03)
+- wip pendampingan siswa - 6ebcbe6 (Mohamad Supangat, 2025-12-03)
+- wip: pembinanaan siswa - 07459ea (Mohamad Supangat, 2025-12-03)
