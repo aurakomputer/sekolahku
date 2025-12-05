@@ -4794,3 +4794,31 @@
 - wip pendampingan siswa - 8d5ccfa (Mohamad Supangat, 2025-12-03)
 - wip pendampingan siswa - 6ebcbe6 (Mohamad Supangat, 2025-12-03)
 - wip: pembinanaan siswa - 07459ea (Mohamad Supangat, 2025-12-03)
+
+
+### 20251205.04.52
+
+
+#### [aura-erp/aura-erp]
+- fix: select tag ordering harusnya by ascending - 0d04236 (Mohamad Supangat, 2025-12-04)
+- fix: component time and date picker - 2fd3e45 (Mohamad Supangat, 2025-12-04)
+#### [aura-erp/Document]
+- Automated commit from script - fb3cd8f (Mohamad Supangat, 2025-12-04)
+#### [aura-erp/School]
+- Automated commit from script - edecedd (Mohamad Supangat, 2025-12-04)
+#### [aura-whatsapp/WhatsApp]
+- remove unused - a7deb64 (Mohamad Supangat, 2025-12-05)
+- Automated commit from script - dae98a4 (Mohamad Supangat, 2025-12-04)
+#### [aura-erp/Student]
+- Automated commit from script - effafe2 (Mohamad Supangat, 2025-12-04)
+#### [aura-erp/Guidance]
+- feat: wali kelas - 29fe98c (Mohamad Supangat, 2025-12-05)
+- feat: print dokumen dari riwayat pendampingan siswa - dce69fe (Mohamad Supangat, 2025-12-05)
+- feat: menu print siswa - 8fc29d4 (Mohamad Supangat, 2025-12-04)
+- dialog untuk menampilkan riwayat pembinaan siswa - 79231bc (Mohamad Supangat, 2025-12-04)
+- Automated commit from script - d26e01c (Mohamad Supangat, 2025-12-04)
+- feat: lihat point siswa - d4db24a (Mohamad Supangat, 2025-12-04)
+- feat: master data point siswa - 4819d28 (Mohamad Supangat, 2025-12-04)
+- feat: print pendampingan siswa - ebf0a53 (Mohamad Supangat, 2025-12-04)
+- menampilkan riwayat pendampingan di halaman siswa - 1870faa (Mohamad Supangat, 2025-12-04)
+- fix: perijinan - b668dda (Mohamad Supangat, 2025-12-04)
