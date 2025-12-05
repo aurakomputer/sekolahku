@@ -4829,3 +4829,17 @@
 
 #### [aura-erp/Guidance]
 - fix: perbaikan data menu - 1169a04 (Mohamad Supangat, 2025-12-05)
+
+
+### 20251205.20.29
+
+
+#### [aura-erp/aura-erp]
+- fix; herlper has permissions dan has Role akan return true jika superadmin - 2579040 (Mohamad Supangat, 2025-12-06)
+#### [aura-erp/Student]
+- fix: perbaikan filtering hasClassIds - ce6e40e (Mohamad Supangat, 2025-12-06)
+- Automated commit from script - a6ba0e9 (Mohamad Supangat, 2025-12-05)
+#### [aura-erp/Guidance]
+- feat; memfilter data kelas - 37a95bb (Mohamad Supangat, 2025-12-06)
+- fix: penamabahan perijinan - 87d7bbe (Mohamad Supangat, 2025-12-06)
+- Automated commit from script - b784f9c (Mohamad Supangat, 2025-12-05)
