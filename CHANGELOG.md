@@ -4822,3 +4822,10 @@
 - feat: print pendampingan siswa - ebf0a53 (Mohamad Supangat, 2025-12-04)
 - menampilkan riwayat pendampingan di halaman siswa - 1870faa (Mohamad Supangat, 2025-12-04)
 - fix: perijinan - b668dda (Mohamad Supangat, 2025-12-04)
+
+
+### 20251205.07.22
+
+
+#### [aura-erp/Guidance]
+- fix: perbaikan data menu - 1169a04 (Mohamad Supangat, 2025-12-05)
