@@ -4843,3 +4843,14 @@
 - feat; memfilter data kelas - 37a95bb (Mohamad Supangat, 2025-12-06)
 - fix: penamabahan perijinan - 87d7bbe (Mohamad Supangat, 2025-12-06)
 - Automated commit from script - b784f9c (Mohamad Supangat, 2025-12-05)
+
+
+### 20251206.06.29
+
+
+#### [aura-erp/aura-erp]
+- feat: - bbfb145 (Mohamad Supangat, 2025-12-06)
+#### [aura-erp/RekapPembayaran]
+- menambahkan filte rkategori - 4707d0b (Mohamad Supangat, 2025-12-06)
+#### [aura-erp/Guidance]
+- feat - 3affdca (Mohamad Supangat, 2025-12-06)

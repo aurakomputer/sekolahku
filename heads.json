@@ -1,5 +1,5 @@
 {
-  "aura-erp/aura-erp": "25790402f47d9a2a3adc13c06db1f43be71aaa73",
+  "aura-erp/aura-erp": "bbfb14534ccbd7cfbb2b873a5334421b360afd8f",
   "aura-whatsapp/WhatsAppViolationPoint": "f328a26e2f1b059f7c413c0dae43bc88a603d602",
   "aura-whatsapp/WhatsAppStudent": "146bc172d1c6b270cf8efa7cfb23ab8336fc6c3e",
   "aura-whatsapp/WhatsApp": "a7deb64cd48e4a8e1b36e12fa69854a464623656",
@@ -22,10 +22,10 @@
   "aura-erp/School": "edecedd266eacea722377439edafe54496254e4f",
   "aura-erp/Document": "fb3cd8f6328f8c6964392ef90ac649b401081452",
   "aura-erp/PesantrenAsrama": "bfd7a81a84753ebafb7663985a8e6c38e43480c2",
-  "aura-erp/RekapPembayaran": "ef6cffde57d2ba44ca38a7d675c2f26c0c86ee8e",
+  "aura-erp/RekapPembayaran": "4707d0b19daa1da3fc2c920226e86f0a93829594",
   "aura-erp/SavingsBook": "a9f26d3ee28ae40909b4e8c18245a0e117e8de18",
   "aura-erp/StudentAttendance": "d67854a69aafb772a15d5539d0fd66eba3581ea0",
-  "aura-erp/Guidance": "37a95bbc1fb713a971b09b63e741cd2d7049a249",
+  "aura-erp/Guidance": "3affdcaf569e7d3c0b447c0ce566cdbfe805105e",
   "aura-erp/TeacherAttendance": "b650cb57ce23dea2df1d77599e09759c07270941",
   "aura-erp/KelasMuadalah": "30164f4b07c17bc1d35ba6cea4b31b731984496c",
   "aura-erp/StudentAcademicRecords": "42fe159b9e39c8ab33a8b77243e82ae6419c97c9"
