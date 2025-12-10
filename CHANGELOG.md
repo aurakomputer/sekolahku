@@ -4859,3 +4859,15 @@
 ### 20251206.06.36
 
 
+
+
+### 20251210.16.57
+
+
+#### [aura-erp/aura-erp]
+- feat: excel force to string - 383fff5 (Mohamad Supangat, 2025-12-10)
+#### [aura-erp/Student]
+- feat: migrasikan middleware dari controller ke routing - 9109e47 (Mohamad Supangat, 2025-12-10)
+- feat: force format cell menjadi string - f36923f (Mohamad Supangat, 2025-12-10)
+#### [aura-erp/Guidance]
+- feat: update - 149833c (Mohamad Supangat, 2025-12-06)
