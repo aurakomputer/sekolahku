@@ -204,5 +204,19 @@
     "repo": "https://gitlab.com/aura-erp/StudentAcademicRecords.git",
     "description": "Kelola Kelas Muadalah",
     "dependencies": ["Student", "Student"]
+  },
+  {
+    "name": "Integrasi FingerSpot",
+    "path": "FingerSpotIntegration",
+    "path_with_namespace": "aura-erp/FingerSpotIntegration",
+    "repo": "https://gitlab.com/aura-erp/FingerSpotIntegration.git",
+    "description": "Integrasi API Sekolahku dengan Mesin FingerSpot",
+    "dependencies": [
+      "Teacher",
+      "Student",
+      "StudentAttendance",
+      "TeacherAttendance",
+      "PesantrenAsrama"
+    ]
   }
 ]
