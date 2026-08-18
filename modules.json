@@ -218,5 +218,13 @@
       "TeacherAttendance",
       "PesantrenAsrama"
     ]
+  },
+  {
+    "name": "Gaji Guru",
+    "path": "Payroll",
+    "path_with_namespace": "aura-erp/Payroll",
+    "repo": "https://gitlab.com/aura-erp/Payroll.git",
+    "description": "Inventariasi data penggajian guru",
+    "dependencies": ["Teacher"]
   }
 ]
