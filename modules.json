@@ -226,5 +226,13 @@
     "repo": "https://gitlab.com/aura-erp/Payroll.git",
     "description": "Inventariasi data penggajian guru",
     "dependencies": ["Teacher"]
+  },
+  {
+    "name": "Event",
+    "path": "Event",
+    "path_with_namespace": "aura-erp/Event",
+    "repo": "https://gitlab.com/aura-erp/Event.git",
+    "description": "Inventariasi data peserta dan kehadiran pada sebuah acara",
+    "dependencies": ["Teacher", "Student"]
   }
 ]
