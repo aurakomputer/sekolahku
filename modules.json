@@ -234,5 +234,13 @@
     "repo": "https://gitlab.com/aura-erp/Event.git",
     "description": "Inventariasi data peserta dan kehadiran pada sebuah acara",
     "dependencies": ["Teacher", "Student"]
+  },
+  {
+    "name": "Penilaian Perkembangan Siswa",
+    "path": "StudentGrowth",
+    "path_with_namespace": "aura-erp/StudentGrowth",
+    "repo": "https://gitlab.com/aura-erp/StudentGrowth.git",
+    "description": "Kelola Rapor Perkembangan Siswa",
+    "dependencies": ["Teacher", "Student"]
   }
 ]
